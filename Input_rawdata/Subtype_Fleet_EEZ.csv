@@ -1,0 +1,14 @@
+Type,Class,LV_Type
+Fisheries mangt.,A1,EEZ
+Fishery R&D,A2,EEZ
+MPAs,A3,EEZ
+Boat constsruct. & renov.,B1,Fleet
+Fisheries dev. projects,B2,Fleet
+Fishing port develop.,B3,Fleet
+Markt. & storage infrast.,B4,Fleet
+Tax exemption,B5,Fleet
+Fishing access,B6,Fleet
+Fuel subsidies,B7,Fleet
+Fisher assistance,C1,Fleet
+Vessel buyback,C2,Fleet
+Rural fisher communities,C3,EEZ

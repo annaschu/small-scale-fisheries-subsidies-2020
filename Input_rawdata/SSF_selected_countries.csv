@@ -1,0 +1,181 @@
+﻿Country,Type,Subtype,Class,Amount,Comment,Currency,Year,Source,SSF percentage,SSF data type,SSF Comment
+Brazil,Tax,Non-Fuel tax exemptions,B5,1677128.5,"row 918 tax exemption for goods intended for fish processing, etc. (Tabatinga, etc.) assumed 1/8. (=13417028 / 8)",BRL,2018,CIAT (2018) Tax Expenditure Database of Latin America and the Caribbean (TEDLAC),0,2,"Mentions industrial products, i.e. assume all LSF (INDUSTRIAL PRODUCTS TAX - IMPORT-RELATED - IPI-LINKED)"
+Brazil,Tax,Non-Fuel tax exemptions,B5,292230294.2,"row 924 import tax exemption for goods intended for farming, fishing, etc. (Manaus) assumed 1/10. (=2922302942 / 10)",BRL,2018,CIAT (2018) Tax Expenditure Database of Latin America and the Caribbean (TEDLAC),0,2,"Mentions industrial products, i.e. assume all LSF INDUSTRIAL PRODUCTS TAX - IMPORT-RELATED - IPI-LINKED)"
+Brazil,Assistance,Unemployment insurance,C1,89040030,r30: Payment of unemployment insurance to the artisanal fisherman,BRL,2015,"OECD, Fisheries Support Estimate (stats.oecd.org/)",100,1,all directed at artisanal fishermen
+Brazil,Market Infrastructure,Marketing support,B4,241837955.5,r41: 1/2 of capital expenditures for production enhancement - half to aquaculture (=483675911 / 2),BRL,2015,"OECD, Fisheries Support Estimate (stats.oecd.org/)",0,2,"Description of storage and infrastructure sounds like large/industrial scale, no mention of artisanal or coastal i.e. assume all LSF"
+Brazil,Assistance,Worker adjustment and retraining,C1,1500000,"r50: Education and training for artisanal fishermen - different activities (organization, product quality, production, etc.)",BRL,2015,"OECD, Fisheries Support Estimate (stats.oecd.org/)",100,1,all to artisanal fishermen
+Brazil,Fuel,Fuel subsidies,B7,18617634,r22: Economic Subsidy for the Price of Diesel,BRL,2015,"OECD, Fisheries Support Estimate (stats.oecd.org/)",0,2,assume Diesel only for large inboard motors i.e excludes SSF
+Brazil,Market Infrastructure,Processing & storage infrastructure,B4,14522003,"r40: Capital expenditures for fishing port infrastructure, reception and storage of marine producs",BRL,2015,"OECD, Fisheries Support Estimate (stats.oecd.org/)",0,2,Description focus on large infrastructure i.e assume only LSF
+Brazil,Access,Access fees for third country agreements,B6,54151.86,Estimation based on secondary sources,USD,2018,"Pauly & Zeller (2015). Sea Around Us Concepts, Design and Data (seaaroundus.org); Belhabib et al. (2015), PlosOne.",0,na,by default 0% to SSF
+Chile,Rural,Rural fisheries community development,C3,4170000,Apoyo a Actividades Pesca Artesanal (FFPA),CLP,2018,Chile Informe de Ejecucion Trimestral Periodo 2018,100,1,All for Pesca Artesanal i.e. SSF
+Chile,Access,Access fees for third country agreements,B6,21449833.87,Estimation based on secondary sources,USD,2018,"Pauly & Zeller (2015). Sea Around Us Concepts, Design and Data (seaaroundus.org); Belhabib et al. (2015), PlosOne.",0,na,by default 0% to SSF
+Chile,Assistance,Worker adjustment and retraining,C1,1760000000,"See Chile FSE-Update, All Data tab:
+
+Programa de estudios técnicos de nivel superior para trabajadores y ex trabajadores de la Industria pesquera que hayan perdido su trabajo como consecuencia de la aplicación de la ley N°18.892; y becas de estudio para los hijos de los ex trabajadores"",Año 2018
+
+Programa de capacitación para trabajadores y ex trabajadores de la Industria Pesquera que hayan perdido su trabajo como consecuencia de la Aplicación de la Ley N°18.892, y becas de estudios para los Hijos de los Ex Trabajadores, Año 2018.",CLP,2018,"Programas de Subsidios y Otros Beneficios, Chile, 2018",0,1,Clearly refers to Fishing Industry i.e. excludes SSF
+Chile,Rural,Rural fisheries community development,C3,25000000,"See Chile FSE-Update, All Data tab
+
+Contribuir a la generación de condiciones y capacidades adecuadas que permitan a las unidades pesqueras artesanales fomentar el manejo sanitario de productos del mar, y ademas diversificar su actividad tradicional sobre la operación de recursos pesqueros, mediante el diseño de un producto turístico de la caleta Higuerillas.",CLP,2018,"Programas de Subsidios y Otros Beneficios, Chile, 2018",100,1,For pesca artesanal i.e. SSF
+Chile,Assistance,Unemployment insurance,C1,115000000,"See Chile FSE-Update, All Data tab:
+
+Programa de apoyo social para ex trabajadores de la industria pesquera que hayan perdido su trabajo como consecuencia de la aplicación de la ley N°18.892, Año 2017
+
+Programa de apoyo social para ex trabajadores de la industria pesquera que hayan perdido su trabajo como consecuencia de la aplicación de la ley N°18.892, Año 2018",CLP,2018,"Programas de Subsidios y Otros Beneficios, Chile, 2018",0,1,"All for Trabajadores en la Industria Pesquera, i.e. all worker in the LSF"
+Ghana,Assistance,Income support,C1,2064853.75,p35 marine fisheries resource management / 8 (for p34 social support for threatened fishing communities) (= 16518830 / 8),GHS,2018,Ghana Expenditure Framework 2018-2021,100,2,Fishing Communities assume SSF only
+Ghana,Assistance,Fisher assistance,C1,2064853.75,"p35 1/8 of marine fisheries resource management (= 16518830 / 8), for p34 livelihood empowerment schemes for fishers",GHS,2018,Ghana Expenditure Framework 2018-2021,100,2,"Assume all SSF, livelihood empowerment and poverty alleviation schemes e.g., see: https://www.tandfonline.com/doi/full/10.1080/23311886.2019.1627789"
+Ghana,Fishery Management,Fishery management programs & services,A1,2064853.75,p35 marine fisheries resource management / 8 (for p33 co-management systems and p34 fisheries management committees) (= 16518830 / 8),GHS,2018,Ghana Expenditure Framework 2018-2021,75,2,assume co-management is for SSF only and management committees for all sectors. 2064853.75/2 = 1032426.875 for co-management 100% SSF. and the other 1032426.875 are 50% SSF Therefore 75% of total = SSF
+Ghana,Rural,Rural fisheries community development,C3,2064853.75,p35 marine fisheries resource management / 8 (for p34 value chain development - small-scale landing sites) (= 16518830 / 8),GHS,2018,Ghana Expenditure Framework 2018-2021,100,1,small-scale landing sites = SSF
+Ghana,Market Infrastructure,"State investments in firms, cooperatives & parastatals",B4,417758.67,p63 1/3 of post harvest management / 2 (half to aquaculture) - for p61 'fisher based associations strengthened' (= 2506552 / 2 / 3),GHS,2018,Ghana Expenditure Framework 2018-2021,100,2,"After searching for Ghana fisher associations online only artisanal fisher projects come up, therefore assume all SSF"
+Ghana,Market Infrastructure,Processing & storage infrastructure,B4,835517.33,p63 2/3 of post harvest management / 2 (half to aquaculture) for p61 'improved technologies in fish handling' and 'improved processing technologies' (= 2506552 / 2 * 2/3),GHS,2018,Ghana Expenditure Framework 2018-2021,75,2,"'improved technologies in fish handling' directed at landing site, therefore all SSF other half 'improved processing technologies' could be either sector. = 75% SSF"
+Ghana,Assistance,Worker adjustment and retraining,C1,74287.43,p24 1/7 of policy; planning; budgeting; monitoring and evaluation (see p22 - 7 sub programmes. Relevant 'programmes for the improvement of livelihoods of the fisheries sector') (= 520012 / 7),GHS,2018,Ghana Expenditure Framework 2018-2021,100,2,livelihood programs directed at SSF
+Ghana,Fishery Management,Monitoring control & surveillance,A1,2064853.75,p35 marine fisheries resource management / 8 for p34 monitoring of closed season and FMIS etc. (= 16518830 / 8),GHS,2018,Ghana Expenditure Framework 2018-2021,0,2,"closed season and FMIS (Fisheries Management Information System) directed at trawl fisheries, therefore no SSF"
+Ghana,Fuel,Fuel subsidies,B7,61712280,"p9 48,978,000 liters of fuel distributed to 292 LBCs as of July 2017. Assumed for half the year since LBCs appear to be expanding - therefore should be more than the previous years which are p23 USAID 2016 SFMP subsidies. Price average taken from same page USAID document which is $0.63 / L. (=48978000 * 2 * 0.63)",USD,2017,Ghana Expenditure Framework 2018-2021,100,2,"This is all about distribution at beach landing sites, assume all SSF. In regard to LSF fuel subsidies: Based on Nunoo, F.K.E., et al.(2014). Marine fisheries catches in Ghana: historic reconstruction for 1950 to 2010 and
+current economic impacts. Reviews in Fisheries Science & Aquaculture 22(4): 274-283.  Fuel subsidies to distant water fleet was removed in 2001. "
+Ghana,Access,Access fees for third country agreements,B6,2053122.88,Estimation based on secondary sources,USD,2018,"Pauly & Zeller (2015). Sea Around Us Concepts, Design and Data (seaaroundus.org); Belhabib et al. (2015), PlosOne.",0,na,by default 0% to SSF
+Ghana,Tax,Non-Fuel tax exemptions,B5,15300000,p18 Tax Expenditure on VAT on domestic value addition - fishing,GHS,2013,Tax Expenditure Estimates 2016,51.5,na,Used catch data as proxy as no other values in West Africa Tax to model by. Fleet
+Ghana,Boat,"Boat / fleet construct., renewal, & modernization",B1,4486500,p21 estimated engine subsidy cost,USD,2016,USAID Sustainable Fisheries Management Project (2016) Subsidies in Ghana’s Marine Artisanal Fisheries Sector,100,1,all directed at outboard engines for artisanal fleet
+India,Assistance,Fisher assistance,C1,1000000,"A. The Budget allocations, net of recoveries and receipts. See cell Q38  in Excel spreadsheet 'DAF Budget 2017'. Package for Replacement of Fishing Vessels Seized by Pakistan",INR,2017,"Department of Animal Husbandry, Dairying, and Fisheries Budget 2017",0,2,"assume all LSF, as  SSF vessels are less likely to be seized by Pakistan."
+India,Assistance,Fisher assistance,C1,515300000,"Pages 2, 4, 6, 9, 12, 13, 17, 18, 19 Summary of all Fisher Assistance subsidies , see Data file sheet in ""India.xls"" file for exact information on each Union Territory or Agency Program",INR,2017,India WTO Subsidies Note-2018,94,2,"See Data India WTO sheet: Some entries within this subtype where no sector was mentioned, therefore some entries are weight by sector size using catch as proxy."
+India,Fuel,Fuel tax concessions,B7,5462980000,"Pages 3, 8, 10, 15, 15, 18 Summary of all Fuel Tax consessions , see Data file sheet in ""India.xls"" file for exact information on each Union Territory or Agency Program",INR,2017,India WTO Subsidies Note-2018,0,1,See Data India WTO sheet: all Diesel subsidies
+India,Fuel,Fuel subsidies,B7,289870000,"Pages 2, 3, 7, 11 Summary of all Fuel subsidies , see Data file sheet in ""India.xls"" file for exact information on each Union Territory or Agency Program",INR,2017,India WTO Subsidies Note-2018,100,1,See Data India WTO sheet: all for outboard motor fuels and for traditional fishermen
+India,Boat,"Boat / fleet construct., renewal, & modernization",B1,542380000,"Pages 3, 4, 6, 7, 11, 12, 13, 14, 15, 16, 17 ,18, 20, 21, 22, 23 Summary of all Boat subsidies , see Data file sheet in ""India.xls"" file for exact information on each Union Territory or Agency Program",INR,2017,India WTO Subsidies Note-2018,44,2,See Data India WTO sheet: a few entries (within the subtype) had no sector mentioned and therefor some were weight by sector size using catch as proxy
+India,Market Infrastructure,Processing & storage infrastructure,B4,52935000,"Page 24, 25, 26 Summary of all Processing and storage subsidies , see Data file sheet in ""India.xls"" file for exact information on each Union Territory or Agency Program",INR,2017,India WTO Subsidies Note-2018,0,1,See Data India WTO sheet: For large cold storage facilities
+India,Access,Access fees for third country agreements,B6,15971345.57,Estimation based on secondary sources,USD,2018,"Pauly & Zeller (2015). Sea Around Us Concepts, Design and Data (seaaroundus.org); Belhabib et al. (2015), PlosOne.",0,na,by default 0% to SSF
+Indonesia,Rural,Rural fisheries community development,C3,7.35552E+11,"p5,7,9 (see pivot table / government budget tab of Indonesia FSE Update)
+
+Alkom untuk POKWASMAS (- community group support)
+Community Assistance from PLN (IFAD) - rural fisher communities
+Human Resources Development and Community Empowerment Agency KP (BPSDMPKP)",IDR,2017,Indonesia Fisheries Ministry Budget 2017,100,1,Provided to rural fishing community
+Indonesia,Boat,"Boat / fleet construct., renewal, & modernization",B1,7.37631E+11,"p3 (see pivot table / government budget tab of Indonesia FSE Update)
+Fishing Vessel (0-30GT)
+Operational costs
+Procurement of non-island / non-SKPT (non integrated marine and fisheries centre) fishing equipment assistance packages
+Procurement of Fishing Boat Marking Facilities
+Fishing vessel (70GT)
+Fishing vessel (120GT)
+Fishing vessel (70GT)
+100 GT Fish Carrier Ship",IDR,2017,Indonesia Fisheries Ministry Budget 2017,20,2,Vessel 0-30 GT mentioned as one type of vessel out of 5 therefore assume 20% to SSF
+Indonesia,Fishery Development,Institutional support and services,B2,1.07759E+12,"p3,6,7,10 (see pivot table / government budget tab of Indonesia FSE Update)
+
+Construction of the Saumlaki SKPT (Integrated Marine and Fisheries Centre)
+Construction of the Natuna SKPT  (Integrated Marine and Fisheries Centre)
+Construction of the Nunukan SKPT  (Integrated Marine and Fisheries Centre)
+Development of Mentawai Island SKPT (marine and fisheries centre)
+Development of Kep. Talaud SKPT (marine and fisheries centre)
+Development of Morotai SKPT (marine and fisheries centre)
+Timika SKPT (integrated marine and fisheries centre) development
+Development of Biak Numfor SKPT  (integrated marine and fisheries centre)
+Mainly fish and fisheries product quality, health and safety",IDR,2017,Indonesia Fisheries Ministry Budget 2017,100,1,These integrated marine and fisheries centre that are being built are all meant to improve infrastructure for SSF
+Indonesia,Port,Port & harbour construction & renovation,B3,3.5038E+11,"p3,7 (see pivot table / government budget tab of Indonesia FSE Update)
+
+Construction and Development of Merauke Fisheries Port
+Construction and Development of UNtia Fisheries Port
+Construction and Development of Biru Fisheries Port
+Construction and Development of Jayanti Fisheries Port
+Construction and Development of Pangandaran Fisheries Port
+carry over payment for 2015 TA Fisheries Port Construction activities 
+Development of Ocean Fisheries Port Nizam Zachman (Muara Baru)
+Development of Bitung Ocean Fisheries Port
+Development of Archipelago Fishing Fisheries Port
+Buoyancy / Floating Jetty Infrastructure Development in Small Islands",IDR,2017,Indonesia Fisheries Ministry Budget 2017,62.5,2,"Mentioned fishing ports are assumed to used as follows:
+Merauke, Untia, Biru, Bitung and Nizam Zachman (Muara Baru) -> by both sectors SSF and LSF
+Jayanti and Pangandara -> mainly SSF
+Buoyancy / Floating Jetty Infrastructure Development in Small Islands --> mainly SSF
+6 Structures i.e. 75% are for both sectors i.e. 75/2 =  37.5 % for SSF
+2 Structures completely for SSF i.e the other 25% are only for SSF
+-> 37.5 + 25  = 62.5 % out of the total is for SSF
+"
+Indonesia,Market Infrastructure,Processing & storage infrastructure,B4,1.24793E+12,"p6,7 (see pivot table / government budget tab of Indonesia FSE Update)
+
+Salary, Tukin, Contract Power Honor, Office Operations, Honor Satker, Honor Activity
+Fishing Vessel (0-30GT)
+Operational costs
+Procurement of non-island / non-SKPT (non integrated marine and fisheries centre) fishing equipment assistance packages
+Procurement of Fishing Boat Marking Facilities
+Fishing vessel (70GT)
+Fishing vessel (120GT)
+Fishing vessel (70GT)
+100 GT Fish Carrier Ship",IDR,2017,Indonesia Fisheries Ministry Budget 2017,20,2,"Describes 0-30 GT vessels which are mentioned once out of 5 different vessel types, therefore assume 20% goes to SSF"
+Indonesia,Boat,"Boat / fleet construct., renewal, & modernization",B1,1.375E+11,"Improving the welfare of small fishers with limited business capital;
+- Providing access to utilize the potential of fish resources while remain maintaining the sustainability of fish resources. -All eligible small fishers. The subsidy is provided in The form of fishing vessel, fishing vessels machines, and environmentally friendly fishing gears. Provided from 2015-2018 i.e. 4 years: total amount 550 billion / 4 = 137.5 billion IDR per year. ""The Fishing Ship Vessels Construction Program""  Page 4.",IDR,2018,Indonesia WTO notification 2019,100,1,"""All eligible small fishers"""
+Indonesia,Market Infrastructure,Processing & storage infrastructure,B4,1.03375E+11,"To preserve the quality of fish; To strengthen distribution, availability, and accessibility of fish for local consumption. The Regulation of Minister of Marine Affairs and Fisheries No.5/2014 concerning National Fish Logistics System (SLIN). The subsidy is provided to all eligible fishers, in particular those who are in remote areas, in the form of cold chain system facilities and infrastructure. provided from 2015-2018 i.e. 4 years: total amount 413.5 billion / 4 = 103.375 billion IDR per year. Page 2-3.",IDR,2018,Indonesia WTO notification 2019,100,1,Provided to fishers in remote areas - assume SSF only
+Indonesia,Market Infrastructure,Processing & storage infrastructure,B4,4.56667E+11,"The subsidy program aims to improve the welfare of small fishers, fish farmers, and processor and marketers who have limitations to increase their business capacity. All eligible small fishers, fish farmers, and processor and marketers. The subsidy is provided through direct cash transfer to recipients to enable recipients purchasing facilities and infrastructure in order to improve their business. provided from 2011-2013 i.e., 3 years IDR 1.37 trillion / 3 =  456.67 billion IDR per year. Page 4-5.",IDR,2013,Indonesia WTO notification 2019,100,1,Program name is rural - assume all SSF
+Indonesia,Assistance,Fisher assistance,C1,61000000000,To introduce the advantages of fishers insurance regarding risk protection for fishing accidents at sea; To promote awareness for fishers on the importance of insurance; To encourage self-insurance.The subsidy is provided to small fishers (< 10 GT); small fishers who have a valid fisher card (KUSUKA); and small fishers who do not use prohibited fishing gears. The payment of life insurance premium will be only provided for the first year. provided from 2016 -2018 i.e. 3 years IDR 183 billion / 3 = 61 billion IDR. Page 5-6.,IDR,2018,Indonesia WTO Subsidy notification 2019,100,1,Provided to small fisher - all SSF
+Indonesia,Access,Access fees for third country agreements,B6,1019127.28,Estimation based on secondary sources,USD,2018,"Pauly & Zeller (2015). Sea Around Us Concepts, Design and Data (seaaroundus.org); Belhabib et al. (2015), PlosOne.",0,na,by default 0% to SSF
+Jamaica,Fishery Management,Monitoring control & surveillance,A1,34297000,p1 (p.718 original file) cost of fishery compliance and licensing,JMD,2018,"Jamaica, Estimates of Expenditure for 2018/19",100,na,"based on seaaroundus only SSF in jamaica
+"
+Jamaica,Fishery Management,Fishery management programs & services,A1,181300000,"p3 (p.755 original file) total fisheries programme cost, minus aquaculture (=245929000 - 64629000)",JMD,2018,"Jamaica, Estimates of Expenditure for 2018/19",100,na,"based on seaaroundus only SSF in jamaica
+"
+Jamaica,Fishery Management,Fishery management programs & services,A1,7720000,p2 (p.746 original file) Caribbean Regional Fisheries Mechanism,JMD,2018,"Jamaica, Estimates of Expenditure for 2018/19",100,na,"based on seaaroundus only SSF in jamaica
+"
+Jamaica,Rural,Rural fisheries community development,C3,37689000,"p4 / p5 (p.776 and p.778 original file) Promoting Community based climate resilience in the fisheries sector - split half to rural, half to stock enhancement (=75378000 / 2)",JMD,2018,"Jamaica, Estimates of Expenditure for 2018/19",100,2,rural = SSF
+Jamaica,Fishery Management,Stock enhancement,A1,37689000,"p4 / p5 (p.776 and p.778 original file) Promoting Community based climate resilience in the fisheries sector - split half to rural, half to stock enhancement (=75378000 / 2)",JMD,2018,"Jamaica, Estimates of Expenditure for 2018/19",100,2,Community-based = SSF
+Jamaica,Tax,Non-Fuel tax exemptions,B5,128220000,p31 1/2 of agriculture & fishing first schedule (zero-rating) 2017 (=256440000 / 2),JMD,2018,"Jamaica, Tax Expenditure Statement 2019",100,na,"based on seaaroundus only SSF in jamaica
+"
+Jamaica,Tax,Non-Fuel tax exemptions,B5,113180000,p31 1/2 of agriculture & fishing third schedule 2017 (=226360000 / 2),JMD,2018,"Jamaica, Tax Expenditure Statement 2019",100,na,"based on seaaroundus only SSF in jamaica
+"
+Jamaica,Tax,Non-Fuel tax exemptions,B5,12980000,p48 1/2 of agriculture and fishing customs act second schedule 2017 (=25960000 / 2),JMD,2018,"Jamaica, Tax Expenditure Statement 2019",100,na,"based on seaaroundus only SSF in jamaica
+"
+Jamaica,Fishery Management,Fishery management programs & services,A1,5015293,taken from database,USD,2017,"OECDStat, Overseas Development Aid, Fisheries Policy & Management",100,na,"based on seaaroundus only SSF in jamaica
+"
+Peru,Market Infrastructure,Processing & storage infrastructure,B4,37596603,r38 Infrastructure construction,PEN,2015,"OECD, Fisheries Support Estimate (stats.oecd.org/)",0,2,"SSF has it's special fund FONDEPES, therefore assume other subsidies are directed at LSF"
+Peru,Market Infrastructure,Processing & storage infrastructure,B4,18369675,"r39 Repair and maintenance - Strengthening of artisanal fishing, improvement of artisanal fishing landing services",PEN,2015,"OECD, Fisheries Support Estimate (stats.oecd.org/)",100,1,FONDEPES - all SSF
+Peru,Fishery Management,Fishery management programs & services,A1,57610343,r61 Management expenditures,PEN,2015,"OECD, Fisheries Support Estimate (stats.oecd.org/)",28,2,"Management costs by Fondo Nacional de Desarrollo Pesquero - PEN6,729,885 100%
+Management costs by Instituto del Mar del Perú (IMARPE) PEN18,981,694 - 18% based on sector size
+Management costs by Ministerio de la Producción PEN1,443,621 - 18% based on sector size
+Management costs by regional governments PEN15,476,483 - 18% based on sector size
+Management costs by Instituto Tecnológico de Pesca/Producción PEN11,613,060 - 18% based on sector size"
+Peru,Fishery Development,Institutional support and services,B2,5106111,"r53 Artisanal fishermen trained - different fishing activities (organization, product quality, etc.)",PEN,2015,"OECD, Fisheries Support Estimate (stats.oecd.org/)",100,1,all artisanal fisheries
+Peru,Fishery Development,Institutional support and services,B2,20084622,"r73 Miscellaneous transfers to general services (pre-investment studies, support to artisanal fisheries (improved regulations, statistics), technology transfer)",PEN,2015,"OECD, Fisheries Support Estimate (stats.oecd.org/)",60,2,"Pre-investment and pre-feasibility studies, others studies	PEN8,400,034, -> 18% based on sector size (EEZ)
+Support for the development of artisanal fisheries 10,217,691 -> 100% all Artisanal
+Technology transfer 1,466,897 -> 23% based on sector size (Fleet)"
+Peru,Assistance,Assistance-Other,C1,8261171,r17 Drawback exports (refunds to import taxes),PEN,2015,"OECD, Fisheries Support Estimate (stats.oecd.org/)",0,1,"Based on goods being exported, i.e assume no SSF catches are for export"
+Peru,Rural,Rural fisheries community development,C3,3054629,r26 Financial support artisanal fishing,PEN,2015,"OECD, Fisheries Support Estimate (stats.oecd.org/)",100,1,all artisanal - >SSF
+Peru,Rural,Rural fisheries community development,C3,1164227,r51 Various support to regions and fishing communities,PEN,2015,"OECD, Fisheries Support Estimate (stats.oecd.org/)",100,2,all artisanal fishing communities - >SSF
+Peru,Market Infrastructure,Marketing support,B4,41623115,r41 Marketing and promotion,PEN,2015,"OECD, Fisheries Support Estimate (stats.oecd.org/)",31,2,"Fishermen with best practices of direct marketing FONDEPES	7,341,821 -> 100%
+Fishing promotion	1,217,451 -> 23% based on sector (fleet) size
+Promotion of direct human consumption of fish 9,790,831 -> 0% No SSF fish is made into products not for direct human consumption i.e. all subsidies must be for LSF
+Management costs by Organismo nacional de Sanidad pesquera (SANIPES)	8,281,260 ->  23% based on sector (fleet) size"
+Peru,Market Infrastructure,Processing & storage infrastructure,B4,610045,r50 Improvement of conditions in places of landings and improvement of food safety rules,PEN,2015,"OECD, Fisheries Support Estimate (stats.oecd.org/)",100,1,For artisanal fisheries landing sites (FONDEPES)
+Peru,R&D,R&D,A2,67217235,r54 Research and development,PEN,2015,"OECD, Fisheries Support Estimate (stats.oecd.org/)",19,2,"Applied scientific research Instituto del Mar del Perú (IMARPE)	56,521,540 -> based on sector size 18% (EEZ)
+Studies of contaminat sea water, ice and drinking water used in artisanl fisheries	481,106 -> 100% SSF
+Studies with data from the fisheries sector	17,519 -> 23% based on sector (fleet) size
+Transformation and conservation of seafood 10,197,070 -> 23% based on sector (fleet) size"
+Peru,Access,Access fees for third country agreements,B6,63405.52,Estimation based on secondary sources,USD,2018,"Pauly & Zeller (2015). Sea Around Us Concepts, Design and Data (seaaroundus.org); Belhabib et al. (2015), PlosOne.",0,na,by default 0% to SSF
+Senegal,Fuel,Fuel subsidies,B7,9683693000,p44 tableau 4 for 2017,CFA,2017,Ndiaye (2018) Etude Sur Les Subventions Dans Le Secteur De La Peche Au Senegal (Draft),100,1,"100% for SSF: "" fuel tax-free is bought by artisanal fishing boats"""
+Senegal,Access,Access fees for third country agreements,B6,44711296.53,Estimation based on secondary sources,USD,2018,"Pauly & Zeller (2015). Sea Around Us Concepts, Design and Data (seaaroundus.org); Belhabib et al. (2015), PlosOne.",0,na,by default 0% to SSF
+Senegal,Boat,"Boat / fleet construct., renewal, & modernization",B1,4262000000,p26 programme motorisation pirogue - not found in loi de finance rectificative!,CFA,2018,Senegal Loi de Finance 2018,100,1,"Pirogue - canoes, only SSF"
+Senegal,Port,Port & harbour construction & renovation,B3,6373000000,p82 projet de developpement du port de ziguinchor,CFA,2018,Senegal Loi de Finance Rectificative 2018,0,2,Found some news articles showing the port build to be for industrial use. With ODA from Netherlands and UK.e.g. http://www.faapa.info/senegal-les-travaux-de-construction-du-port-de-peche-de-boudody-vont-etre-bientot-lances/ 
+Senegal,Port,Port & harbour construction & renovation,B3,6100000000,p82 Projet de mise en place di'infrastructures portuaires,CFA,2018,Senegal Loi de Finance Rectificative 2018,0,2,"assume industrial only as landing sites for SSF, Canoes don't use ports"
+Senegal,Port,Port & harbour construction & renovation,B3,500000000,p82 projet de modernisation du parc piroguier,CFA,2018,Senegal Loi de Finance Rectificative 2018,100,1,modernization of pirogues = wooden canoes
+Bangladesh,R&D,R&D,A2,635496750,"p.6 revised 2017-18 development budget for ministry of fisheries and livestock, split in half * 15.42% marine fisheries from p97 of TPR (=8242500000 / 2 * 0.1542)",BDT,2018,"Bangladesh National Expenditure, 2017/18",,na,no sector mentioned
+Bangladesh,Fishery Management,Fishery management programs & services,A1,722650975.5,"p.2 revised 2017-18 budget for ministry of fisheries and livestock, split in half  * 15.42% marine fisheries from p97 of TPR (=9372905000 / 2 * 0.1542)",BDT,2018,"Bangladesh National Operating Expenditure, 2017/18",,na,no sector mentioned
+Bangladesh,MPAs,MPAs,A3,2891905.89,Estimated annual maintenance cost,USD,2005,"Marine Conservation Institute (2018), MPAtlas; World Database on Protected Areas (WDPA); McCrea-Strub et al. (2011) Understanding the cost of establishing marine protected areas. Mar. Pol.",,,
+Bangladesh,Fishery Management,Fishery management programs & services,A1,60734,taken from database,USD,2016,"OECDStat, Overseas Development Aid, Fisheries Policy & Management",,na,no sector mentioned
+Bangladesh,Assistance,Assistance-Other,C1,47308800,"p5 224,000 fishers getting 40kg of rice a month at $0.44 / kg (from Tridge Rice Prices). (=224000 * 40 * 12 * 0.44)",USD,2018,The Third Pole (2018) Bangladesh Saves Its Favourite Fish,100,1,negligible amount of LSF Hilsa fishery in Bangladessh
+Bangladesh,Market Infrastructure,Marketing support,B4,530756400,p54: 2017/18 cash incentive for frozen shrimp and fish of 344.2 crores * 15.42% marine fisheries from p97 (=344.2 * 10000000 * 0.1542),BDT,2018,"WTO Trade Policy Review Annual Report, 2019",0,2,assume main Bangaldesh SSF catch is not for export i.e. all LSF
+Mozambique,MPAs,MPAs,A3,1011624.89,Estimated annual maintenance cost,USD,2005,"Marine Conservation Institute (2018), MPAtlas; World Database on Protected Areas (WDPA); McCrea-Strub et al. (2011) Understanding the cost of establishing marine protected areas. Mar. Pol.",,na,no sector mentioned
+Mozambique,Fishery Management,Fishery management programs & services,A1,178439470,"p4 Ministerio do Mar, Aguas Interiores e Pescas - assumed half to aquaculture / inland fisheries (=356878940 / 2)",MZN,2018,Mozambique Orcamento do Estado para o Ano de 2018 Despesas Para Investimento,,na,no sector mentioned
+Mozambique,Fishery Management,Fishery management programs & services,A1,24060470,"p4 Ministerio do Mar, Aguas Interiores e Pescas - assumed half to aquaculture / inland fisheries (=48120940 / 2)",MZN,2018,Mozambique Orzamento do Estado para o Ano de 2018 Despesas Para Funcionamento,,na,no sector mentioned
+Mozambique,Fishery Development,Institutional support and services,B2,9121010,p4 Escola Da Pesca - assumed half to aquaculture (=18242020 / 2),MZN,2018,Mozambique Orzamento do Estado para o Ano de 2018 Despesas Para Funcionamento,,na,no sector mentioned
+Mozambique,Fishery Management,Fishery management programs & services,A1,11387040,p4 administracao nacional das pescas - assumed half to aquaculture (=22774080 / 2),MZN,2018,Mozambique Orzamento do Estado para o Ano de 2018 Despesas Para Funcionamento,,na,no sector mentioned
+Mozambique,Fishery Development,Development grants for fishery projects,B2,11761815,p4 fundo de fomento pesqueiro - assumed half to aquaculture (=23523630 / 2),MZN,2018,Mozambique Orzamento do Estado para o Ano de 2018 Despesas Para Funcionamento,,na,no sector mentioned
+Mozambique,Fishery Development,Institutional support and services,B2,17593240,p4 instituto nacional de inspeccao do pescado - assumed half to aquaculture (=35186480 / 2),MZN,2018,Mozambique Orzamento do Estado para o Ano de 2018 Despesas Para Funcionamento,,na,no sector mentioned
+Mozambique,R&D,R&D,A2,15589200,p4 instituto nacional de investigacao pesqueira - assumed half to aquaculture (=31178400 / 2),MZN,2018,Mozambique Orzamento do Estado para o Ano de 2018 Despesas Para Funcionamento,,na,no sector mentioned
+Mozambique,Fishery Development,Development grants for fishery projects,B2,16078580,p4 instituto nacional de desenvolvimento de pesca e aquacultura - assumed half to aquaculture (=32157160 / 2),MZN,2018,Mozambique Orzamento do Estado para o Ano de 2018 Despesas Para Funcionamento,,na,no sector mentioned
+Mozambique,Fishery Management,Fishery management programs & services,A1,10970985,p4 administracao nacional das pescas - assumed half to aquaculture (=21941970 / 2),MZN,2018,Mozambique Orzamento do Estado para o Ano de 2018 Despesas Para Investimento,,na,no sector mentioned
+Mozambique,R&D,R&D,A2,17805565,p4 instituto nacional de investigacao pesqueira - assumed half to aquaculture (=35611130 / 2),MZN,2018,Mozambique Orzamento do Estado para o Ano de 2018 Despesas Para Investimento,,na,no sector mentioned
+Mozambique,Fishery Development,Development grants for fishery projects,B2,63134895,p4 fundo de fomento pesqueiro - assumed half to aquaculture (=126269790 / 2),MZN,2018,Mozambique Orzamento do Estado para o Ano de 2018 Despesas Para Investimento,,na,no sector mentioned
+Mozambique,Fishery Development,Development grants for fishery projects,B2,338086030,p4 instituto nacional de desenvolvimento de pesca e aquacultura - assumed half to aquaculture (=676172060 / 2),MZN,2018,Mozambique Orzamento do Estado para o Ano de 2018 Despesas Para Investimento,,na,no sector mentioned
+Mozambique,Fishery Development,Institutional support and services,B2,27956805,p4 instituto nacional de inspeccao do pescado - assumed half to aquaculture (=55913610 / 2),MZN,2018,Mozambique Orzamento do Estado para o Ano de 2018 Despesas Para Investimento,,na,no sector mentioned
+Mozambique,Fishery Development,Institutional support and services,B2,2737500,p4 Escola Da Pesca - assumed half to aquaculture (=5475000 / 2),MZN,2018,Mozambique Orzamento do Estado para o Ano de 2018 Despesas Para Investimento,,na,no sector mentioned
+Mozambique,Fishery Management,Fishery management programs & services,A1,5133022,taken from database,USD,2017,"OECDStat, Overseas Development Aid, Fisheries Policy & Management",,na,no sector mentioned
+Mozambique,Assistance,Worker adjustment and retraining,C1,8781,taken from database,USD,2017,"OECDStat, Overseas Development Aid, Fisheries Training",78,na,based on seaaroundus.org catch data (needed extra data point here for the model)
+Mozambique,Fishery Development,Development grants for fishery projects,B2,278811,taken from database,USD,2017,"OECDStat, Overseas Development Aid, Fishery Development",,na,no sector mentioned
+Mozambique,Fishery Management,Fishery management programs & services,A1,308833.33,"p5 cofinancing jsdf mozambique, per year (6 year project) (=1853000 / 6)",USD,2018,SWIOFish1 World Bank Appraisal GEF Data Sheet,,na,no sector mentioned
+Mozambique,Fishery Management,Fishery management programs & services,A1,1166666.67,"p5 grant amount mozambique, per year (6 year project) (=7000000 / 6)",USD,2018,SWIOFish1 World Bank Appraisal GEF Data Sheet,0,1,Grant to manage international waters assume zero benefits to SSF.
+Mozambique,Fishery Management,Fishery management programs & services,A1,2030311.11,"p5 1/3 of cofinancing regional, per year (6 year project) - MINUS marketing entry, which is drawn from cofinancing so subtracted the gross number (=(43445600 / 3 / 6) - 383333.33)",USD,2018,SWIOFish1 World Bank Appraisal GEF Data Sheet,,na,no sector mentioned
+Mozambique,Fishery Management,Fishery management programs & services,A1,866666.67,"p5 cofinancing ndf mozambique, per year (6 year project) (=5200000 / 6)",USD,2018,SWIOFish1 World Bank Appraisal GEF Data Sheet,,na,no sector mentioned
+Mozambique,Fishery Management,Fishery management programs & services,A1,61111.11,"p5 1/3 of cofinancing dgf, per year (6 year project) (=1100000 / 6 / 3)",USD,2018,SWIOFish1 World Bank Appraisal GEF Data Sheet,,na,no sector mentioned
+Mozambique,Market Infrastructure,Marketing support,B4,383333.33,"p3 1/3 of component 3, which is marketing, per year (6 year project) (=6900000 / 6 / 3)",USD,2018,SWIOFish1 World Bank Appraisal GEF Data Sheet,92,2,Mentions two objectives: 1. Small-scale fish landing site infrastructure and 2. Strengthened quality control systems -> assume 1. 100% and 2. weighted by sector size using catch data i.e 84% SSF. Therefore assume the total to SSF = 92%

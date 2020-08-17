@@ -1,0 +1,1981 @@
+RegionName,Country,Class,Category,Type,Constant 2018 USD,Data Type
+Africa,Algeria,A1,Beneficial,Fisheries mangt.,1629280.79,Reported
+Africa,Algeria,A2,Beneficial,Fishery R&D,4529977.646,Reported
+Africa,Algeria,A3,Beneficial,MPAs,508033.9447,Modeled
+Africa,Algeria,B1,Capacity-enhancing,Boat constsruct. & renov.,43901678.58,Reported
+Africa,Algeria,B2,Capacity-enhancing,Fisheries dev. projects,25878295.63,Reported
+Africa,Algeria,B3,Capacity-enhancing,Fishing port develop.,31776201.77,Reported
+Africa,Algeria,B4,Capacity-enhancing,Markt. & storage infrast.,55303477.09,Reported
+Africa,Algeria,B5,Capacity-enhancing,Tax exemption,0,not found evidence of subsidy
+Africa,Algeria,B6,Capacity-enhancing,Fishing access,0,not found evidence of subsidy
+Africa,Algeria,B7,Capacity-enhancing,Fuel subsidies,51563511.22,Modeled
+Africa,Algeria,C1,Ambiguous,Fisher assistance,3822168.638,Reported
+Africa,Algeria,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+Africa,Algeria,C3,Ambiguous,Rural fisher communities,9191270.444,Reported
+Africa,Angola,A1,Beneficial,Fisheries mangt.,7402331.289,Reported
+Africa,Angola,A2,Beneficial,Fishery R&D,216102.8855,Reported
+Africa,Angola,A3,Beneficial,MPAs,0,not found evidence of subsidy
+Africa,Angola,B1,Capacity-enhancing,Boat constsruct. & renov.,12842685.77,Reported
+Africa,Angola,B2,Capacity-enhancing,Fisheries dev. projects,6528959.537,Reported
+Africa,Angola,B3,Capacity-enhancing,Fishing port develop.,3484958.702,Reported
+Africa,Angola,B4,Capacity-enhancing,Markt. & storage infrast.,5855177.318,Reported
+Africa,Angola,B5,Capacity-enhancing,Tax exemption,12077126.52,Modeled
+Africa,Angola,B6,Capacity-enhancing,Fishing access,377318.47,Modeled
+Africa,Angola,B7,Capacity-enhancing,Fuel subsidies,1883821.395,Modeled
+Africa,Angola,C1,Ambiguous,Fisher assistance,653698.2873,Reported
+Africa,Angola,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+Africa,Angola,C3,Ambiguous,Rural fisher communities,3679027.916,Reported
+Africa,Benin,A1,Beneficial,Fisheries mangt.,9232292.617,Reported
+Africa,Benin,A2,Beneficial,Fishery R&D,451720.0195,Modeled
+Africa,Benin,A3,Beneficial,MPAs,0,not found evidence of subsidy
+Africa,Benin,B1,Capacity-enhancing,Boat constsruct. & renov.,0,not found evidence of subsidy
+Africa,Benin,B2,Capacity-enhancing,Fisheries dev. projects,1121835.021,Reported
+Africa,Benin,B3,Capacity-enhancing,Fishing port develop.,0,not found evidence of subsidy
+Africa,Benin,B4,Capacity-enhancing,Markt. & storage infrast.,0,not found evidence of subsidy
+Africa,Benin,B5,Capacity-enhancing,Tax exemption,0,not found evidence of subsidy
+Africa,Benin,B6,Capacity-enhancing,Fishing access,0,not found evidence of subsidy
+Africa,Benin,B7,Capacity-enhancing,Fuel subsidies,0,not found evidence of subsidy
+Africa,Benin,C1,Ambiguous,Fisher assistance,0,not found evidence of subsidy
+Africa,Benin,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+Africa,Benin,C3,Ambiguous,Rural fisher communities,232400.3112,Modeled
+Africa,Cameroon,A1,Beneficial,Fisheries mangt.,5131498.144,Reported
+Africa,Cameroon,A2,Beneficial,Fishery R&D,609560.6984,Modeled
+Africa,Cameroon,A3,Beneficial,MPAs,1475377.546,Modeled
+Africa,Cameroon,B1,Capacity-enhancing,Boat constsruct. & renov.,655684.3985,Modeled
+Africa,Cameroon,B2,Capacity-enhancing,Fisheries dev. projects,17023910.09,Reported
+Africa,Cameroon,B3,Capacity-enhancing,Fishing port develop.,0,not found evidence of subsidy
+Africa,Cameroon,B4,Capacity-enhancing,Markt. & storage infrast.,0,not found evidence of subsidy
+Africa,Cameroon,B5,Capacity-enhancing,Tax exemption,1288360.776,Modeled
+Africa,Cameroon,B6,Capacity-enhancing,Fishing access,538959.66,Modeled
+Africa,Cameroon,B7,Capacity-enhancing,Fuel subsidies,0,not found evidence of subsidy
+Africa,Cameroon,C1,Ambiguous,Fisher assistance,0,not found evidence of subsidy
+Africa,Cameroon,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+Africa,Cameroon,C3,Ambiguous,Rural fisher communities,0,not found evidence of subsidy
+Africa,Cape Verde,A1,Beneficial,Fisheries mangt.,2405245.315,Reported
+Africa,Cape Verde,A2,Beneficial,Fishery R&D,322245.4956,Modeled
+Africa,Cape Verde,A3,Beneficial,MPAs,0,not found evidence of subsidy
+Africa,Cape Verde,B1,Capacity-enhancing,Boat constsruct. & renov.,797687.9776,Modeled
+Africa,Cape Verde,B2,Capacity-enhancing,Fisheries dev. projects,1648340.528,Reported
+Africa,Cape Verde,B3,Capacity-enhancing,Fishing port develop.,0,not found evidence of subsidy
+Africa,Cape Verde,B4,Capacity-enhancing,Markt. & storage infrast.,13304053.89,Modeled
+Africa,Cape Verde,B5,Capacity-enhancing,Tax exemption,1567385.017,Modeled
+Africa,Cape Verde,B6,Capacity-enhancing,Fishing access,1221567.68,Modeled
+Africa,Cape Verde,B7,Capacity-enhancing,Fuel subsidies,704134.0583,Modeled
+Africa,Cape Verde,C1,Ambiguous,Fisher assistance,0,not found evidence of subsidy
+Africa,Cape Verde,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+Africa,Cape Verde,C3,Ambiguous,Rural fisher communities,0,not found evidence of subsidy
+Africa,Comoros,A1,Beneficial,Fisheries mangt.,3311832.347,Reported
+Africa,Comoros,A2,Beneficial,Fishery R&D,127232.6209,Modeled
+Africa,Comoros,A3,Beneficial,MPAs,0,not found evidence of subsidy
+Africa,Comoros,B1,Capacity-enhancing,Boat constsruct. & renov.,0,not found evidence of subsidy
+Africa,Comoros,B2,Capacity-enhancing,Fisheries dev. projects,6050083.932,Modeled
+Africa,Comoros,B3,Capacity-enhancing,Fishing port develop.,47644064,Reported
+Africa,Comoros,B4,Capacity-enhancing,Markt. & storage infrast.,383333.33,Reported
+Africa,Comoros,B5,Capacity-enhancing,Tax exemption,0,not found evidence of subsidy
+Africa,Comoros,B6,Capacity-enhancing,Fishing access,1622522.98,Modeled
+Africa,Comoros,B7,Capacity-enhancing,Fuel subsidies,0,not found evidence of subsidy
+Africa,Comoros,C1,Ambiguous,Fisher assistance,0,not found evidence of subsidy
+Africa,Comoros,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+Africa,Comoros,C3,Ambiguous,Rural fisher communities,65458.46857,Modeled
+Africa,Congo Dem Rep,A1,Beneficial,Fisheries mangt.,2842892.895,Modeled
+Africa,Congo Dem Rep,A2,Beneficial,Fishery R&D,0,not found evidence of subsidy
+Africa,Congo Dem Rep,A3,Beneficial,MPAs,439062.5749,Modeled
+Africa,Congo Dem Rep,B1,Capacity-enhancing,Boat constsruct. & renov.,0,not found evidence of subsidy
+Africa,Congo Dem Rep,B2,Capacity-enhancing,Fisheries dev. projects,302615.391,Reported
+Africa,Congo Dem Rep,B3,Capacity-enhancing,Fishing port develop.,0,not found evidence of subsidy
+Africa,Congo Dem Rep,B4,Capacity-enhancing,Markt. & storage infrast.,0,not found evidence of subsidy
+Africa,Congo Dem Rep,B5,Capacity-enhancing,Tax exemption,0,not found evidence of subsidy
+Africa,Congo Dem Rep,B6,Capacity-enhancing,Fishing access,0,not found evidence of subsidy
+Africa,Congo Dem Rep,B7,Capacity-enhancing,Fuel subsidies,0,not found evidence of subsidy
+Africa,Congo Dem Rep,C1,Ambiguous,Fisher assistance,0,not found evidence of subsidy
+Africa,Congo Dem Rep,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+Africa,Congo Dem Rep,C3,Ambiguous,Rural fisher communities,0,not found evidence of subsidy
+Africa,Congo Republic,A1,Beneficial,Fisheries mangt.,408629.1227,Reported
+Africa,Congo Republic,A2,Beneficial,Fishery R&D,631605.1949,Modeled
+Africa,Congo Republic,A3,Beneficial,MPAs,312560.1748,Modeled
+Africa,Congo Republic,B1,Capacity-enhancing,Boat constsruct. & renov.,0,not found evidence of subsidy
+Africa,Congo Republic,B2,Capacity-enhancing,Fisheries dev. projects,331981.5699,Reported
+Africa,Congo Republic,B3,Capacity-enhancing,Fishing port develop.,0,not found evidence of subsidy
+Africa,Congo Republic,B4,Capacity-enhancing,Markt. & storage infrast.,0,not found evidence of subsidy
+Africa,Congo Republic,B5,Capacity-enhancing,Tax exemption,905912.8824,Modeled
+Africa,Congo Republic,B6,Capacity-enhancing,Fishing access,265119.04,Modeled
+Africa,Congo Republic,B7,Capacity-enhancing,Fuel subsidies,0,not found evidence of subsidy
+Africa,Congo Republic,C1,Ambiguous,Fisher assistance,0,not found evidence of subsidy
+Africa,Congo Republic,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+Africa,Congo Republic,C3,Ambiguous,Rural fisher communities,0,not found evidence of subsidy
+Africa,Cote d'Ivoire,A1,Beneficial,Fisheries mangt.,3271594.835,Reported
+Africa,Cote d'Ivoire,A2,Beneficial,Fishery R&D,854274.1473,Modeled
+Africa,Cote d'Ivoire,A3,Beneficial,MPAs,213080.5174,Modeled
+Africa,Cote d'Ivoire,B1,Capacity-enhancing,Boat constsruct. & renov.,0,not found evidence of subsidy
+Africa,Cote d'Ivoire,B2,Capacity-enhancing,Fisheries dev. projects,32851596.54,Reported
+Africa,Cote d'Ivoire,B3,Capacity-enhancing,Fishing port develop.,8469529.029,Reported
+Africa,Cote d'Ivoire,B4,Capacity-enhancing,Markt. & storage infrast.,8443324.366,Reported
+Africa,Cote d'Ivoire,B5,Capacity-enhancing,Tax exemption,1889723,Reported
+Africa,Cote d'Ivoire,B6,Capacity-enhancing,Fishing access,655127.14,Modeled
+Africa,Cote d'Ivoire,B7,Capacity-enhancing,Fuel subsidies,2147412.5,Reported
+Africa,Cote d'Ivoire,C1,Ambiguous,Fisher assistance,9256.149246,Reported
+Africa,Cote d'Ivoire,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+Africa,Cote d'Ivoire,C3,Ambiguous,Rural fisher communities,411787.821,Reported
+Africa,Djibouti,A1,Beneficial,Fisheries mangt.,1876666.66,Reported
+Africa,Djibouti,A2,Beneficial,Fishery R&D,0,not found evidence of subsidy
+Africa,Djibouti,A3,Beneficial,MPAs,0,not found evidence of subsidy
+Africa,Djibouti,B1,Capacity-enhancing,Boat constsruct. & renov.,0,not found evidence of subsidy
+Africa,Djibouti,B2,Capacity-enhancing,Fisheries dev. projects,369346.0502,Modeled
+Africa,Djibouti,B3,Capacity-enhancing,Fishing port develop.,0,not found evidence of subsidy
+Africa,Djibouti,B4,Capacity-enhancing,Markt. & storage infrast.,2730000,Reported
+Africa,Djibouti,B5,Capacity-enhancing,Tax exemption,61513.26739,Modeled
+Africa,Djibouti,B6,Capacity-enhancing,Fishing access,6775.11,Modeled
+Africa,Djibouti,B7,Capacity-enhancing,Fuel subsidies,0,not found evidence of subsidy
+Africa,Djibouti,C1,Ambiguous,Fisher assistance,382500,Reported
+Africa,Djibouti,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+Africa,Djibouti,C3,Ambiguous,Rural fisher communities,19225.5454,Modeled
+Africa,Egypt,A1,Beneficial,Fisheries mangt.,18845311.55,Modeled
+Africa,Egypt,A2,Beneficial,Fishery R&D,1521906.215,Modeled
+Africa,Egypt,A3,Beneficial,MPAs,4741507.452,Modeled
+Africa,Egypt,B1,Capacity-enhancing,Boat constsruct. & renov.,0,not found evidence of subsidy
+Africa,Egypt,B2,Capacity-enhancing,Fisheries dev. projects,24057563.23,Modeled
+Africa,Egypt,B3,Capacity-enhancing,Fishing port develop.,19973336.61,Modeled
+Africa,Egypt,B4,Capacity-enhancing,Markt. & storage infrast.,0,not found evidence of subsidy
+Africa,Egypt,B5,Capacity-enhancing,Tax exemption,0,not found evidence of subsidy
+Africa,Egypt,B6,Capacity-enhancing,Fishing access,4416742.68,Modeled
+Africa,Egypt,B7,Capacity-enhancing,Fuel subsidies,0,not found evidence of subsidy
+Africa,Egypt,C1,Ambiguous,Fisher assistance,0,not found evidence of subsidy
+Africa,Egypt,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+Africa,Egypt,C3,Ambiguous,Rural fisher communities,0,not found evidence of subsidy
+Africa,Equatorial Guinea,A1,Beneficial,Fisheries mangt.,175989.1871,Reported
+Africa,Equatorial Guinea,A2,Beneficial,Fishery R&D,0,not found evidence of subsidy
+Africa,Equatorial Guinea,A3,Beneficial,MPAs,1481876.091,Modeled
+Africa,Equatorial Guinea,B1,Capacity-enhancing,Boat constsruct. & renov.,0,not found evidence of subsidy
+Africa,Equatorial Guinea,B2,Capacity-enhancing,Fisheries dev. projects,135775.6578,Reported
+Africa,Equatorial Guinea,B3,Capacity-enhancing,Fishing port develop.,0,not found evidence of subsidy
+Africa,Equatorial Guinea,B4,Capacity-enhancing,Markt. & storage infrast.,883872.2542,Reported
+Africa,Equatorial Guinea,B5,Capacity-enhancing,Tax exemption,0,not found evidence of subsidy
+Africa,Equatorial Guinea,B6,Capacity-enhancing,Fishing access,15258.23,Modeled
+Africa,Equatorial Guinea,B7,Capacity-enhancing,Fuel subsidies,0,not found evidence of subsidy
+Africa,Equatorial Guinea,C1,Ambiguous,Fisher assistance,545566.48,Reported
+Africa,Equatorial Guinea,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+Africa,Equatorial Guinea,C3,Ambiguous,Rural fisher communities,703956.7484,Reported
+Africa,Eritrea,A1,Beneficial,Fisheries mangt.,11252411.16,Reported
+Africa,Eritrea,A2,Beneficial,Fishery R&D,75731.72988,Modeled
+Africa,Eritrea,A3,Beneficial,MPAs,0,not found evidence of subsidy
+Africa,Eritrea,B1,Capacity-enhancing,Boat constsruct. & renov.,0,not found evidence of subsidy
+Africa,Eritrea,B2,Capacity-enhancing,Fisheries dev. projects,754344.253,Reported
+Africa,Eritrea,B3,Capacity-enhancing,Fishing port develop.,0,not found evidence of subsidy
+Africa,Eritrea,B4,Capacity-enhancing,Markt. & storage infrast.,9858787.65,Reported
+Africa,Eritrea,B5,Capacity-enhancing,Tax exemption,0,not found evidence of subsidy
+Africa,Eritrea,B6,Capacity-enhancing,Fishing access,0,not found evidence of subsidy
+Africa,Eritrea,B7,Capacity-enhancing,Fuel subsidies,0,not found evidence of subsidy
+Africa,Eritrea,C1,Ambiguous,Fisher assistance,0,not found evidence of subsidy
+Africa,Eritrea,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+Africa,Eritrea,C3,Ambiguous,Rural fisher communities,38962.35906,Modeled
+Africa,Gabon,A1,Beneficial,Fisheries mangt.,19147680.71,Modeled
+Africa,Gabon,A2,Beneficial,Fishery R&D,4486358.331,Modeled
+Africa,Gabon,A3,Beneficial,MPAs,12007262.61,Modeled
+Africa,Gabon,B1,Capacity-enhancing,Boat constsruct. & renov.,1733674.407,Modeled
+Africa,Gabon,B2,Capacity-enhancing,Fisheries dev. projects,5127871.903,Modeled
+Africa,Gabon,B3,Capacity-enhancing,Fishing port develop.,0,not found evidence of subsidy
+Africa,Gabon,B4,Capacity-enhancing,Markt. & storage infrast.,3894780.973,Modeled
+Africa,Gabon,B5,Capacity-enhancing,Tax exemption,6036531.899,Modeled
+Africa,Gabon,B6,Capacity-enhancing,Fishing access,24940.23,Modeled
+Africa,Gabon,B7,Capacity-enhancing,Fuel subsidies,7429373.573,Modeled
+Africa,Gabon,C1,Ambiguous,Fisher assistance,0,not found evidence of subsidy
+Africa,Gabon,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+Africa,Gabon,C3,Ambiguous,Rural fisher communities,2399530.004,Modeled
+Africa,Gambia,A1,Beneficial,Fisheries mangt.,1085070.818,Reported
+Africa,Gambia,A2,Beneficial,Fishery R&D,1244210.96,Modeled
+Africa,Gambia,A3,Beneficial,MPAs,232967.7543,Modeled
+Africa,Gambia,B1,Capacity-enhancing,Boat constsruct. & renov.,0,not found evidence of subsidy
+Africa,Gambia,B2,Capacity-enhancing,Fisheries dev. projects,5152611.661,Modeled
+Africa,Gambia,B3,Capacity-enhancing,Fishing port develop.,4277858.326,Modeled
+Africa,Gambia,B4,Capacity-enhancing,Markt. & storage infrast.,7284018.723,Modeled
+Africa,Gambia,B5,Capacity-enhancing,Tax exemption,858149.0953,Modeled
+Africa,Gambia,B6,Capacity-enhancing,Fishing access,16465.68,Modeled
+Africa,Gambia,B7,Capacity-enhancing,Fuel subsidies,0,Reported
+Africa,Gambia,C1,Ambiguous,Fisher assistance,0,not found evidence of subsidy
+Africa,Gambia,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+Africa,Gambia,C3,Ambiguous,Rural fisher communities,640119.9899,Modeled
+Africa,Ghana,A1,Beneficial,Fisheries mangt.,5107681.32,Reported
+Africa,Ghana,A2,Beneficial,Fishery R&D,2397032.108,Modeled
+Africa,Ghana,A3,Beneficial,MPAs,474609.9589,Modeled
+Africa,Ghana,B1,Capacity-enhancing,Boat constsruct. & renov.,4693988.198,Reported
+Africa,Ghana,B2,Capacity-enhancing,Fisheries dev. projects,474609.9589,Reported
+Africa,Ghana,B2,Capacity-enhancing,Fisheries dev. projects,34442052.79,Modeled
+Africa,Ghana,B3,Capacity-enhancing,Fishing port develop.,28594862.56,Modeled
+Africa,Ghana,B4,Capacity-enhancing,Markt. & storage infrast.,296819.0076,Reported
+Africa,Ghana,B5,Capacity-enhancing,Tax exemption,3790718.998,Reported
+Africa,Ghana,B6,Capacity-enhancing,Fishing access,2053122.88,Modeled
+Africa,Ghana,B7,Capacity-enhancing,Fuel subsidies,63219653.83,Reported
+Africa,Ghana,C1,Ambiguous,Fisher assistance,1045460.346,Reported
+Africa,Ghana,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+Africa,Ghana,C3,Ambiguous,Rural fisher communities,474609.9589,Reported
+Africa,Guinea,A1,Beneficial,Fisheries mangt.,1334303.946,Reported
+Africa,Guinea,A2,Beneficial,Fishery R&D,38000,Reported
+Africa,Guinea,A3,Beneficial,MPAs,1067840.652,Modeled
+Africa,Guinea,B1,Capacity-enhancing,Boat constsruct. & renov.,175000,Reported
+Africa,Guinea,B2,Capacity-enhancing,Fisheries dev. projects,11658575.83,Reported
+Africa,Guinea,B3,Capacity-enhancing,Fishing port develop.,1123156.633,Reported
+Africa,Guinea,B4,Capacity-enhancing,Markt. & storage infrast.,703850.6207,Reported
+Africa,Guinea,B5,Capacity-enhancing,Tax exemption,2154352.98,Modeled
+Africa,Guinea,B6,Capacity-enhancing,Fishing access,705379.22,Modeled
+Africa,Guinea,B7,Capacity-enhancing,Fuel subsidies,0,not found evidence of subsidy
+Africa,Guinea,C1,Ambiguous,Fisher assistance,16890.61528,Reported
+Africa,Guinea,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+Africa,Guinea,C3,Ambiguous,Rural fisher communities,150000,Reported
+Africa,Guinea-Bissau,A1,Beneficial,Fisheries mangt.,2831394.736,Reported
+Africa,Guinea-Bissau,A2,Beneficial,Fishery R&D,61420.47523,Reported
+Africa,Guinea-Bissau,A3,Beneficial,MPAs,2620727.204,Modeled
+Africa,Guinea-Bissau,B1,Capacity-enhancing,Boat constsruct. & renov.,0,not found evidence of subsidy
+Africa,Guinea-Bissau,B2,Capacity-enhancing,Fisheries dev. projects,91002.74705,Reported
+Africa,Guinea-Bissau,B3,Capacity-enhancing,Fishing port develop.,0,not found evidence of subsidy
+Africa,Guinea-Bissau,B4,Capacity-enhancing,Markt. & storage infrast.,0,not found evidence of subsidy
+Africa,Guinea-Bissau,B5,Capacity-enhancing,Tax exemption,0,not found evidence of subsidy
+Africa,Guinea-Bissau,B6,Capacity-enhancing,Fishing access,0,not found evidence of subsidy
+Africa,Guinea-Bissau,B7,Capacity-enhancing,Fuel subsidies,0,not found evidence of subsidy
+Africa,Guinea-Bissau,C1,Ambiguous,Fisher assistance,0,not found evidence of subsidy
+Africa,Guinea-Bissau,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+Africa,Guinea-Bissau,C3,Ambiguous,Rural fisher communities,2779096.15,Modeled
+Africa,Kenya,A1,Beneficial,Fisheries mangt.,7614342.818,Reported
+Africa,Kenya,A2,Beneficial,Fishery R&D,529675.1309,Reported
+Africa,Kenya,A3,Beneficial,MPAs,2234932.358,Modeled
+Africa,Kenya,B1,Capacity-enhancing,Boat constsruct. & renov.,711467.0494,Reported
+Africa,Kenya,B2,Capacity-enhancing,Fisheries dev. projects,38135798.14,Reported
+Africa,Kenya,B3,Capacity-enhancing,Fishing port develop.,4444600.86,Reported
+Africa,Kenya,B4,Capacity-enhancing,Markt. & storage infrast.,3204817.919,Reported
+Africa,Kenya,B5,Capacity-enhancing,Tax exemption,441949.9208,Modeled
+Africa,Kenya,B6,Capacity-enhancing,Fishing access,315437.34,Modeled
+Africa,Kenya,B7,Capacity-enhancing,Fuel subsidies,0,not found evidence of subsidy
+Africa,Kenya,C1,Ambiguous,Fisher assistance,0,not found evidence of subsidy
+Africa,Kenya,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+Africa,Kenya,C3,Ambiguous,Rural fisher communities,0,not found evidence of subsidy
+Africa,Liberia,A1,Beneficial,Fisheries mangt.,66376,Reported
+Africa,Liberia,A2,Beneficial,Fishery R&D,0,not found evidence of subsidy
+Africa,Liberia,A3,Beneficial,MPAs,207925.2143,Modeled
+Africa,Liberia,B1,Capacity-enhancing,Boat constsruct. & renov.,0,not found evidence of subsidy
+Africa,Liberia,B2,Capacity-enhancing,Fisheries dev. projects,1853228.03,Modeled
+Africa,Liberia,B3,Capacity-enhancing,Fishing port develop.,0,not found evidence of subsidy
+Africa,Liberia,B4,Capacity-enhancing,Markt. & storage infrast.,0,not found evidence of subsidy
+Africa,Liberia,B5,Capacity-enhancing,Tax exemption,308648.5188,Modeled
+Africa,Liberia,B6,Capacity-enhancing,Fishing access,1019.04,Modeled
+Africa,Liberia,B7,Capacity-enhancing,Fuel subsidies,1267806.749,Modeled
+Africa,Liberia,C1,Ambiguous,Fisher assistance,0,not found evidence of subsidy
+Africa,Liberia,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+Africa,Liberia,C3,Ambiguous,Rural fisher communities,315461.0911,Modeled
+Africa,Libya,A1,Beneficial,Fisheries mangt.,13086935.19,Modeled
+Africa,Libya,A2,Beneficial,Fishery R&D,3066307.696,Modeled
+Africa,Libya,A3,Beneficial,MPAs,0,not found evidence of subsidy
+Africa,Libya,B1,Capacity-enhancing,Boat constsruct. & renov.,0,not found evidence of subsidy
+Africa,Libya,B2,Capacity-enhancing,Fisheries dev. projects,0,not found evidence of subsidy
+Africa,Libya,B3,Capacity-enhancing,Fishing port develop.,0,not found evidence of subsidy
+Africa,Libya,B4,Capacity-enhancing,Markt. & storage infrast.,0,not found evidence of subsidy
+Africa,Libya,B5,Capacity-enhancing,Tax exemption,0,not found evidence of subsidy
+Africa,Libya,B6,Capacity-enhancing,Fishing access,0,not found evidence of subsidy
+Africa,Libya,B7,Capacity-enhancing,Fuel subsidies,0,not found evidence of subsidy
+Africa,Libya,C1,Ambiguous,Fisher assistance,0,not found evidence of subsidy
+Africa,Libya,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+Africa,Libya,C3,Ambiguous,Rural fisher communities,0,not found evidence of subsidy
+Africa,Madagascar,A1,Beneficial,Fisheries mangt.,50033939.11,Reported
+Africa,Madagascar,A2,Beneficial,Fishery R&D,1128771.624,Modeled
+Africa,Madagascar,A3,Beneficial,MPAs,10027541.19,Modeled
+Africa,Madagascar,B1,Capacity-enhancing,Boat constsruct. & renov.,0,not found evidence of subsidy
+Africa,Madagascar,B2,Capacity-enhancing,Fisheries dev. projects,32804971.73,Reported
+Africa,Madagascar,B3,Capacity-enhancing,Fishing port develop.,22974.10736,Reported
+Africa,Madagascar,B4,Capacity-enhancing,Markt. & storage infrast.,39887.50845,Reported
+Africa,Madagascar,B5,Capacity-enhancing,Tax exemption,0,not found evidence of subsidy
+Africa,Madagascar,B6,Capacity-enhancing,Fishing access,35073.78,Modeled
+Africa,Madagascar,B7,Capacity-enhancing,Fuel subsidies,0,not found evidence of subsidy
+Africa,Madagascar,C1,Ambiguous,Fisher assistance,0,not found evidence of subsidy
+Africa,Madagascar,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+Africa,Madagascar,C3,Ambiguous,Rural fisher communities,580728.915,Modeled
+Africa,Mauritania,A1,Beneficial,Fisheries mangt.,3090217.037,Reported
+Africa,Mauritania,A2,Beneficial,Fishery R&D,511872.2042,Reported
+Africa,Mauritania,A3,Beneficial,MPAs,818875.2952,Modeled
+Africa,Mauritania,B1,Capacity-enhancing,Boat constsruct. & renov.,1664961.274,Modeled
+Africa,Mauritania,B2,Capacity-enhancing,Fisheries dev. projects,1136227.586,Reported
+Africa,Mauritania,B3,Capacity-enhancing,Fishing port develop.,14709876.34,Reported
+Africa,Mauritania,B4,Capacity-enhancing,Markt. & storage infrast.,6367759.65,Reported
+Africa,Mauritania,B5,Capacity-enhancing,Tax exemption,3271498.918,Modeled
+Africa,Mauritania,B6,Capacity-enhancing,Fishing access,122240.29,Modeled
+Africa,Mauritania,B7,Capacity-enhancing,Fuel subsidies,1621495.023,Modeled
+Africa,Mauritania,C1,Ambiguous,Fisher assistance,1135178.245,Reported
+Africa,Mauritania,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+Africa,Mauritania,C3,Ambiguous,Rural fisher communities,3246144.947,Modeled
+Africa,Mauritius,A1,Beneficial,Fisheries mangt.,8238822.889,Reported
+Africa,Mauritius,A2,Beneficial,Fishery R&D,188664.255,Reported
+Africa,Mauritius,A3,Beneficial,MPAs,809473.8456,Modeled
+Africa,Mauritius,B1,Capacity-enhancing,Boat constsruct. & renov.,464404.32,Reported
+Africa,Mauritius,B1,Capacity-enhancing,Boat constsruct. & renov.,462199.3412,Modeled
+Africa,Mauritius,B2,Capacity-enhancing,Fisheries dev. projects,470209.374,Reported
+Africa,Mauritius,B3,Capacity-enhancing,Fishing port develop.,58050.54,Reported
+Africa,Mauritius,B4,Capacity-enhancing,Markt. & storage infrast.,145126.35,Reported
+Africa,Mauritius,B5,Capacity-enhancing,Tax exemption,1609345.477,Modeled
+Africa,Mauritius,B6,Capacity-enhancing,Fishing access,6051.47,Modeled
+Africa,Mauritius,B7,Capacity-enhancing,Fuel subsidies,0,not found evidence of subsidy
+Africa,Mauritius,C1,Ambiguous,Fisher assistance,303314.0715,Reported
+Africa,Mauritius,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+Africa,Mauritius,C3,Ambiguous,Rural fisher communities,0,not found evidence of subsidy
+Africa,Morocco,A1,Beneficial,Fisheries mangt.,55146226.48,Reported
+Africa,Morocco,A2,Beneficial,Fishery R&D,20104068.72,Modeled
+Africa,Morocco,A3,Beneficial,MPAs,2795403.864,Modeled
+Africa,Morocco,B1,Capacity-enhancing,Boat constsruct. & renov.,11581371.69,Modeled
+Africa,Morocco,B2,Capacity-enhancing,Fisheries dev. projects,165989449.2,Reported
+Africa,Morocco,B3,Capacity-enhancing,Fishing port develop.,1643404.053,Reported
+Africa,Morocco,B4,Capacity-enhancing,Markt. & storage infrast.,13351220.26,Reported
+Africa,Morocco,B5,Capacity-enhancing,Tax exemption,7531986.7,Reported
+Africa,Morocco,B6,Capacity-enhancing,Fishing access,289710.22,Modeled
+Africa,Morocco,B7,Capacity-enhancing,Fuel subsidies,8047876.2,Reported
+Africa,Morocco,C1,Ambiguous,Fisher assistance,0,not found evidence of subsidy
+Africa,Morocco,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+Africa,Morocco,C3,Ambiguous,Rural fisher communities,10343114.38,Modeled
+Africa,Mozambique,A1,Beneficial,Fisheries mangt.,13228364.17,Reported
+Africa,Mozambique,A2,Beneficial,Fishery R&D,525204.4784,Reported
+Africa,Mozambique,A3,Beneficial,MPAs,1300751.471,Modeled
+Africa,Mozambique,B1,Capacity-enhancing,Boat constsruct. & renov.,0,not found evidence of subsidy
+Africa,Mozambique,B2,Capacity-enhancing,Fisheries dev. projects,7936405.885,Reported
+Africa,Mozambique,B3,Capacity-enhancing,Fishing port develop.,11923445.75,Modeled
+Africa,Mozambique,B4,Capacity-enhancing,Markt. & storage infrast.,383333.33,Reported
+Africa,Mozambique,B5,Capacity-enhancing,Tax exemption,2391873.083,Modeled
+Africa,Mozambique,B6,Capacity-enhancing,Fishing access,0,not found evidence of subsidy
+Africa,Mozambique,B7,Capacity-enhancing,Fuel subsidies,1179118.776,Modeled
+Africa,Mozambique,C1,Ambiguous,Fisher assistance,8995.483238,Reported
+Africa,Mozambique,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+Africa,Mozambique,C3,Ambiguous,Rural fisher communities,610800.2552,Modeled
+Africa,Namibia,A1,Beneficial,Fisheries mangt.,12877659.34,Reported
+Africa,Namibia,A2,Beneficial,Fishery R&D,3409343.886,Modeled
+Africa,Namibia,A3,Beneficial,MPAs,592958.2479,Modeled
+Africa,Namibia,B1,Capacity-enhancing,Boat constsruct. & renov.,0,not found evidence of subsidy
+Africa,Namibia,B2,Capacity-enhancing,Fisheries dev. projects,294376.1161,Reported
+Africa,Namibia,B3,Capacity-enhancing,Fishing port develop.,0,not found evidence of subsidy
+Africa,Namibia,B4,Capacity-enhancing,Markt. & storage infrast.,45984143.96,Modeled
+Africa,Namibia,B5,Capacity-enhancing,Tax exemption,0,not found evidence of subsidy
+Africa,Namibia,B6,Capacity-enhancing,Fishing access,13027.17,Modeled
+Africa,Namibia,B7,Capacity-enhancing,Fuel subsidies,4133740.475,Modeled
+Africa,Namibia,C1,Ambiguous,Fisher assistance,0,not found evidence of subsidy
+Africa,Namibia,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+Africa,Namibia,C3,Ambiguous,Rural fisher communities,0,not found evidence of subsidy
+Africa,Nigeria,A1,Beneficial,Fisheries mangt.,988712.0057,Reported
+Africa,Nigeria,A2,Beneficial,Fishery R&D,209850.7696,Reported
+Africa,Nigeria,A3,Beneficial,MPAs,0,not found evidence of subsidy
+Africa,Nigeria,B1,Capacity-enhancing,Boat constsruct. & renov.,1465876.115,Reported
+Africa,Nigeria,B2,Capacity-enhancing,Fisheries dev. projects,1924207.983,Reported
+Africa,Nigeria,B3,Capacity-enhancing,Fishing port develop.,0,not found evidence of subsidy
+Africa,Nigeria,B4,Capacity-enhancing,Markt. & storage infrast.,21354888.93,Reported
+Africa,Nigeria,B5,Capacity-enhancing,Tax exemption,11068824.04,Modeled
+Africa,Nigeria,B6,Capacity-enhancing,Fishing access,1588003.99,Modeled
+Africa,Nigeria,B7,Capacity-enhancing,Fuel subsidies,0,not found evidence of subsidy
+Africa,Nigeria,C1,Ambiguous,Fisher assistance,10766873.08,Modeled
+Africa,Nigeria,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+Africa,Nigeria,C3,Ambiguous,Rural fisher communities,2691887.436,Modeled
+Africa,Sao Tome Prn,A1,Beneficial,Fisheries mangt.,2612212.652,Reported
+Africa,Sao Tome Prn,A2,Beneficial,Fishery R&D,0,not found evidence of subsidy
+Africa,Sao Tome Prn,A3,Beneficial,MPAs,0,not found evidence of subsidy
+Africa,Sao Tome Prn,B1,Capacity-enhancing,Boat constsruct. & renov.,0,not found evidence of subsidy
+Africa,Sao Tome Prn,B2,Capacity-enhancing,Fisheries dev. projects,834621.543,Reported
+Africa,Sao Tome Prn,B3,Capacity-enhancing,Fishing port develop.,0,not found evidence of subsidy
+Africa,Sao Tome Prn,B4,Capacity-enhancing,Markt. & storage infrast.,546415.4411,Reported
+Africa,Sao Tome Prn,B5,Capacity-enhancing,Tax exemption,0,not found evidence of subsidy
+Africa,Sao Tome Prn,B6,Capacity-enhancing,Fishing access,48719.93,Modeled
+Africa,Sao Tome Prn,B7,Capacity-enhancing,Fuel subsidies,0,not found evidence of subsidy
+Africa,Sao Tome Prn,C1,Ambiguous,Fisher assistance,0,not found evidence of subsidy
+Africa,Sao Tome Prn,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+Africa,Sao Tome Prn,C3,Ambiguous,Rural fisher communities,63200.54775,Modeled
+Africa,Senegal,A1,Beneficial,Fisheries mangt.,18361362.53,Reported
+Africa,Senegal,A2,Beneficial,Fishery R&D,4298318.584,Modeled
+Africa,Senegal,A3,Beneficial,MPAs,2354040.162,Modeled
+Africa,Senegal,B1,Capacity-enhancing,Boat constsruct. & renov.,7321817.66,Reported
+Africa,Senegal,B2,Capacity-enhancing,Fisheries dev. projects,111374838,Modeled
+Africa,Senegal,B3,Capacity-enhancing,Fishing port develop.,22286705.89,Reported
+Africa,Senegal,B4,Capacity-enhancing,Markt. & storage infrast.,28967662.49,Reported
+Africa,Senegal,B5,Capacity-enhancing,Tax exemption,18549082.05,Modeled
+Africa,Senegal,B6,Capacity-enhancing,Fishing access,44711296.53,Modeled
+Africa,Senegal,B7,Capacity-enhancing,Fuel subsidies,17042252.59,Reported
+Africa,Senegal,C1,Ambiguous,Fisher assistance,18043074.08,Modeled
+Africa,Senegal,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+Africa,Senegal,C3,Ambiguous,Rural fisher communities,2211393.194,Modeled
+Africa,Seychelles,A1,Beneficial,Fisheries mangt.,17776804.84,Reported
+Africa,Seychelles,A2,Beneficial,Fishery R&D,420538.2963,Reported
+Africa,Seychelles,A3,Beneficial,MPAs,1909233.515,Modeled
+Africa,Seychelles,B1,Capacity-enhancing,Boat constsruct. & renov.,0,not found evidence of subsidy
+Africa,Seychelles,B2,Capacity-enhancing,Fisheries dev. projects,21325370.58,Reported
+Africa,Seychelles,B3,Capacity-enhancing,Fishing port develop.,0,not found evidence of subsidy
+Africa,Seychelles,B4,Capacity-enhancing,Markt. & storage infrast.,7976323.233,Reported
+Africa,Seychelles,B5,Capacity-enhancing,Tax exemption,0,not found evidence of subsidy
+Africa,Seychelles,B6,Capacity-enhancing,Fishing access,363635.69,Modeled
+Africa,Seychelles,B7,Capacity-enhancing,Fuel subsidies,499972.9771,Modeled
+Africa,Seychelles,C1,Ambiguous,Fisher assistance,0,not found evidence of subsidy
+Africa,Seychelles,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+Africa,Seychelles,C3,Ambiguous,Rural fisher communities,162997.5337,Modeled
+Africa,Sierra Leone,A1,Beneficial,Fisheries mangt.,5072647.218,Reported
+Africa,Sierra Leone,A2,Beneficial,Fishery R&D,0,not found evidence of subsidy
+Africa,Sierra Leone,A3,Beneficial,MPAs,0,not found evidence of subsidy
+Africa,Sierra Leone,B1,Capacity-enhancing,Boat constsruct. & renov.,243918.504,Reported
+Africa,Sierra Leone,B2,Capacity-enhancing,Fisheries dev. projects,341475.072,Reported
+Africa,Sierra Leone,B3,Capacity-enhancing,Fishing port develop.,0,not found evidence of subsidy
+Africa,Sierra Leone,B4,Capacity-enhancing,Markt. & storage infrast.,297924,Reported
+Africa,Sierra Leone,B5,Capacity-enhancing,Tax exemption,3512030.886,Modeled
+Africa,Sierra Leone,B6,Capacity-enhancing,Fishing access,4326075.17,Modeled
+Africa,Sierra Leone,B7,Capacity-enhancing,Fuel subsidies,0,Reported
+Africa,Sierra Leone,C1,Ambiguous,Fisher assistance,16151.09768,Reported
+Africa,Sierra Leone,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+Africa,Sierra Leone,C3,Ambiguous,Rural fisher communities,54154.458,Reported
+Africa,Somalia,A1,Beneficial,Fisheries mangt.,2260639.781,Reported
+Africa,Somalia,A2,Beneficial,Fishery R&D,0,not found evidence of subsidy
+Africa,Somalia,A3,Beneficial,MPAs,0,not found evidence of subsidy
+Africa,Somalia,B1,Capacity-enhancing,Boat constsruct. & renov.,0,not found evidence of subsidy
+Africa,Somalia,B2,Capacity-enhancing,Fisheries dev. projects,399649.0802,Reported
+Africa,Somalia,B3,Capacity-enhancing,Fishing port develop.,0,not found evidence of subsidy
+Africa,Somalia,B4,Capacity-enhancing,Markt. & storage infrast.,0,not found evidence of subsidy
+Africa,Somalia,B5,Capacity-enhancing,Tax exemption,0,not found evidence of subsidy
+Africa,Somalia,B6,Capacity-enhancing,Fishing access,24478.04,Modeled
+Africa,Somalia,B7,Capacity-enhancing,Fuel subsidies,0,not found evidence of subsidy
+Africa,Somalia,C1,Ambiguous,Fisher assistance,513127.1214,Modeled
+Africa,Somalia,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+Africa,Somalia,C3,Ambiguous,Rural fisher communities,919360.8355,Modeled
+Africa,South Africa,A1,Beneficial,Fisheries mangt.,35118651.21,Reported
+Africa,South Africa,A2,Beneficial,Fishery R&D,5411588.362,Reported
+Africa,South Africa,A3,Beneficial,MPAs,5841031.834,Modeled
+Africa,South Africa,B1,Capacity-enhancing,Boat constsruct. & renov.,0,not found evidence of subsidy
+Africa,South Africa,B2,Capacity-enhancing,Fisheries dev. projects,40618409.95,Modeled
+Africa,South Africa,B3,Capacity-enhancing,Fishing port develop.,41743.10668,Reported
+Africa,South Africa,B4,Capacity-enhancing,Markt. & storage infrast.,3579321.243,Reported
+Africa,South Africa,B5,Capacity-enhancing,Tax exemption,0,not found evidence of subsidy
+Africa,South Africa,B6,Capacity-enhancing,Fishing access,623506.25,Modeled
+Africa,South Africa,B7,Capacity-enhancing,Fuel subsidies,25388558.57,Reported
+Africa,South Africa,C1,Ambiguous,Fisher assistance,0,not found evidence of subsidy
+Africa,South Africa,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+Africa,South Africa,C3,Ambiguous,Rural fisher communities,0,not found evidence of subsidy
+Africa,Sudan,A1,Beneficial,Fisheries mangt.,808084.1248,Reported
+Africa,Sudan,A2,Beneficial,Fishery R&D,29087.38393,Modeled
+Africa,Sudan,A3,Beneficial,MPAs,543131.3445,Modeled
+Africa,Sudan,B1,Capacity-enhancing,Boat constsruct. & renov.,0,not found evidence of subsidy
+Africa,Sudan,B2,Capacity-enhancing,Fisheries dev. projects,321225.8136,Reported
+Africa,Sudan,B3,Capacity-enhancing,Fishing port develop.,0,not found evidence of subsidy
+Africa,Sudan,B4,Capacity-enhancing,Markt. & storage infrast.,815311.9301,Modeled
+Africa,Sudan,B5,Capacity-enhancing,Tax exemption,96054.00835,Modeled
+Africa,Sudan,B6,Capacity-enhancing,Fishing access,171150.29,Modeled
+Africa,Sudan,B7,Capacity-enhancing,Fuel subsidies,0,Reported
+Africa,Sudan,C1,Ambiguous,Fisher assistance,0,not found evidence of subsidy
+Africa,Sudan,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+Africa,Sudan,C3,Ambiguous,Rural fisher communities,14964.83836,Modeled
+Africa,Tanzania,A1,Beneficial,Fisheries mangt.,91663.57466,Reported
+Africa,Tanzania,A2,Beneficial,Fishery R&D,1241042.428,Modeled
+Africa,Tanzania,A3,Beneficial,MPAs,3552888.17,Modeled
+Africa,Tanzania,B1,Capacity-enhancing,Boat constsruct. & renov.,0,not found evidence of subsidy
+Africa,Tanzania,B2,Capacity-enhancing,Fisheries dev. projects,84646.25771,Reported
+Africa,Tanzania,B3,Capacity-enhancing,Fishing port develop.,0,not found evidence of subsidy
+Africa,Tanzania,B4,Capacity-enhancing,Markt. & storage infrast.,645154.7056,Reported
+Africa,Tanzania,B5,Capacity-enhancing,Tax exemption,2588344.587,Modeled
+Africa,Tanzania,B6,Capacity-enhancing,Fishing access,123530.44,Modeled
+Africa,Tanzania,B7,Capacity-enhancing,Fuel subsidies,0,not found evidence of subsidy
+Africa,Tanzania,C1,Ambiguous,Fisher assistance,0,not found evidence of subsidy
+Africa,Tanzania,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+Africa,Tanzania,C3,Ambiguous,Rural fisher communities,0,not found evidence of subsidy
+Africa,Togo,A1,Beneficial,Fisheries mangt.,4082945.453,Reported
+Africa,Togo,A2,Beneficial,Fishery R&D,0,not found evidence of subsidy
+Africa,Togo,A3,Beneficial,MPAs,0,not found evidence of subsidy
+Africa,Togo,B1,Capacity-enhancing,Boat constsruct. & renov.,0,not found evidence of subsidy
+Africa,Togo,B2,Capacity-enhancing,Fisheries dev. projects,1286920.477,Modeled
+Africa,Togo,B3,Capacity-enhancing,Fishing port develop.,0,not found evidence of subsidy
+Africa,Togo,B4,Capacity-enhancing,Markt. & storage infrast.,0,not found evidence of subsidy
+Africa,Togo,B5,Capacity-enhancing,Tax exemption,214332.0156,Modeled
+Africa,Togo,B6,Capacity-enhancing,Fishing access,160528.82,Modeled
+Africa,Togo,B7,Capacity-enhancing,Fuel subsidies,120090.904,Modeled
+Africa,Togo,C1,Ambiguous,Fisher assistance,0,not found evidence of subsidy
+Africa,Togo,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+Africa,Togo,C3,Ambiguous,Rural fisher communities,143890.5679,Modeled
+Africa,Tunisia,A1,Beneficial,Fisheries mangt.,276802.9333,Reported
+Africa,Tunisia,A2,Beneficial,Fishery R&D,0,not found evidence of subsidy
+Africa,Tunisia,A3,Beneficial,MPAs,1361672.086,Modeled
+Africa,Tunisia,B1,Capacity-enhancing,Boat constsruct. & renov.,0,not found evidence of subsidy
+Africa,Tunisia,B2,Capacity-enhancing,Fisheries dev. projects,7624710.37,Modeled
+Africa,Tunisia,B3,Capacity-enhancing,Fishing port develop.,0,not found evidence of subsidy
+Africa,Tunisia,B4,Capacity-enhancing,Markt. & storage infrast.,5791208.797,Modeled
+Africa,Tunisia,B5,Capacity-enhancing,Tax exemption,8975810.675,Modeled
+Africa,Tunisia,B6,Capacity-enhancing,Fishing access,184753.04,Modeled
+Africa,Tunisia,B7,Capacity-enhancing,Fuel subsidies,64122572.56,Modeled
+Africa,Tunisia,C1,Ambiguous,Fisher assistance,0,not found evidence of subsidy
+Africa,Tunisia,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+Africa,Tunisia,C3,Ambiguous,Rural fisher communities,0,not found evidence of subsidy
+Asia,Bahrain,A1,Beneficial,Fisheries mangt.,10990054.9,Modeled
+Asia,Bahrain,A2,Beneficial,Fishery R&D,2575002.432,Modeled
+Asia,Bahrain,A3,Beneficial,MPAs,0,not found evidence of subsidy
+Asia,Bahrain,B1,Capacity-enhancing,Boat constsruct. & renov.,1653254.107,Modeled
+Asia,Bahrain,B2,Capacity-enhancing,Fisheries dev. projects,0,not found evidence of subsidy
+Asia,Bahrain,B3,Capacity-enhancing,Fishing port develop.,2848880.814,Modeled
+Asia,Bahrain,B4,Capacity-enhancing,Markt. & storage infrast.,0,not found evidence of subsidy
+Asia,Bahrain,B5,Capacity-enhancing,Tax exemption,5756514.089,Modeled
+Asia,Bahrain,B6,Capacity-enhancing,Fishing access,989996.01,Modeled
+Asia,Bahrain,B7,Capacity-enhancing,Fuel subsidies,0,not found evidence of subsidy
+Asia,Bahrain,C1,Ambiguous,Fisher assistance,1106171.208,Modeled
+Asia,Bahrain,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+Asia,Bahrain,C3,Ambiguous,Rural fisher communities,0,not found evidence of subsidy
+Asia,Bangladesh,A1,Beneficial,Fisheries mangt.,9047546.933,Reported
+Asia,Bangladesh,A2,Beneficial,Fishery R&D,7900501.951,Reported
+Asia,Bangladesh,A3,Beneficial,MPAs,3718424.563,Modeled
+Asia,Bangladesh,B1,Capacity-enhancing,Boat constsruct. & renov.,3883144.511,Modeled
+Asia,Bangladesh,B2,Capacity-enhancing,Fisheries dev. projects,45813224.54,Modeled
+Asia,Bangladesh,B3,Capacity-enhancing,Fishing port develop.,0,not found evidence of subsidy
+Asia,Bangladesh,B4,Capacity-enhancing,Markt. & storage infrast.,6598368.872,Reported
+Asia,Bangladesh,B5,Capacity-enhancing,Tax exemption,0,not found evidence of subsidy
+Asia,Bangladesh,B6,Capacity-enhancing,Fishing access,0,not found evidence of subsidy
+Asia,Bangladesh,B7,Capacity-enhancing,Fuel subsidies,35088039.27,Modeled
+Asia,Bangladesh,C1,Ambiguous,Fisher assistance,47308800,Reported
+Asia,Bangladesh,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+Asia,Bangladesh,C3,Ambiguous,Rural fisher communities,2024552.428,Modeled
+Asia,Brunei Darsm,A1,Beneficial,Fisheries mangt.,2676994.35,Modeled
+Asia,Brunei Darsm,A2,Beneficial,Fishery R&D,627227.7092,Modeled
+Asia,Brunei Darsm,A3,Beneficial,MPAs,291888.1474,Modeled
+Asia,Brunei Darsm,B1,Capacity-enhancing,Boat constsruct. & renov.,331698.4963,Modeled
+Asia,Brunei Darsm,B2,Capacity-enhancing,Fisheries dev. projects,0,not found evidence of subsidy
+Asia,Brunei Darsm,B3,Capacity-enhancing,Fishing port develop.,0,not found evidence of subsidy
+Asia,Brunei Darsm,B4,Capacity-enhancing,Markt. & storage infrast.,745176.2492,Modeled
+Asia,Brunei Darsm,B5,Capacity-enhancing,Tax exemption,0,not found evidence of subsidy
+Asia,Brunei Darsm,B6,Capacity-enhancing,Fishing access,0,not found evidence of subsidy
+Asia,Brunei Darsm,B7,Capacity-enhancing,Fuel subsidies,0,not found evidence of subsidy
+Asia,Brunei Darsm,C1,Ambiguous,Fisher assistance,0,not found evidence of subsidy
+Asia,Brunei Darsm,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+Asia,Brunei Darsm,C3,Ambiguous,Rural fisher communities,0,not found evidence of subsidy
+Asia,Cambodia,A1,Beneficial,Fisheries mangt.,45397687.99,Modeled
+Asia,Cambodia,A2,Beneficial,Fishery R&D,3666218.162,Modeled
+Asia,Cambodia,A3,Beneficial,MPAs,831999.0866,Modeled
+Asia,Cambodia,B1,Capacity-enhancing,Boat constsruct. & renov.,0,not found evidence of subsidy
+Asia,Cambodia,B2,Capacity-enhancing,Fisheries dev. projects,9972837.86,Modeled
+Asia,Cambodia,B3,Capacity-enhancing,Fishing port develop.,0,not found evidence of subsidy
+Asia,Cambodia,B4,Capacity-enhancing,Markt. & storage infrast.,0,not found evidence of subsidy
+Asia,Cambodia,B5,Capacity-enhancing,Tax exemption,0,not found evidence of subsidy
+Asia,Cambodia,B6,Capacity-enhancing,Fishing access,1495908.19,Modeled
+Asia,Cambodia,B7,Capacity-enhancing,Fuel subsidies,0,not found evidence of subsidy
+Asia,Cambodia,C1,Ambiguous,Fisher assistance,0,not found evidence of subsidy
+Asia,Cambodia,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+Asia,Cambodia,C3,Ambiguous,Rural fisher communities,1886191.015,Modeled
+Asia,China,A1,Beneficial,Fisheries mangt.,428865387,Reported
+Asia,China,A2,Beneficial,Fishery R&D,172033.4961,Reported
+Asia,China,A3,Beneficial,MPAs,5454908.028,Modeled
+Asia,China,B1,Capacity-enhancing,Boat constsruct. & renov.,14581816.8,Reported
+Asia,China,B2,Capacity-enhancing,Fisheries dev. projects,5752133.196,Reported
+Asia,China,B2,Capacity-enhancing,Fisheries dev. projects,902580106.1,Modeled
+Asia,China,B3,Capacity-enhancing,Fishing port develop.,185153513.2,Reported
+Asia,China,B4,Capacity-enhancing,Markt. & storage infrast.,6194721.574,Reported
+Asia,China,B5,Capacity-enhancing,Tax exemption,1062517493,Modeled
+Asia,China,B6,Capacity-enhancing,Fishing access,275424947,Modeled
+Asia,China,B7,Capacity-enhancing,Fuel subsidies,3433436331,Reported
+Asia,China,C1,Ambiguous,Fisher assistance,54898339.52,Reported
+Asia,China,C2,Ambiguous,Vessel buyback,886222569,Reported
+Asia,China,C3,Ambiguous,Rural fisher communities,0,not found evidence of subsidy
+Asia,Cyprus,A1,Beneficial,Fisheries mangt.,633368.0092,Modeled
+Asia,Cyprus,A2,Beneficial,Fishery R&D,148400.0015,Modeled
+Asia,Cyprus,A3,Beneficial,MPAs,1131549.547,Modeled
+Asia,Cyprus,B1,Capacity-enhancing,Boat constsruct. & renov.,84554.11951,Modeled
+Asia,Cyprus,B2,Capacity-enhancing,Fisheries dev. projects,0,not found evidence of subsidy
+Asia,Cyprus,B3,Capacity-enhancing,Fishing port develop.,0,not found evidence of subsidy
+Asia,Cyprus,B4,Capacity-enhancing,Markt. & storage infrast.,189954.8003,Modeled
+Asia,Cyprus,B5,Capacity-enhancing,Tax exemption,0,not found evidence of subsidy
+Asia,Cyprus,B6,Capacity-enhancing,Fishing access,25864944.17,Modeled
+Asia,Cyprus,B7,Capacity-enhancing,Fuel subsidies,1336031.921,Modeled
+Asia,Cyprus,C1,Ambiguous,Fisher assistance,56574.08145,Modeled
+Asia,Cyprus,C2,Ambiguous,Vessel buyback,61614.16672,Modeled
+Asia,Cyprus,C3,Ambiguous,Rural fisher communities,0,not found evidence of subsidy
+Asia,Hong Kong,A1,Beneficial,Fisheries mangt.,1338136.823,Modeled
+Asia,Hong Kong,A2,Beneficial,Fishery R&D,0,not found evidence of subsidy
+Asia,Hong Kong,A3,Beneficial,MPAs,0,not found evidence of subsidy
+Asia,Hong Kong,B1,Capacity-enhancing,Boat constsruct. & renov.,0,not found evidence of subsidy
+Asia,Hong Kong,B2,Capacity-enhancing,Fisheries dev. projects,40962323.03,Modeled
+Asia,Hong Kong,B3,Capacity-enhancing,Fishing port develop.,0,not found evidence of subsidy
+Asia,Hong Kong,B4,Capacity-enhancing,Markt. & storage infrast.,0,not found evidence of subsidy
+Asia,Hong Kong,B5,Capacity-enhancing,Tax exemption,0,not found evidence of subsidy
+Asia,Hong Kong,B6,Capacity-enhancing,Fishing access,71892110.84,Modeled
+Asia,Hong Kong,B7,Capacity-enhancing,Fuel subsidies,0,not found evidence of subsidy
+Asia,Hong Kong,C1,Ambiguous,Fisher assistance,0,not found evidence of subsidy
+Asia,Hong Kong,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+Asia,Hong Kong,C3,Ambiguous,Rural fisher communities,0,not found evidence of subsidy
+Asia,India,A1,Beneficial,Fisheries mangt.,52122688.5,Reported
+Asia,India,A2,Beneficial,Fishery R&D,26710263.24,Reported
+Asia,India,A3,Beneficial,MPAs,4127834.913,Modeled
+Asia,India,B1,Capacity-enhancing,Boat constsruct. & renov.,8531208.046,Reported
+Asia,India,B2,Capacity-enhancing,Fisheries dev. projects,159275.6736,Reported
+Asia,India,B3,Capacity-enhancing,Fishing port develop.,10530705.02,Reported
+Asia,India,B4,Capacity-enhancing,Markt. & storage infrast.,2762127.639,Reported
+Asia,India,B5,Capacity-enhancing,Tax exemption,45961256.01,Modeled
+Asia,India,B6,Capacity-enhancing,Fishing access,15971345.57,Modeled
+Asia,India,B7,Capacity-enhancing,Fuel subsidies,90487776.48,Reported
+Asia,India,C1,Ambiguous,Fisher assistance,8120990.291,Reported
+Asia,India,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+Asia,India,C3,Ambiguous,Rural fisher communities,11272695.27,Modeled
+Asia,Indonesia,A1,Beneficial,Fisheries mangt.,210754701.2,Reported
+Asia,Indonesia,A2,Beneficial,Fishery R&D,56386451.51,Reported
+Asia,Indonesia,A3,Beneficial,MPAs,41431606.13,Modeled
+Asia,Indonesia,B1,Capacity-enhancing,Boat constsruct. & renov.,66744946.25,Reported
+Asia,Indonesia,B2,Capacity-enhancing,Fisheries dev. projects,91542906.4,Reported
+Asia,Indonesia,B3,Capacity-enhancing,Fishing port develop.,26823464.5,Reported
+Asia,Indonesia,B4,Capacity-enhancing,Markt. & storage infrast.,140059127.8,Reported
+Asia,Indonesia,B5,Capacity-enhancing,Tax exemption,98477275.81,Modeled
+Asia,Indonesia,B6,Capacity-enhancing,Fishing access,1019127.28,Modeled
+Asia,Indonesia,B7,Capacity-enhancing,Fuel subsidies,141322801.1,Reported
+Asia,Indonesia,C1,Ambiguous,Fisher assistance,4680451.016,Reported
+Asia,Indonesia,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+Asia,Indonesia,C3,Ambiguous,Rural fisher communities,56310415.98,Reported
+Asia,Iran,A1,Beneficial,Fisheries mangt.,67491230.07,Modeled
+Asia,Iran,A2,Beneficial,Fishery R&D,15813395.21,Modeled
+Asia,Iran,A3,Beneficial,MPAs,5544576.344,Modeled
+Asia,Iran,B1,Capacity-enhancing,Boat constsruct. & renov.,9696722.097,Modeled
+Asia,Iran,B2,Capacity-enhancing,Fisheries dev. projects,130138.9601,Reported
+Asia,Iran,B3,Capacity-enhancing,Fishing port develop.,0,not found evidence of subsidy
+Asia,Iran,B4,Capacity-enhancing,Markt. & storage infrast.,21784141.57,Modeled
+Asia,Iran,B5,Capacity-enhancing,Tax exemption,0,not found evidence of subsidy
+Asia,Iran,B6,Capacity-enhancing,Fishing access,3609634.32,Modeled
+Asia,Iran,B7,Capacity-enhancing,Fuel subsidies,0,not found evidence of subsidy
+Asia,Iran,C1,Ambiguous,Fisher assistance,0,not found evidence of subsidy
+Asia,Iran,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+Asia,Iran,C3,Ambiguous,Rural fisher communities,8457798.834,Modeled
+Asia,Iraq,A1,Beneficial,Fisheries mangt.,617482.2827,Modeled
+Asia,Iraq,A2,Beneficial,Fishery R&D,0,not found evidence of subsidy
+Asia,Iraq,A3,Beneficial,MPAs,0,not found evidence of subsidy
+Asia,Iraq,B1,Capacity-enhancing,Boat constsruct. & renov.,0,not found evidence of subsidy
+Asia,Iraq,B2,Capacity-enhancing,Fisheries dev. projects,0,not found evidence of subsidy
+Asia,Iraq,B3,Capacity-enhancing,Fishing port develop.,0,not found evidence of subsidy
+Asia,Iraq,B4,Capacity-enhancing,Markt. & storage infrast.,0,not found evidence of subsidy
+Asia,Iraq,B5,Capacity-enhancing,Tax exemption,0,not found evidence of subsidy
+Asia,Iraq,B6,Capacity-enhancing,Fishing access,454381.89,Modeled
+Asia,Iraq,B7,Capacity-enhancing,Fuel subsidies,0,not found evidence of subsidy
+Asia,Iraq,C1,Ambiguous,Fisher assistance,0,not found evidence of subsidy
+Asia,Iraq,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+Asia,Iraq,C3,Ambiguous,Rural fisher communities,0,not found evidence of subsidy
+Asia,Israel,A1,Beneficial,Fisheries mangt.,809638.8608,Modeled
+Asia,Israel,A2,Beneficial,Fishery R&D,189700.7843,Modeled
+Asia,Israel,A3,Beneficial,MPAs,485400.2559,Modeled
+Asia,Israel,B1,Capacity-enhancing,Boat constsruct. & renov.,108106.9553,Modeled
+Asia,Israel,B2,Capacity-enhancing,Fisheries dev. projects,0,not found evidence of subsidy
+Asia,Israel,B3,Capacity-enhancing,Fishing port develop.,0,not found evidence of subsidy
+Asia,Israel,B4,Capacity-enhancing,Markt. & storage infrast.,0,not found evidence of subsidy
+Asia,Israel,B5,Capacity-enhancing,Tax exemption,0,not found evidence of subsidy
+Asia,Israel,B6,Capacity-enhancing,Fishing access,0,not found evidence of subsidy
+Asia,Israel,B7,Capacity-enhancing,Fuel subsidies,0,not found evidence of subsidy
+Asia,Israel,C1,Ambiguous,Fisher assistance,0,not found evidence of subsidy
+Asia,Israel,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+Asia,Israel,C3,Ambiguous,Rural fisher communities,0,not found evidence of subsidy
+Asia,Japan,A1,Beneficial,Fisheries mangt.,345674903.4,Reported
+Asia,Japan,A2,Beneficial,Fishery R&D,160089659.9,Reported
+Asia,Japan,A3,Beneficial,MPAs,28316872.91,Modeled
+Asia,Japan,B1,Capacity-enhancing,Boat constsruct. & renov.,146739219.3,Modeled
+Asia,Japan,B2,Capacity-enhancing,Fisheries dev. projects,20731419.18,Reported
+Asia,Japan,B3,Capacity-enhancing,Fishing port develop.,659197308.7,Reported
+Asia,Japan,B4,Capacity-enhancing,Markt. & storage infrast.,28454674.41,Reported
+Asia,Japan,B5,Capacity-enhancing,Tax exemption,510935602.7,Modeled
+Asia,Japan,B6,Capacity-enhancing,Fishing access,112772067.1,Modeled
+Asia,Japan,B7,Capacity-enhancing,Fuel subsidies,631740242.5,Modeled
+Asia,Japan,C1,Ambiguous,Fisher assistance,75917356.22,Reported
+Asia,Japan,C2,Ambiguous,Vessel buyback,106928139.9,Modeled
+Asia,Japan,C3,Ambiguous,Rural fisher communities,32345071.11,Reported
+Asia,Jordan,A1,Beneficial,Fisheries mangt.,105387.0716,Modeled
+Asia,Jordan,A2,Beneficial,Fishery R&D,0,not found evidence of subsidy
+Asia,Jordan,A3,Beneficial,MPAs,0,not found evidence of subsidy
+Asia,Jordan,B1,Capacity-enhancing,Boat constsruct. & renov.,0,not found evidence of subsidy
+Asia,Jordan,B2,Capacity-enhancing,Fisheries dev. projects,41621.64651,Modeled
+Asia,Jordan,B3,Capacity-enhancing,Fishing port develop.,0,not found evidence of subsidy
+Asia,Jordan,B4,Capacity-enhancing,Markt. & storage infrast.,0,not found evidence of subsidy
+Asia,Jordan,B5,Capacity-enhancing,Tax exemption,0,not found evidence of subsidy
+Asia,Jordan,B6,Capacity-enhancing,Fishing access,0,not found evidence of subsidy
+Asia,Jordan,B7,Capacity-enhancing,Fuel subsidies,0,not found evidence of subsidy
+Asia,Jordan,C1,Ambiguous,Fisher assistance,0,not found evidence of subsidy
+Asia,Jordan,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+Asia,Jordan,C3,Ambiguous,Rural fisher communities,0,not found evidence of subsidy
+Asia,Korea D P Rp,A1,Beneficial,Fisheries mangt.,10400164.62,Modeled
+Asia,Korea D P Rp,A2,Beneficial,Fishery R&D,0,not found evidence of subsidy
+Asia,Korea D P Rp,A3,Beneficial,MPAs,0,not found evidence of subsidy
+Asia,Korea D P Rp,B1,Capacity-enhancing,Boat constsruct. & renov.,0,not found evidence of subsidy
+Asia,Korea D P Rp,B2,Capacity-enhancing,Fisheries dev. projects,0,not found evidence of subsidy
+Asia,Korea D P Rp,B3,Capacity-enhancing,Fishing port develop.,0,not found evidence of subsidy
+Asia,Korea D P Rp,B4,Capacity-enhancing,Markt. & storage infrast.,0,not found evidence of subsidy
+Asia,Korea D P Rp,B5,Capacity-enhancing,Tax exemption,0,not found evidence of subsidy
+Asia,Korea D P Rp,B6,Capacity-enhancing,Fishing access,975586.68,Modeled
+Asia,Korea D P Rp,B7,Capacity-enhancing,Fuel subsidies,0,not found evidence of subsidy
+Asia,Korea D P Rp,C1,Ambiguous,Fisher assistance,0,not found evidence of subsidy
+Asia,Korea D P Rp,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+Asia,Korea D P Rp,C3,Ambiguous,Rural fisher communities,0,not found evidence of subsidy
+Asia,Korea Rep,A1,Beneficial,Fisheries mangt.,1177574425,Reported
+Asia,Korea Rep,A2,Beneficial,Fishery R&D,457516062.9,Reported
+Asia,Korea Rep,A3,Beneficial,MPAs,0,not found evidence of subsidy
+Asia,Korea Rep,B1,Capacity-enhancing,Boat constsruct. & renov.,45751448.21,Modeled
+Asia,Korea Rep,B2,Capacity-enhancing,Fisheries dev. projects,131658318.6,Reported
+Asia,Korea Rep,B3,Capacity-enhancing,Fishing port develop.,231798842.7,Reported
+Asia,Korea Rep,B4,Capacity-enhancing,Markt. & storage infrast.,477334712.3,Reported
+Asia,Korea Rep,B5,Capacity-enhancing,Tax exemption,9013873.76,Reported
+Asia,Korea Rep,B6,Capacity-enhancing,Fishing access,0,not found evidence of subsidy
+Asia,Korea Rep,B7,Capacity-enhancing,Fuel subsidies,604031262.9,Modeled
+Asia,Korea Rep,C1,Ambiguous,Fisher assistance,4800088.96,Reported
+Asia,Korea Rep,C2,Ambiguous,Vessel buyback,33338852.96,Modeled
+Asia,Korea Rep,C3,Ambiguous,Rural fisher communities,12132870.4,Reported
+Asia,Kuwait,A1,Beneficial,Fisheries mangt.,6410762.503,Modeled
+Asia,Kuwait,A2,Beneficial,Fishery R&D,1502060.652,Modeled
+Asia,Kuwait,A3,Beneficial,MPAs,237044.8721,Modeled
+Asia,Kuwait,B1,Capacity-enhancing,Boat constsruct. & renov.,785523.3078,Modeled
+Asia,Kuwait,B2,Capacity-enhancing,Fisheries dev. projects,0,not found evidence of subsidy
+Asia,Kuwait,B3,Capacity-enhancing,Fishing port develop.,0,not found evidence of subsidy
+Asia,Kuwait,B4,Capacity-enhancing,Markt. & storage infrast.,1764715.001,Modeled
+Asia,Kuwait,B5,Capacity-enhancing,Tax exemption,0,not found evidence of subsidy
+Asia,Kuwait,B6,Capacity-enhancing,Fishing access,0,not found evidence of subsidy
+Asia,Kuwait,B7,Capacity-enhancing,Fuel subsidies,0,not found evidence of subsidy
+Asia,Kuwait,C1,Ambiguous,Fisher assistance,0,not found evidence of subsidy
+Asia,Kuwait,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+Asia,Kuwait,C3,Ambiguous,Rural fisher communities,0,not found evidence of subsidy
+Asia,Lebanon,A1,Beneficial,Fisheries mangt.,914696.4243,Modeled
+Asia,Lebanon,A2,Beneficial,Fishery R&D,0,not found evidence of subsidy
+Asia,Lebanon,A3,Beneficial,MPAs,705793.2829,Modeled
+Asia,Lebanon,B1,Capacity-enhancing,Boat constsruct. & renov.,0,not found evidence of subsidy
+Asia,Lebanon,B2,Capacity-enhancing,Fisheries dev. projects,361250.8703,Modeled
+Asia,Lebanon,B3,Capacity-enhancing,Fishing port develop.,0,not found evidence of subsidy
+Asia,Lebanon,B4,Capacity-enhancing,Markt. & storage infrast.,0,not found evidence of subsidy
+Asia,Lebanon,B5,Capacity-enhancing,Tax exemption,0,not found evidence of subsidy
+Asia,Lebanon,B6,Capacity-enhancing,Fishing access,4074.62,Modeled
+Asia,Lebanon,B7,Capacity-enhancing,Fuel subsidies,0,not found evidence of subsidy
+Asia,Lebanon,C1,Ambiguous,Fisher assistance,0,not found evidence of subsidy
+Asia,Lebanon,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+Asia,Lebanon,C3,Ambiguous,Rural fisher communities,0,not found evidence of subsidy
+Asia,Malaysia,A1,Beneficial,Fisheries mangt.,45873348.99,Reported
+Asia,Malaysia,A2,Beneficial,Fishery R&D,6499537.441,Reported
+Asia,Malaysia,A3,Beneficial,MPAs,8206086.762,Modeled
+Asia,Malaysia,B1,Capacity-enhancing,Boat constsruct. & renov.,48890373.63,Modeled
+Asia,Malaysia,B2,Capacity-enhancing,Fisheries dev. projects,60242002.23,Reported
+Asia,Malaysia,B3,Capacity-enhancing,Fishing port develop.,4141147.143,Reported
+Asia,Malaysia,B4,Capacity-enhancing,Markt. & storage infrast.,109834520.4,Modeled
+Asia,Malaysia,B5,Capacity-enhancing,Tax exemption,170232829.6,Modeled
+Asia,Malaysia,B6,Capacity-enhancing,Fishing access,3849380.43,Modeled
+Asia,Malaysia,B7,Capacity-enhancing,Fuel subsidies,74825408.33,Reported
+Asia,Malaysia,C1,Ambiguous,Fisher assistance,62847934.94,Reported
+Asia,Malaysia,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+Asia,Malaysia,C3,Ambiguous,Rural fisher communities,0,not found evidence of subsidy
+Asia,Maldives,A1,Beneficial,Fisheries mangt.,12135686.56,Modeled
+Asia,Maldives,A2,Beneficial,Fishery R&D,2843427.324,Modeled
+Asia,Maldives,A3,Beneficial,MPAs,5904549.878,Modeled
+Asia,Maldives,B1,Capacity-enhancing,Boat constsruct. & renov.,0,not found evidence of subsidy
+Asia,Maldives,B2,Capacity-enhancing,Fisheries dev. projects,4800934.228,Modeled
+Asia,Maldives,B3,Capacity-enhancing,Fishing port develop.,2796989.248,Modeled
+Asia,Maldives,B4,Capacity-enhancing,Markt. & storage infrast.,3646461.464,Modeled
+Asia,Maldives,B5,Capacity-enhancing,Tax exemption,0,not found evidence of subsidy
+Asia,Maldives,B6,Capacity-enhancing,Fishing access,0,not found evidence of subsidy
+Asia,Maldives,B7,Capacity-enhancing,Fuel subsidies,17437887.06,Modeled
+Asia,Maldives,C1,Ambiguous,Fisher assistance,0,not found evidence of subsidy
+Asia,Maldives,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+Asia,Maldives,C3,Ambiguous,Rural fisher communities,0,not found evidence of subsidy
+Asia,Myanmar,A1,Beneficial,Fisheries mangt.,3827487.505,Reported
+Asia,Myanmar,A2,Beneficial,Fishery R&D,10621182.25,Modeled
+Asia,Myanmar,A3,Beneficial,MPAs,618349.5365,Modeled
+Asia,Myanmar,B1,Capacity-enhancing,Boat constsruct. & renov.,0,not found evidence of subsidy
+Asia,Myanmar,B2,Capacity-enhancing,Fisheries dev. projects,3566126.393,Reported
+Asia,Myanmar,B3,Capacity-enhancing,Fishing port develop.,0,not found evidence of subsidy
+Asia,Myanmar,B4,Capacity-enhancing,Markt. & storage infrast.,103983563.2,Modeled
+Asia,Myanmar,B5,Capacity-enhancing,Tax exemption,0,not found evidence of subsidy
+Asia,Myanmar,B6,Capacity-enhancing,Fishing access,0,not found evidence of subsidy
+Asia,Myanmar,B7,Capacity-enhancing,Fuel subsidies,0,not found evidence of subsidy
+Asia,Myanmar,C1,Ambiguous,Fisher assistance,115497.8661,Reported
+Asia,Myanmar,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+Asia,Myanmar,C3,Ambiguous,Rural fisher communities,5464371.635,Modeled
+Asia,Oman,A1,Beneficial,Fisheries mangt.,49316872.12,Modeled
+Asia,Oman,A2,Beneficial,Fishery R&D,11555089.28,Modeled
+Asia,Oman,A3,Beneficial,MPAs,1058771.541,Modeled
+Asia,Oman,B1,Capacity-enhancing,Boat constsruct. & renov.,6597281.969,Modeled
+Asia,Oman,B2,Capacity-enhancing,Fisheries dev. projects,19513477.68,Modeled
+Asia,Oman,B3,Capacity-enhancing,Fishing port develop.,11368409.7,Modeled
+Asia,Oman,B4,Capacity-enhancing,Markt. & storage infrast.,14821103.77,Modeled
+Asia,Oman,B5,Capacity-enhancing,Tax exemption,0,not found evidence of subsidy
+Asia,Oman,B6,Capacity-enhancing,Fishing access,191570.48,Modeled
+Asia,Oman,B7,Capacity-enhancing,Fuel subsidies,32075590.7,Modeled
+Asia,Oman,C1,Ambiguous,Fisher assistance,0,not found evidence of subsidy
+Asia,Oman,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+Asia,Oman,C3,Ambiguous,Rural fisher communities,6180242.723,Modeled
+Asia,Pakistan,A1,Beneficial,Fisheries mangt.,54989948.76,Modeled
+Asia,Pakistan,A2,Beneficial,Fishery R&D,4440868.199,Modeled
+Asia,Pakistan,A3,Beneficial,MPAs,1312712.304,Modeled
+Asia,Pakistan,B1,Capacity-enhancing,Boat constsruct. & renov.,4662151.391,Modeled
+Asia,Pakistan,B2,Capacity-enhancing,Fisheries dev. projects,55003924.76,Modeled
+Asia,Pakistan,B3,Capacity-enhancing,Fishing port develop.,0,not found evidence of subsidy
+Asia,Pakistan,B4,Capacity-enhancing,Markt. & storage infrast.,77756610.46,Modeled
+Asia,Pakistan,B5,Capacity-enhancing,Tax exemption,0,not found evidence of subsidy
+Asia,Pakistan,B6,Capacity-enhancing,Fishing access,467245.44,Modeled
+Asia,Pakistan,B7,Capacity-enhancing,Fuel subsidies,0,not found evidence of subsidy
+Asia,Pakistan,C1,Ambiguous,Fisher assistance,8910808.828,Modeled
+Asia,Pakistan,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+Asia,Pakistan,C3,Ambiguous,Rural fisher communities,2284731.929,Modeled
+Asia,Philippines,A1,Beneficial,Fisheries mangt.,1250295.514,Reported
+Asia,Philippines,A2,Beneficial,Fishery R&D,11836904.69,Modeled
+Asia,Philippines,A3,Beneficial,MPAs,27904234.65,Modeled
+Asia,Philippines,B1,Capacity-enhancing,Boat constsruct. & renov.,13928267.81,Modeled
+Asia,Philippines,B2,Capacity-enhancing,Fisheries dev. projects,2984547.163,Reported
+Asia,Philippines,B3,Capacity-enhancing,Fishing port develop.,0,not found evidence of subsidy
+Asia,Philippines,B4,Capacity-enhancing,Markt. & storage infrast.,33394.59952,Reported
+Asia,Philippines,B5,Capacity-enhancing,Tax exemption,27367791.54,Modeled
+Asia,Philippines,B6,Capacity-enhancing,Fishing access,8652193.27,Modeled
+Asia,Philippines,B7,Capacity-enhancing,Fuel subsidies,86620873.61,Modeled
+Asia,Philippines,C1,Ambiguous,Fisher assistance,6431.433215,Reported
+Asia,Philippines,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+Asia,Philippines,C3,Ambiguous,Rural fisher communities,6089834.888,Modeled
+Asia,Qatar,A1,Beneficial,Fisheries mangt.,18936885.99,Modeled
+Asia,Qatar,A2,Beneficial,Fishery R&D,0,not found evidence of subsidy
+Asia,Qatar,A3,Beneficial,MPAs,295127.1652,Modeled
+Asia,Qatar,B1,Capacity-enhancing,Boat constsruct. & renov.,0,not found evidence of subsidy
+Asia,Qatar,B2,Capacity-enhancing,Fisheries dev. projects,0,not found evidence of subsidy
+Asia,Qatar,B3,Capacity-enhancing,Fishing port develop.,0,not found evidence of subsidy
+Asia,Qatar,B4,Capacity-enhancing,Markt. & storage infrast.,5670503.101,Modeled
+Asia,Qatar,B5,Capacity-enhancing,Tax exemption,0,not found evidence of subsidy
+Asia,Qatar,B6,Capacity-enhancing,Fishing access,0,not found evidence of subsidy
+Asia,Qatar,B7,Capacity-enhancing,Fuel subsidies,0,not found evidence of subsidy
+Asia,Qatar,C1,Ambiguous,Fisher assistance,1688841.26,Modeled
+Asia,Qatar,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+Asia,Qatar,C3,Ambiguous,Rural fisher communities,0,not found evidence of subsidy
+Asia,Saudi Arabia,A1,Beneficial,Fisheries mangt.,30694138.66,Modeled
+Asia,Saudi Arabia,A2,Beneficial,Fishery R&D,7191727.647,Modeled
+Asia,Saudi Arabia,A3,Beneficial,MPAs,1526504.565,Modeled
+Asia,Saudi Arabia,B1,Capacity-enhancing,Boat constsruct. & renov.,4262127.931,Modeled
+Asia,Saudi Arabia,B2,Capacity-enhancing,Fisheries dev. projects,12606545.94,Modeled
+Asia,Saudi Arabia,B3,Capacity-enhancing,Fishing port develop.,0,not found evidence of subsidy
+Asia,Saudi Arabia,B4,Capacity-enhancing,Markt. & storage infrast.,0,not found evidence of subsidy
+Asia,Saudi Arabia,B5,Capacity-enhancing,Tax exemption,0,not found evidence of subsidy
+Asia,Saudi Arabia,B6,Capacity-enhancing,Fishing access,846553.32,Modeled
+Asia,Saudi Arabia,B7,Capacity-enhancing,Fuel subsidies,0,not found evidence of subsidy
+Asia,Saudi Arabia,C1,Ambiguous,Fisher assistance,0,not found evidence of subsidy
+Asia,Saudi Arabia,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+Asia,Saudi Arabia,C3,Ambiguous,Rural fisher communities,3846497.537,Modeled
+Asia,Singapore,A1,Beneficial,Fisheries mangt.,713110.3625,Modeled
+Asia,Singapore,A2,Beneficial,Fishery R&D,0,not found evidence of subsidy
+Asia,Singapore,A3,Beneficial,MPAs,37964.82016,Modeled
+Asia,Singapore,B1,Capacity-enhancing,Boat constsruct. & renov.,0,not found evidence of subsidy
+Asia,Singapore,B2,Capacity-enhancing,Fisheries dev. projects,0,not found evidence of subsidy
+Asia,Singapore,B3,Capacity-enhancing,Fishing port develop.,0,not found evidence of subsidy
+Asia,Singapore,B4,Capacity-enhancing,Markt. & storage infrast.,0,not found evidence of subsidy
+Asia,Singapore,B5,Capacity-enhancing,Tax exemption,0,not found evidence of subsidy
+Asia,Singapore,B6,Capacity-enhancing,Fishing access,55432.35,Modeled
+Asia,Singapore,B7,Capacity-enhancing,Fuel subsidies,0,not found evidence of subsidy
+Asia,Singapore,C1,Ambiguous,Fisher assistance,0,not found evidence of subsidy
+Asia,Singapore,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+Asia,Singapore,C3,Ambiguous,Rural fisher communities,0,not found evidence of subsidy
+Asia,Sri Lanka,A1,Beneficial,Fisheries mangt.,5014719.851,Reported
+Asia,Sri Lanka,A2,Beneficial,Fishery R&D,1889334.72,Reported
+Asia,Sri Lanka,A3,Beneficial,MPAs,1198161.813,Modeled
+Asia,Sri Lanka,B1,Capacity-enhancing,Boat constsruct. & renov.,4428128.25,Reported
+Asia,Sri Lanka,B2,Capacity-enhancing,Fisheries dev. projects,12475061.17,Reported
+Asia,Sri Lanka,B3,Capacity-enhancing,Fishing port develop.,17887801.28,Reported
+Asia,Sri Lanka,B4,Capacity-enhancing,Markt. & storage infrast.,559610.4478,Reported
+Asia,Sri Lanka,B5,Capacity-enhancing,Tax exemption,31619903.22,Modeled
+Asia,Sri Lanka,B6,Capacity-enhancing,Fishing access,1512494.77,Modeled
+Asia,Sri Lanka,B7,Capacity-enhancing,Fuel subsidies,32800950,Reported
+Asia,Sri Lanka,C1,Ambiguous,Fisher assistance,239038.527,Reported
+Asia,Sri Lanka,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+Asia,Sri Lanka,C3,Ambiguous,Rural fisher communities,1312038,Reported
+Asia,Syria,A1,Beneficial,Fisheries mangt.,605688.8588,Modeled
+Asia,Syria,A2,Beneficial,Fishery R&D,0,not found evidence of subsidy
+Asia,Syria,A3,Beneficial,MPAs,0,not found evidence of subsidy
+Asia,Syria,B1,Capacity-enhancing,Boat constsruct. & renov.,0,not found evidence of subsidy
+Asia,Syria,B2,Capacity-enhancing,Fisheries dev. projects,0,not found evidence of subsidy
+Asia,Syria,B3,Capacity-enhancing,Fishing port develop.,0,not found evidence of subsidy
+Asia,Syria,B4,Capacity-enhancing,Markt. & storage infrast.,0,not found evidence of subsidy
+Asia,Syria,B5,Capacity-enhancing,Tax exemption,0,not found evidence of subsidy
+Asia,Syria,B6,Capacity-enhancing,Fishing access,0,not found evidence of subsidy
+Asia,Syria,B7,Capacity-enhancing,Fuel subsidies,0,not found evidence of subsidy
+Asia,Syria,C1,Ambiguous,Fisher assistance,0,not found evidence of subsidy
+Asia,Syria,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+Asia,Syria,C3,Ambiguous,Rural fisher communities,0,not found evidence of subsidy
+Asia,Taiwan,A1,Beneficial,Fisheries mangt.,52202342.22,Modeled
+Asia,Taiwan,A2,Beneficial,Fishery R&D,12231163.48,Modeled
+Asia,Taiwan,A3,Beneficial,MPAs,4157082.083,Modeled
+Asia,Taiwan,B1,Capacity-enhancing,Boat constsruct. & renov.,18304461.44,Modeled
+Asia,Taiwan,B2,Capacity-enhancing,Fisheries dev. projects,0,not found evidence of subsidy
+Asia,Taiwan,B3,Capacity-enhancing,Fishing port develop.,31542174.19,Modeled
+Asia,Taiwan,B4,Capacity-enhancing,Markt. & storage infrast.,41121832.25,Modeled
+Asia,Taiwan,B5,Capacity-enhancing,Tax exemption,0,not found evidence of subsidy
+Asia,Taiwan,B6,Capacity-enhancing,Fishing access,24497938.6,Modeled
+Asia,Taiwan,B7,Capacity-enhancing,Fuel subsidies,592949908.3,Modeled
+Asia,Taiwan,C1,Ambiguous,Fisher assistance,1850922.197,Reported
+Asia,Taiwan,C2,Ambiguous,Vessel buyback,7720655.777,Reported
+Asia,Taiwan,C3,Ambiguous,Rural fisher communities,0,not found evidence of subsidy
+Asia,Thailand,A1,Beneficial,Fisheries mangt.,66405473.16,Reported
+Asia,Thailand,A2,Beneficial,Fishery R&D,1840743.56,Reported
+Asia,Thailand,A3,Beneficial,MPAs,5551335.739,Modeled
+Asia,Thailand,B1,Capacity-enhancing,Boat constsruct. & renov.,4562539.203,Reported
+Asia,Thailand,B2,Capacity-enhancing,Fisheries dev. projects,756991.1976,Reported
+Asia,Thailand,B3,Capacity-enhancing,Fishing port develop.,160610126.6,Modeled
+Asia,Thailand,B4,Capacity-enhancing,Markt. & storage infrast.,34536270.78,Reported
+Asia,Thailand,B5,Capacity-enhancing,Tax exemption,324532515.3,Modeled
+Asia,Thailand,B6,Capacity-enhancing,Fishing access,292468417.5,Modeled
+Asia,Thailand,B7,Capacity-enhancing,Fuel subsidies,251385951.7,Modeled
+Asia,Thailand,C1,Ambiguous,Fisher assistance,907874.3592,Reported
+Asia,Thailand,C2,Ambiguous,Vessel buyback,3260958.378,Reported
+Asia,Thailand,C3,Ambiguous,Rural fisher communities,2229412.452,Reported
+Asia,Timor Leste,A1,Beneficial,Fisheries mangt.,729505.6968,Modeled
+Asia,Timor Leste,A2,Beneficial,Fishery R&D,0,not found evidence of subsidy
+Asia,Timor Leste,A3,Beneficial,MPAs,0,not found evidence of subsidy
+Asia,Timor Leste,B1,Capacity-enhancing,Boat constsruct. & renov.,0,not found evidence of subsidy
+Asia,Timor Leste,B2,Capacity-enhancing,Fisheries dev. projects,0,not found evidence of subsidy
+Asia,Timor Leste,B3,Capacity-enhancing,Fishing port develop.,0,not found evidence of subsidy
+Asia,Timor Leste,B4,Capacity-enhancing,Markt. & storage infrast.,0,not found evidence of subsidy
+Asia,Timor Leste,B5,Capacity-enhancing,Tax exemption,0,not found evidence of subsidy
+Asia,Timor Leste,B6,Capacity-enhancing,Fishing access,0,not found evidence of subsidy
+Asia,Timor Leste,B7,Capacity-enhancing,Fuel subsidies,0,not found evidence of subsidy
+Asia,Timor Leste,C1,Ambiguous,Fisher assistance,0,not found evidence of subsidy
+Asia,Timor Leste,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+Asia,Timor Leste,C3,Ambiguous,Rural fisher communities,0,not found evidence of subsidy
+Asia,Turkey,A1,Beneficial,Fisheries mangt.,36440721.89,Reported
+Asia,Turkey,A2,Beneficial,Fishery R&D,2681535.788,Reported
+Asia,Turkey,A3,Beneficial,MPAs,572203.5561,Modeled
+Asia,Turkey,B1,Capacity-enhancing,Boat constsruct. & renov.,0,not found evidence of subsidy
+Asia,Turkey,B2,Capacity-enhancing,Fisheries dev. projects,8315119.359,Reported
+Asia,Turkey,B3,Capacity-enhancing,Fishing port develop.,0,not found evidence of subsidy
+Asia,Turkey,B4,Capacity-enhancing,Markt. & storage infrast.,22586347.38,Modeled
+Asia,Turkey,B5,Capacity-enhancing,Tax exemption,0,not found evidence of subsidy
+Asia,Turkey,B6,Capacity-enhancing,Fishing access,2431707.74,Modeled
+Asia,Turkey,B7,Capacity-enhancing,Fuel subsidies,52629187.96,Reported
+Asia,Turkey,C1,Ambiguous,Fisher assistance,0,not found evidence of subsidy
+Asia,Turkey,C2,Ambiguous,Vessel buyback,14828655.02,Reported
+Asia,Turkey,C3,Ambiguous,Rural fisher communities,8815496.399,Modeled
+Asia,Untd Arab Em,A1,Beneficial,Fisheries mangt.,27294577.14,Modeled
+Asia,Untd Arab Em,A2,Beneficial,Fishery R&D,6395200.308,Modeled
+Asia,Untd Arab Em,A3,Beneficial,MPAs,4342666.708,Modeled
+Asia,Untd Arab Em,B1,Capacity-enhancing,Boat constsruct. & renov.,3826540.782,Modeled
+Asia,Untd Arab Em,B2,Capacity-enhancing,Fisheries dev. projects,0,not found evidence of subsidy
+Asia,Untd Arab Em,B3,Capacity-enhancing,Fishing port develop.,0,not found evidence of subsidy
+Asia,Untd Arab Em,B4,Capacity-enhancing,Markt. & storage infrast.,0,not found evidence of subsidy
+Asia,Untd Arab Em,B5,Capacity-enhancing,Tax exemption,0,not found evidence of subsidy
+Asia,Untd Arab Em,B6,Capacity-enhancing,Fishing access,1029802.24,Modeled
+Asia,Untd Arab Em,B7,Capacity-enhancing,Fuel subsidies,0,not found evidence of subsidy
+Asia,Untd Arab Em,C1,Ambiguous,Fisher assistance,0,not found evidence of subsidy
+Asia,Untd Arab Em,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+Asia,Untd Arab Em,C3,Ambiguous,Rural fisher communities,0,not found evidence of subsidy
+Asia,Viet Nam,A1,Beneficial,Fisheries mangt.,188797971.8,Modeled
+Asia,Viet Nam,A2,Beneficial,Fishery R&D,15246911.99,Modeled
+Asia,Viet Nam,A3,Beneficial,MPAs,9781832.868,Modeled
+Asia,Viet Nam,B1,Capacity-enhancing,Boat constsruct. & renov.,15967175.75,Modeled
+Asia,Viet Nam,B2,Capacity-enhancing,Fisheries dev. projects,8300468.702,Reported
+Asia,Viet Nam,B3,Capacity-enhancing,Fishing port develop.,15832740,Reported
+Asia,Viet Nam,B4,Capacity-enhancing,Markt. & storage infrast.,266304836.8,Modeled
+Asia,Viet Nam,B5,Capacity-enhancing,Tax exemption,31374061.96,Modeled
+Asia,Viet Nam,B6,Capacity-enhancing,Fishing access,74267.13,Modeled
+Asia,Viet Nam,B7,Capacity-enhancing,Fuel subsidies,0,not found evidence of subsidy
+Asia,Viet Nam,C1,Ambiguous,Fisher assistance,30518196.15,Modeled
+Asia,Viet Nam,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+Asia,Viet Nam,C3,Ambiguous,Rural fisher communities,7844210.88,Modeled
+Asia,Yemen,A1,Beneficial,Fisheries mangt.,38101911.94,Modeled
+Asia,Yemen,A2,Beneficial,Fishery R&D,0,not found evidence of subsidy
+Asia,Yemen,A3,Beneficial,MPAs,322152.4923,Modeled
+Asia,Yemen,B1,Capacity-enhancing,Boat constsruct. & renov.,0,not found evidence of subsidy
+Asia,Yemen,B2,Capacity-enhancing,Fisheries dev. projects,39146915.08,Modeled
+Asia,Yemen,B3,Capacity-enhancing,Fishing port develop.,0,not found evidence of subsidy
+Asia,Yemen,B4,Capacity-enhancing,Markt. & storage infrast.,55340258.72,Modeled
+Asia,Yemen,B5,Capacity-enhancing,Tax exemption,6519779.09,Modeled
+Asia,Yemen,B6,Capacity-enhancing,Fishing access,4310133.7,Modeled
+Asia,Yemen,B7,Capacity-enhancing,Fuel subsidies,37051455.27,Modeled
+Asia,Yemen,C1,Ambiguous,Fisher assistance,0,not found evidence of subsidy
+Asia,Yemen,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+Asia,Yemen,C3,Ambiguous,Rural fisher communities,0,not found evidence of subsidy
+Europe,Albania,A1,Beneficial,Fisheries mangt.,404279.0098,Modeled
+Europe,Albania,A2,Beneficial,Fishery R&D,94723.77003,Modeled
+Europe,Albania,A3,Beneficial,MPAs,1095096.061,Modeled
+Europe,Albania,B1,Capacity-enhancing,Boat constsruct. & renov.,0,not found evidence of subsidy
+Europe,Albania,B2,Capacity-enhancing,Fisheries dev. projects,159666.2457,Modeled
+Europe,Albania,B3,Capacity-enhancing,Fishing port develop.,93020.38965,Modeled
+Europe,Albania,B4,Capacity-enhancing,Markt. & storage infrast.,121271.566,Modeled
+Europe,Albania,B5,Capacity-enhancing,Tax exemption,0,not found evidence of subsidy
+Europe,Albania,B6,Capacity-enhancing,Fishing access,685.47,Modeled
+Europe,Albania,B7,Capacity-enhancing,Fuel subsidies,6613050.757,Modeled
+Europe,Albania,C1,Ambiguous,Fisher assistance,0,not found evidence of subsidy
+Europe,Albania,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+Europe,Albania,C3,Ambiguous,Rural fisher communities,0,not found evidence of subsidy
+Europe,Belgium,A1,Beneficial,Fisheries mangt.,3296561.546,Reported
+Europe,Belgium,A2,Beneficial,Fishery R&D,496189.7241,Reported
+Europe,Belgium,A3,Beneficial,MPAs,1757024.727,Modeled
+Europe,Belgium,B1,Capacity-enhancing,Boat constsruct. & renov.,61226.16941,Reported
+Europe,Belgium,B2,Capacity-enhancing,Fisheries dev. projects,911650.023,Reported
+Europe,Belgium,B3,Capacity-enhancing,Fishing port develop.,645794.6053,Reported
+Europe,Belgium,B4,Capacity-enhancing,Markt. & storage infrast.,338203.845,Reported
+Europe,Belgium,B5,Capacity-enhancing,Tax exemption,18834978.99,Reported
+Europe,Belgium,B6,Capacity-enhancing,Fishing access,779750.29,Modeled
+Europe,Belgium,B7,Capacity-enhancing,Fuel subsidies,5142150.503,Modeled
+Europe,Belgium,C1,Ambiguous,Fisher assistance,1305911.342,Modeled
+Europe,Belgium,C2,Ambiguous,Vessel buyback,1422252.683,Modeled
+Europe,Belgium,C3,Ambiguous,Rural fisher communities,0,not found evidence of subsidy
+Europe,Bosnia Herzg,A1,Beneficial,Fisheries mangt.,7849.27132,Modeled
+Europe,Bosnia Herzg,A2,Beneficial,Fishery R&D,0,not found evidence of subsidy
+Europe,Bosnia Herzg,A3,Beneficial,MPAs,0,not found evidence of subsidy
+Europe,Bosnia Herzg,B1,Capacity-enhancing,Boat constsruct. & renov.,0,not found evidence of subsidy
+Europe,Bosnia Herzg,B2,Capacity-enhancing,Fisheries dev. projects,0,not found evidence of subsidy
+Europe,Bosnia Herzg,B3,Capacity-enhancing,Fishing port develop.,0,not found evidence of subsidy
+Europe,Bosnia Herzg,B4,Capacity-enhancing,Markt. & storage infrast.,0,not found evidence of subsidy
+Europe,Bosnia Herzg,B5,Capacity-enhancing,Tax exemption,0,not found evidence of subsidy
+Europe,Bosnia Herzg,B6,Capacity-enhancing,Fishing access,0,not found evidence of subsidy
+Europe,Bosnia Herzg,B7,Capacity-enhancing,Fuel subsidies,0,not found evidence of subsidy
+Europe,Bosnia Herzg,C1,Ambiguous,Fisher assistance,0,not found evidence of subsidy
+Europe,Bosnia Herzg,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+Europe,Bosnia Herzg,C3,Ambiguous,Rural fisher communities,0,not found evidence of subsidy
+Europe,Bulgaria,A1,Beneficial,Fisheries mangt.,1891613.495,Modeled
+Europe,Bulgaria,A2,Beneficial,Fishery R&D,443210.6473,Modeled
+Europe,Bulgaria,A3,Beneficial,MPAs,5491622.52,Modeled
+Europe,Bulgaria,B1,Capacity-enhancing,Boat constsruct. & renov.,218338.5888,Modeled
+Europe,Bulgaria,B2,Capacity-enhancing,Fisheries dev. projects,0,not found evidence of subsidy
+Europe,Bulgaria,B3,Capacity-enhancing,Fishing port develop.,0,not found evidence of subsidy
+Europe,Bulgaria,B4,Capacity-enhancing,Markt. & storage infrast.,490507.8935,Modeled
+Europe,Bulgaria,B5,Capacity-enhancing,Tax exemption,0,not found evidence of subsidy
+Europe,Bulgaria,B6,Capacity-enhancing,Fishing access,0,not found evidence of subsidy
+Europe,Bulgaria,B7,Capacity-enhancing,Fuel subsidies,6787535.747,Modeled
+Europe,Bulgaria,C1,Ambiguous,Fisher assistance,146087.5612,Modeled
+Europe,Bulgaria,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+Europe,Bulgaria,C3,Ambiguous,Rural fisher communities,237051.3383,Modeled
+Europe,Croatia,A1,Beneficial,Fisheries mangt.,9524970.569,Modeled
+Europe,Croatia,A2,Beneficial,Fishery R&D,0,not found evidence of subsidy
+Europe,Croatia,A3,Beneficial,MPAs,30231776.27,Modeled
+Europe,Croatia,B1,Capacity-enhancing,Boat constsruct. & renov.,0,not found evidence of subsidy
+Europe,Croatia,B2,Capacity-enhancing,Fisheries dev. projects,3833895.54,Modeled
+Europe,Croatia,B3,Capacity-enhancing,Fishing port develop.,0,not found evidence of subsidy
+Europe,Croatia,B4,Capacity-enhancing,Markt. & storage infrast.,0,not found evidence of subsidy
+Europe,Croatia,B5,Capacity-enhancing,Tax exemption,0,not found evidence of subsidy
+Europe,Croatia,B6,Capacity-enhancing,Fishing access,50112.97,Modeled
+Europe,Croatia,B7,Capacity-enhancing,Fuel subsidies,0,not found evidence of subsidy
+Europe,Croatia,C1,Ambiguous,Fisher assistance,0,not found evidence of subsidy
+Europe,Croatia,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+Europe,Croatia,C3,Ambiguous,Rural fisher communities,0,not found evidence of subsidy
+Europe,Denmark,A1,Beneficial,Fisheries mangt.,9864278.813,Reported
+Europe,Denmark,A2,Beneficial,Fishery R&D,49642694.78,Modeled
+Europe,Denmark,A3,Beneficial,MPAs,71133967.21,Modeled
+Europe,Denmark,B1,Capacity-enhancing,Boat constsruct. & renov.,38503641.44,Modeled
+Europe,Denmark,B2,Capacity-enhancing,Fisheries dev. projects,2390097.943,Reported
+Europe,Denmark,B3,Capacity-enhancing,Fishing port develop.,1431729.611,Reported
+Europe,Denmark,B4,Capacity-enhancing,Markt. & storage infrast.,1217533.842,Reported
+Europe,Denmark,B5,Capacity-enhancing,Tax exemption,2328852.088,Reported
+Europe,Denmark,B6,Capacity-enhancing,Fishing access,5976721.13,Modeled
+Europe,Denmark,B7,Capacity-enhancing,Fuel subsidies,54339882.05,Reported
+Europe,Denmark,C1,Ambiguous,Fisher assistance,1557227.111,Reported
+Europe,Denmark,C2,Ambiguous,Vessel buyback,28057412.18,Modeled
+Europe,Denmark,C3,Ambiguous,Rural fisher communities,0,not found evidence of subsidy
+Europe,Estonia,A1,Beneficial,Fisheries mangt.,2846303.092,Reported
+Europe,Estonia,A2,Beneficial,Fishery R&D,211365.6744,Reported
+Europe,Estonia,A3,Beneficial,MPAs,45726485.06,Modeled
+Europe,Estonia,B1,Capacity-enhancing,Boat constsruct. & renov.,332905.6901,Modeled
+Europe,Estonia,B2,Capacity-enhancing,Fisheries dev. projects,0,not found evidence of subsidy
+Europe,Estonia,B3,Capacity-enhancing,Fishing port develop.,0,not found evidence of subsidy
+Europe,Estonia,B4,Capacity-enhancing,Markt. & storage infrast.,841097.4317,Reported
+Europe,Estonia,B5,Capacity-enhancing,Tax exemption,0,not found evidence of subsidy
+Europe,Estonia,B6,Capacity-enhancing,Fishing access,289083.83,Modeled
+Europe,Estonia,B7,Capacity-enhancing,Fuel subsidies,34609526.81,Reported
+Europe,Estonia,C1,Ambiguous,Fisher assistance,653478.2843,Reported
+Europe,Estonia,C2,Ambiguous,Vessel buyback,242586.7221,Modeled
+Europe,Estonia,C3,Ambiguous,Rural fisher communities,0,not found evidence of subsidy
+Europe,Finland,A1,Beneficial,Fisheries mangt.,3367746.519,Reported
+Europe,Finland,A2,Beneficial,Fishery R&D,274690.0084,Reported
+Europe,Finland,A3,Beneficial,MPAs,68029176.05,Modeled
+Europe,Finland,B1,Capacity-enhancing,Boat constsruct. & renov.,1169135.033,Modeled
+Europe,Finland,B2,Capacity-enhancing,Fisheries dev. projects,752063.4617,Reported
+Europe,Finland,B3,Capacity-enhancing,Fishing port develop.,274690.0084,Reported
+Europe,Finland,B4,Capacity-enhancing,Markt. & storage infrast.,563673.075,Reported
+Europe,Finland,B5,Capacity-enhancing,Tax exemption,4070845.651,Modeled
+Europe,Finland,B6,Capacity-enhancing,Fishing access,164441.84,Modeled
+Europe,Finland,B7,Capacity-enhancing,Fuel subsidies,5560472.756,Modeled
+Europe,Finland,C1,Ambiguous,Fisher assistance,782253.3185,Modeled
+Europe,Finland,C2,Ambiguous,Vessel buyback,28586.11633,Reported
+Europe,Finland,C3,Ambiguous,Rural fisher communities,0,not found evidence of subsidy
+Europe,France,A1,Beneficial,Fisheries mangt.,17355699.94,Reported
+Europe,France,A2,Beneficial,Fishery R&D,5519224.015,Reported
+Europe,France,A3,Beneficial,MPAs,107992258.6,Modeled
+Europe,France,B1,Capacity-enhancing,Boat constsruct. & renov.,3207366.134,Reported
+Europe,France,B2,Capacity-enhancing,Fisheries dev. projects,5654749.573,Reported
+Europe,France,B3,Capacity-enhancing,Fishing port develop.,40837845.26,Reported
+Europe,France,B4,Capacity-enhancing,Markt. & storage infrast.,8269915.73,Reported
+Europe,France,B5,Capacity-enhancing,Tax exemption,3382038.45,Reported
+Europe,France,B6,Capacity-enhancing,Fishing access,14783246.57,Modeled
+Europe,France,B7,Capacity-enhancing,Fuel subsidies,87393045.88,Modeled
+Europe,France,C1,Ambiguous,Fisher assistance,37455212.07,Reported
+Europe,France,C2,Ambiguous,Vessel buyback,984896.607,Reported
+Europe,France,C3,Ambiguous,Rural fisher communities,0,not found evidence of subsidy
+Europe,Georgia,A1,Beneficial,Fisheries mangt.,9901778.994,Modeled
+Europe,Georgia,A2,Beneficial,Fishery R&D,2320016.161,Modeled
+Europe,Georgia,A3,Beneficial,MPAs,492877.8627,Modeled
+Europe,Georgia,B1,Capacity-enhancing,Boat constsruct. & renov.,0,not found evidence of subsidy
+Europe,Georgia,B2,Capacity-enhancing,Fisheries dev. projects,1354512.457,Modeled
+Europe,Georgia,B3,Capacity-enhancing,Fishing port develop.,0,not found evidence of subsidy
+Europe,Georgia,B4,Capacity-enhancing,Markt. & storage infrast.,1028795.073,Modeled
+Europe,Georgia,B5,Capacity-enhancing,Tax exemption,0,not found evidence of subsidy
+Europe,Georgia,B6,Capacity-enhancing,Fishing access,55214.75,Modeled
+Europe,Georgia,B7,Capacity-enhancing,Fuel subsidies,0,not found evidence of subsidy
+Europe,Georgia,C1,Ambiguous,Fisher assistance,0,not found evidence of subsidy
+Europe,Georgia,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+Europe,Georgia,C3,Ambiguous,Rural fisher communities,1240861.29,Modeled
+Europe,Germany,A1,Beneficial,Fisheries mangt.,75911271.71,Reported
+Europe,Germany,A2,Beneficial,Fishery R&D,55600.37525,Reported
+Europe,Germany,A3,Beneficial,MPAs,46176231.36,Modeled
+Europe,Germany,B1,Capacity-enhancing,Boat constsruct. & renov.,69654.46399,Reported
+Europe,Germany,B2,Capacity-enhancing,Fisheries dev. projects,12716980.49,Reported
+Europe,Germany,B3,Capacity-enhancing,Fishing port develop.,15390944.59,Reported
+Europe,Germany,B4,Capacity-enhancing,Markt. & storage infrast.,1913311.376,Reported
+Europe,Germany,B5,Capacity-enhancing,Tax exemption,17155068.54,Modeled
+Europe,Germany,B6,Capacity-enhancing,Fishing access,5787534.17,Modeled
+Europe,Germany,B7,Capacity-enhancing,Fuel subsidies,17713136.88,Modeled
+Europe,Germany,C1,Ambiguous,Fisher assistance,164824.833,Reported
+Europe,Germany,C2,Ambiguous,Vessel buyback,1914929.644,Reported
+Europe,Germany,C3,Ambiguous,Rural fisher communities,0,not found evidence of subsidy
+Europe,Greece,A1,Beneficial,Fisheries mangt.,5672223.553,Reported
+Europe,Greece,A2,Beneficial,Fishery R&D,18576451.49,Modeled
+Europe,Greece,A3,Beneficial,MPAs,40727603.2,Modeled
+Europe,Greece,B1,Capacity-enhancing,Boat constsruct. & renov.,10978433.28,Modeled
+Europe,Greece,B2,Capacity-enhancing,Fisheries dev. projects,555270.1299,Reported
+Europe,Greece,B3,Capacity-enhancing,Fishing port develop.,3334540.538,Reported
+Europe,Greece,B4,Capacity-enhancing,Markt. & storage infrast.,225469.23,Reported
+Europe,Greece,B5,Capacity-enhancing,Tax exemption,38226129.65,Modeled
+Europe,Greece,B6,Capacity-enhancing,Fishing access,3851613.15,Modeled
+Europe,Greece,B7,Capacity-enhancing,Fuel subsidies,87456111.42,Reported
+Europe,Greece,C1,Ambiguous,Fisher assistance,7345529.489,Modeled
+Europe,Greece,C2,Ambiguous,Vessel buyback,2428444.525,Reported
+Europe,Greece,C3,Ambiguous,Rural fisher communities,0,not found evidence of subsidy
+Europe,Iceland,A1,Beneficial,Fisheries mangt.,35767416.31,Reported
+Europe,Iceland,A2,Beneficial,Fishery R&D,20569572.26,Reported
+Europe,Iceland,A3,Beneficial,MPAs,1531853.96,Modeled
+Europe,Iceland,B1,Capacity-enhancing,Boat constsruct. & renov.,0,not found evidence of subsidy
+Europe,Iceland,B2,Capacity-enhancing,Fisheries dev. projects,0,not found evidence of subsidy
+Europe,Iceland,B3,Capacity-enhancing,Fishing port develop.,0,not found evidence of subsidy
+Europe,Iceland,B4,Capacity-enhancing,Markt. & storage infrast.,8645022.577,Reported
+Europe,Iceland,B5,Capacity-enhancing,Tax exemption,68865010.39,Modeled
+Europe,Iceland,B6,Capacity-enhancing,Fishing access,13355709.04,Modeled
+Europe,Iceland,B7,Capacity-enhancing,Fuel subsidies,0,Reported
+Europe,Iceland,C1,Ambiguous,Fisher assistance,13233093.94,Modeled
+Europe,Iceland,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+Europe,Iceland,C3,Ambiguous,Rural fisher communities,0,not found evidence of subsidy
+Europe,Ireland,A1,Beneficial,Fisheries mangt.,58460651.99,Reported
+Europe,Ireland,A2,Beneficial,Fishery R&D,674664.1541,Reported
+Europe,Ireland,A3,Beneficial,MPAs,44553479.65,Modeled
+Europe,Ireland,B1,Capacity-enhancing,Boat constsruct. & renov.,5806200.896,Modeled
+Europe,Ireland,B2,Capacity-enhancing,Fisheries dev. projects,588949.9605,Reported
+Europe,Ireland,B3,Capacity-enhancing,Fishing port develop.,24496678,Reported
+Europe,Ireland,B4,Capacity-enhancing,Markt. & storage infrast.,15566418.49,Reported
+Europe,Ireland,B5,Capacity-enhancing,Tax exemption,353844.8361,Reported
+Europe,Ireland,B6,Capacity-enhancing,Fishing access,2518249.25,Modeled
+Europe,Ireland,B7,Capacity-enhancing,Fuel subsidies,18986601.27,Modeled
+Europe,Ireland,C1,Ambiguous,Fisher assistance,479754.6236,Reported
+Europe,Ireland,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+Europe,Ireland,C3,Ambiguous,Rural fisher communities,0,not found evidence of subsidy
+Europe,Italy,A1,Beneficial,Fisheries mangt.,5087203.792,Reported
+Europe,Italy,A2,Beneficial,Fishery R&D,5617141.482,Reported
+Europe,Italy,A3,Beneficial,MPAs,58137958.8,Modeled
+Europe,Italy,B1,Capacity-enhancing,Boat constsruct. & renov.,18805905.75,Modeled
+Europe,Italy,B2,Capacity-enhancing,Fisheries dev. projects,1490253.045,Reported
+Europe,Italy,B3,Capacity-enhancing,Fishing port develop.,0,not found evidence of subsidy
+Europe,Italy,B4,Capacity-enhancing,Markt. & storage infrast.,20267742.9,Reported
+Europe,Italy,B5,Capacity-enhancing,Tax exemption,21977613.19,Reported
+Europe,Italy,B6,Capacity-enhancing,Fishing access,26327033.95,Modeled
+Europe,Italy,B7,Capacity-enhancing,Fuel subsidies,103927228.1,Modeled
+Europe,Italy,C1,Ambiguous,Fisher assistance,12582791.35,Modeled
+Europe,Italy,C2,Ambiguous,Vessel buyback,80816037.33,Reported
+Europe,Italy,C3,Ambiguous,Rural fisher communities,0,not found evidence of subsidy
+Europe,Latvia,A1,Beneficial,Fisheries mangt.,1501625.072,Reported
+Europe,Latvia,A2,Beneficial,Fishery R&D,754535.8657,Modeled
+Europe,Latvia,A3,Beneficial,MPAs,8320886.737,Modeled
+Europe,Latvia,B1,Capacity-enhancing,Boat constsruct. & renov.,1149326.801,Modeled
+Europe,Latvia,B2,Capacity-enhancing,Fisheries dev. projects,1314872.55,Reported
+Europe,Latvia,B3,Capacity-enhancing,Fishing port develop.,1305355.234,Reported
+Europe,Latvia,B4,Capacity-enhancing,Markt. & storage infrast.,2931099.99,Reported
+Europe,Latvia,B5,Capacity-enhancing,Tax exemption,0,not found evidence of subsidy
+Europe,Latvia,B6,Capacity-enhancing,Fishing access,13676453.32,Modeled
+Europe,Latvia,B7,Capacity-enhancing,Fuel subsidies,9259273.11,Modeled
+Europe,Latvia,C1,Ambiguous,Fisher assistance,768999.8835,Modeled
+Europe,Latvia,C2,Ambiguous,Vessel buyback,137647.8376,Reported
+Europe,Latvia,C3,Ambiguous,Rural fisher communities,0,not found evidence of subsidy
+Europe,Lithuania,A1,Beneficial,Fisheries mangt.,304383.4605,Reported
+Europe,Lithuania,A2,Beneficial,Fishery R&D,294866.6146,Modeled
+Europe,Lithuania,A3,Beneficial,MPAs,7590381.571,Modeled
+Europe,Lithuania,B1,Capacity-enhancing,Boat constsruct. & renov.,1748424.106,Modeled
+Europe,Lithuania,B2,Capacity-enhancing,Fisheries dev. projects,518293.3791,Reported
+Europe,Lithuania,B3,Capacity-enhancing,Fishing port develop.,563704.6407,Reported
+Europe,Lithuania,B4,Capacity-enhancing,Markt. & storage infrast.,555556.1827,Reported
+Europe,Lithuania,B5,Capacity-enhancing,Tax exemption,6087889.308,Modeled
+Europe,Lithuania,B6,Capacity-enhancing,Fishing access,7697219.27,Modeled
+Europe,Lithuania,B7,Capacity-enhancing,Fuel subsidies,368084.7318,Reported
+Europe,Lithuania,C1,Ambiguous,Fisher assistance,1169848.239,Modeled
+Europe,Lithuania,C2,Ambiguous,Vessel buyback,644.8419978,Reported
+Europe,Lithuania,C3,Ambiguous,Rural fisher communities,0,not found evidence of subsidy
+Europe,Malta,A1,Beneficial,Fisheries mangt.,1116167.329,Modeled
+Europe,Malta,A2,Beneficial,Fishery R&D,261521.3129,Modeled
+Europe,Malta,A3,Beneficial,MPAs,8878676.274,Modeled
+Europe,Malta,B1,Capacity-enhancing,Boat constsruct. & renov.,2025845.11,Modeled
+Europe,Malta,B2,Capacity-enhancing,Fisheries dev. projects,0,not found evidence of subsidy
+Europe,Malta,B3,Capacity-enhancing,Fishing port develop.,0,not found evidence of subsidy
+Europe,Malta,B4,Capacity-enhancing,Markt. & storage infrast.,4551156.177,Modeled
+Europe,Malta,B5,Capacity-enhancing,Tax exemption,0,not found evidence of subsidy
+Europe,Malta,B6,Capacity-enhancing,Fishing access,4145226.03,Modeled
+Europe,Malta,B7,Capacity-enhancing,Fuel subsidies,3588460.69,Modeled
+Europe,Malta,C1,Ambiguous,Fisher assistance,1355467.089,Modeled
+Europe,Malta,C2,Ambiguous,Vessel buyback,1476223.264,Modeled
+Europe,Malta,C3,Ambiguous,Rural fisher communities,0,not found evidence of subsidy
+Europe,Monaco,A1,Beneficial,Fisheries mangt.,0,not found evidence of subsidy
+Europe,Monaco,A2,Beneficial,Fishery R&D,0,not found evidence of subsidy
+Europe,Monaco,A3,Beneficial,MPAs,0,not found evidence of subsidy
+Europe,Monaco,B1,Capacity-enhancing,Boat constsruct. & renov.,0,not found evidence of subsidy
+Europe,Monaco,B2,Capacity-enhancing,Fisheries dev. projects,0,not found evidence of subsidy
+Europe,Monaco,B3,Capacity-enhancing,Fishing port develop.,0,not found evidence of subsidy
+Europe,Monaco,B4,Capacity-enhancing,Markt. & storage infrast.,0,not found evidence of subsidy
+Europe,Monaco,B5,Capacity-enhancing,Tax exemption,0,not found evidence of subsidy
+Europe,Monaco,B6,Capacity-enhancing,Fishing access,0,not found evidence of subsidy
+Europe,Monaco,B7,Capacity-enhancing,Fuel subsidies,0,not found evidence of subsidy
+Europe,Monaco,C1,Ambiguous,Fisher assistance,0,not found evidence of subsidy
+Europe,Monaco,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+Europe,Monaco,C3,Ambiguous,Rural fisher communities,0,not found evidence of subsidy
+Europe,Montenegro,A1,Beneficial,Fisheries mangt.,280103.8154,Modeled
+Europe,Montenegro,A2,Beneficial,Fishery R&D,0,not found evidence of subsidy
+Europe,Montenegro,A3,Beneficial,MPAs,34342.3113,Modeled
+Europe,Montenegro,B1,Capacity-enhancing,Boat constsruct. & renov.,0,not found evidence of subsidy
+Europe,Montenegro,B2,Capacity-enhancing,Fisheries dev. projects,95855.77076,Modeled
+Europe,Montenegro,B3,Capacity-enhancing,Fishing port develop.,0,not found evidence of subsidy
+Europe,Montenegro,B4,Capacity-enhancing,Markt. & storage infrast.,0,not found evidence of subsidy
+Europe,Montenegro,B5,Capacity-enhancing,Tax exemption,0,not found evidence of subsidy
+Europe,Montenegro,B6,Capacity-enhancing,Fishing access,0,not found evidence of subsidy
+Europe,Montenegro,B7,Capacity-enhancing,Fuel subsidies,0,Reported
+Europe,Montenegro,C1,Ambiguous,Fisher assistance,0,not found evidence of subsidy
+Europe,Montenegro,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+Europe,Montenegro,C3,Ambiguous,Rural fisher communities,0,not found evidence of subsidy
+Europe,Netherlands,A1,Beneficial,Fisheries mangt.,18786099.32,Reported
+Europe,Netherlands,A2,Beneficial,Fishery R&D,1127059.849,Reported
+Europe,Netherlands,A3,Beneficial,MPAs,22549581.48,Modeled
+Europe,Netherlands,B1,Capacity-enhancing,Boat constsruct. & renov.,10239799.65,Modeled
+Europe,Netherlands,B2,Capacity-enhancing,Fisheries dev. projects,935123.7108,Reported
+Europe,Netherlands,B3,Capacity-enhancing,Fishing port develop.,0,not found evidence of subsidy
+Europe,Netherlands,B4,Capacity-enhancing,Markt. & storage infrast.,2180051.715,Reported
+Europe,Netherlands,B5,Capacity-enhancing,Tax exemption,35654259.51,Modeled
+Europe,Netherlands,B6,Capacity-enhancing,Fishing access,9927304.9,Modeled
+Europe,Netherlands,B7,Capacity-enhancing,Fuel subsidies,82563795.09,Reported
+Europe,Netherlands,C1,Ambiguous,Fisher assistance,6851319.164,Modeled
+Europe,Netherlands,C2,Ambiguous,Vessel buyback,7461691.12,Modeled
+Europe,Netherlands,C3,Ambiguous,Rural fisher communities,0,not found evidence of subsidy
+Europe,Norway,A1,Beneficial,Fisheries mangt.,117729335.3,Reported
+Europe,Norway,A2,Beneficial,Fishery R&D,83106764.43,Reported
+Europe,Norway,A3,Beneficial,MPAs,76910276.92,Modeled
+Europe,Norway,B1,Capacity-enhancing,Boat constsruct. & renov.,55851241.76,Modeled
+Europe,Norway,B2,Capacity-enhancing,Fisheries dev. projects,165197116.7,Modeled
+Europe,Norway,B3,Capacity-enhancing,Fishing port develop.,0,not found evidence of subsidy
+Europe,Norway,B4,Capacity-enhancing,Markt. & storage infrast.,4202313.633,Reported
+Europe,Norway,B5,Capacity-enhancing,Tax exemption,194470081,Modeled
+Europe,Norway,B6,Capacity-enhancing,Fishing access,49260505.61,Modeled
+Europe,Norway,B7,Capacity-enhancing,Fuel subsidies,58254825.88,Reported
+Europe,Norway,C1,Ambiguous,Fisher assistance,170877.211,Reported
+Europe,Norway,C2,Ambiguous,Vessel buyback,40698522.33,Modeled
+Europe,Norway,C3,Ambiguous,Rural fisher communities,0,not found evidence of subsidy
+Europe,Poland,A1,Beneficial,Fisheries mangt.,992064.612,Reported
+Europe,Poland,A2,Beneficial,Fishery R&D,2108920.111,Modeled
+Europe,Poland,A3,Beneficial,MPAs,12310429.78,Modeled
+Europe,Poland,B1,Capacity-enhancing,Boat constsruct. & renov.,5180732.12,Modeled
+Europe,Poland,B2,Capacity-enhancing,Fisheries dev. projects,5474992.562,Reported
+Europe,Poland,B3,Capacity-enhancing,Fishing port develop.,904061.7168,Reported
+Europe,Poland,B4,Capacity-enhancing,Markt. & storage infrast.,4661049.848,Reported
+Europe,Poland,B5,Capacity-enhancing,Tax exemption,18038943.51,Modeled
+Europe,Poland,B6,Capacity-enhancing,Fishing access,12753918.68,Modeled
+Europe,Poland,B7,Capacity-enhancing,Fuel subsidies,9907748.061,Modeled
+Europe,Poland,C1,Ambiguous,Fisher assistance,3466361.694,Modeled
+Europe,Poland,C2,Ambiguous,Vessel buyback,336019.0482,Reported
+Europe,Poland,C3,Ambiguous,Rural fisher communities,0,not found evidence of subsidy
+Europe,Portugal,A1,Beneficial,Fisheries mangt.,3503115.774,Reported
+Europe,Portugal,A2,Beneficial,Fishery R&D,11132888.97,Modeled
+Europe,Portugal,A3,Beneficial,MPAs,28305028.09,Modeled
+Europe,Portugal,B1,Capacity-enhancing,Boat constsruct. & renov.,240467.4432,Reported
+Europe,Portugal,B2,Capacity-enhancing,Fisheries dev. projects,2105986.211,Reported
+Europe,Portugal,B3,Capacity-enhancing,Fishing port develop.,1071028.446,Reported
+Europe,Portugal,B4,Capacity-enhancing,Markt. & storage infrast.,2771668.443,Reported
+Europe,Portugal,B5,Capacity-enhancing,Tax exemption,0,not found evidence of subsidy
+Europe,Portugal,B6,Capacity-enhancing,Fishing access,3488440.12,Modeled
+Europe,Portugal,B7,Capacity-enhancing,Fuel subsidies,86191614.78,Modeled
+Europe,Portugal,C1,Ambiguous,Fisher assistance,1437098.033,Reported
+Europe,Portugal,C2,Ambiguous,Vessel buyback,480934.8864,Reported
+Europe,Portugal,C3,Ambiguous,Rural fisher communities,0,not found evidence of subsidy
+Europe,Romania,A1,Beneficial,Fisheries mangt.,596042.3219,Modeled
+Europe,Romania,A2,Beneficial,Fishery R&D,139654.4823,Modeled
+Europe,Romania,A3,Beneficial,MPAs,3903249.213,Modeled
+Europe,Romania,B1,Capacity-enhancing,Boat constsruct. & renov.,45347.56574,Modeled
+Europe,Romania,B2,Capacity-enhancing,Fisheries dev. projects,134129.2847,Modeled
+Europe,Romania,B3,Capacity-enhancing,Fishing port develop.,0,not found evidence of subsidy
+Europe,Romania,B4,Capacity-enhancing,Markt. & storage infrast.,101875.4361,Modeled
+Europe,Romania,B5,Capacity-enhancing,Tax exemption,157897.0226,Modeled
+Europe,Romania,B6,Capacity-enhancing,Fishing access,4792700.09,Modeled
+Europe,Romania,B7,Capacity-enhancing,Fuel subsidies,737947.2848,Modeled
+Europe,Romania,C1,Ambiguous,Fisher assistance,30341.47706,Modeled
+Europe,Romania,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+Europe,Romania,C3,Ambiguous,Rural fisher communities,0,not found evidence of subsidy
+Europe,Russian Federation,A1,Beneficial,Fisheries mangt.,135078647.1,Reported
+Europe,Russian Federation,A2,Beneficial,Fishery R&D,125468312,Modeled
+Europe,Russian Federation,A3,Beneficial,MPAs,34949718.49,Modeled
+Europe,Russian Federation,B1,Capacity-enhancing,Boat constsruct. & renov.,10062774.32,Reported
+Europe,Russian Federation,B2,Capacity-enhancing,Fisheries dev. projects,58669753.96,Reported
+Europe,Russian Federation,B3,Capacity-enhancing,Fishing port develop.,1443977.649,Reported
+Europe,Russian Federation,B4,Capacity-enhancing,Markt. & storage infrast.,20706266.67,Reported
+Europe,Russian Federation,B5,Capacity-enhancing,Tax exemption,980113207.6,Reported
+Europe,Russian Federation,B6,Capacity-enhancing,Fishing access,89174582.28,Modeled
+Europe,Russian Federation,B7,Capacity-enhancing,Fuel subsidies,1844332.031,Reported
+Europe,Russian Federation,C1,Ambiguous,Fisher assistance,1270701.202,Reported
+Europe,Russian Federation,C2,Ambiguous,Vessel buyback,52939694.14,Modeled
+Europe,Russian Federation,C3,Ambiguous,Rural fisher communities,0,not found evidence of subsidy
+Europe,Slovenia,A1,Beneficial,Fisheries mangt.,681151.3095,Reported
+Europe,Slovenia,A2,Beneficial,Fishery R&D,591385.5925,Reported
+Europe,Slovenia,A3,Beneficial,MPAs,2040485.547,Modeled
+Europe,Slovenia,B1,Capacity-enhancing,Boat constsruct. & renov.,19023.17422,Modeled
+Europe,Slovenia,B2,Capacity-enhancing,Fisheries dev. projects,34403.15393,Reported
+Europe,Slovenia,B3,Capacity-enhancing,Fishing port develop.,51897.24263,Reported
+Europe,Slovenia,B4,Capacity-enhancing,Markt. & storage infrast.,42736.45427,Modeled
+Europe,Slovenia,B5,Capacity-enhancing,Tax exemption,0,not found evidence of subsidy
+Europe,Slovenia,B6,Capacity-enhancing,Fishing access,1439347.51,Modeled
+Europe,Slovenia,B7,Capacity-enhancing,Fuel subsidies,70948.2486,Reported
+Europe,Slovenia,C1,Ambiguous,Fisher assistance,12728.16291,Modeled
+Europe,Slovenia,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+Europe,Slovenia,C3,Ambiguous,Rural fisher communities,0,not found evidence of subsidy
+Europe,Spain,A1,Beneficial,Fisheries mangt.,25413428.31,Reported
+Europe,Spain,A2,Beneficial,Fishery R&D,36118031.01,Modeled
+Europe,Spain,A3,Beneficial,MPAs,88665450.12,Modeled
+Europe,Spain,B1,Capacity-enhancing,Boat constsruct. & renov.,4823053.743,Reported
+Europe,Spain,B2,Capacity-enhancing,Fisheries dev. projects,16033494.34,Reported
+Europe,Spain,B3,Capacity-enhancing,Fishing port develop.,7675249.916,Reported
+Europe,Spain,B4,Capacity-enhancing,Markt. & storage infrast.,16243693.93,Reported
+Europe,Spain,B5,Capacity-enhancing,Tax exemption,461545847.8,Reported
+Europe,Spain,B6,Capacity-enhancing,Fishing access,90588507.18,Modeled
+Europe,Spain,B7,Capacity-enhancing,Fuel subsidies,85922565.74,Reported
+Europe,Spain,C1,Ambiguous,Fisher assistance,3622852.512,Reported
+Europe,Spain,C2,Ambiguous,Vessel buyback,7000077.798,Reported
+Europe,Spain,C3,Ambiguous,Rural fisher communities,0,not found evidence of subsidy
+Europe,Sweden,A1,Beneficial,Fisheries mangt.,26719135.01,Reported
+Europe,Sweden,A2,Beneficial,Fishery R&D,627378.5279,Reported
+Europe,Sweden,A3,Beneficial,MPAs,150338399.6,Modeled
+Europe,Sweden,B1,Capacity-enhancing,Boat constsruct. & renov.,2655791.664,Modeled
+Europe,Sweden,B2,Capacity-enhancing,Fisheries dev. projects,3344151.501,Reported
+Europe,Sweden,B3,Capacity-enhancing,Fishing port develop.,94509.83958,Reported
+Europe,Sweden,B4,Capacity-enhancing,Markt. & storage infrast.,2481866.933,Reported
+Europe,Sweden,B5,Capacity-enhancing,Tax exemption,8192641.1,Reported
+Europe,Sweden,B6,Capacity-enhancing,Fishing access,186009.68,Modeled
+Europe,Sweden,B7,Capacity-enhancing,Fuel subsidies,27026405.61,Reported
+Europe,Sweden,C1,Ambiguous,Fisher assistance,3161527.447,Reported
+Europe,Sweden,C2,Ambiguous,Vessel buyback,1935262.188,Modeled
+Europe,Sweden,C3,Ambiguous,Rural fisher communities,0,not found evidence of subsidy
+Europe,Ukraine,A1,Beneficial,Fisheries mangt.,4157123.464,Modeled
+Europe,Ukraine,A2,Beneficial,Fishery R&D,0,not found evidence of subsidy
+Europe,Ukraine,A3,Beneficial,MPAs,5465943.455,Modeled
+Europe,Ukraine,B1,Capacity-enhancing,Boat constsruct. & renov.,2779029.504,Modeled
+Europe,Ukraine,B2,Capacity-enhancing,Fisheries dev. projects,8219829.081,Modeled
+Europe,Ukraine,B3,Capacity-enhancing,Fishing port develop.,0,not found evidence of subsidy
+Europe,Ukraine,B4,Capacity-enhancing,Markt. & storage infrast.,0,not found evidence of subsidy
+Europe,Ukraine,B5,Capacity-enhancing,Tax exemption,0,not found evidence of subsidy
+Europe,Ukraine,B6,Capacity-enhancing,Fishing access,9346391.36,Modeled
+Europe,Ukraine,B7,Capacity-enhancing,Fuel subsidies,40267757.64,Modeled
+Europe,Ukraine,C1,Ambiguous,Fisher assistance,0,not found evidence of subsidy
+Europe,Ukraine,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+Europe,Ukraine,C3,Ambiguous,Rural fisher communities,520958.263,Modeled
+Europe,United Kingdom,A1,Beneficial,Fisheries mangt.,27850200.86,Reported
+Europe,United Kingdom,A2,Beneficial,Fishery R&D,2331460.224,Reported
+Europe,United Kingdom,A3,Beneficial,MPAs,230078592.9,Modeled
+Europe,United Kingdom,B1,Capacity-enhancing,Boat constsruct. & renov.,552703.6406,Reported
+Europe,United Kingdom,B2,Capacity-enhancing,Fisheries dev. projects,7103821.978,Reported
+Europe,United Kingdom,B3,Capacity-enhancing,Fishing port develop.,2760246.86,Reported
+Europe,United Kingdom,B4,Capacity-enhancing,Markt. & storage infrast.,7237121.591,Reported
+Europe,United Kingdom,B5,Capacity-enhancing,Tax exemption,0,not found evidence of subsidy
+Europe,United Kingdom,B6,Capacity-enhancing,Fishing access,2950640.49,Modeled
+Europe,United Kingdom,B7,Capacity-enhancing,Fuel subsidies,64386296.09,Modeled
+Europe,United Kingdom,C1,Ambiguous,Fisher assistance,2358501.778,Reported
+Europe,United Kingdom,C2,Ambiguous,Vessel buyback,16345552.27,Modeled
+Europe,United Kingdom,C3,Ambiguous,Rural fisher communities,6230662.501,Reported
+North America,Canada,A1,Beneficial,Fisheries mangt.,280471131.4,Reported
+North America,Canada,A2,Beneficial,Fishery R&D,2459332.459,Reported
+North America,Canada,A3,Beneficial,MPAs,105237495,Modeled
+North America,Canada,B1,Capacity-enhancing,Boat constsruct. & renov.,3549806.3,Reported
+North America,Canada,B2,Capacity-enhancing,Fisheries dev. projects,9683507.593,Reported
+North America,Canada,B3,Capacity-enhancing,Fishing port develop.,70927867.73,Reported
+North America,Canada,B4,Capacity-enhancing,Markt. & storage infrast.,1848857.448,Reported
+North America,Canada,B5,Capacity-enhancing,Tax exemption,39069952.88,Reported
+North America,Canada,B6,Capacity-enhancing,Fishing access,16727.93,Modeled
+North America,Canada,B7,Capacity-enhancing,Fuel subsidies,69117291.51,Modeled
+North America,Canada,C1,Ambiguous,Fisher assistance,240697699.1,Reported
+North America,Canada,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+North America,Canada,C3,Ambiguous,Rural fisher communities,30057408.62,Reported
+North America,Mexico,A1,Beneficial,Fisheries mangt.,14263871.06,Reported
+North America,Mexico,A2,Beneficial,Fishery R&D,8012475.488,Reported
+North America,Mexico,A3,Beneficial,MPAs,35935636.06,Modeled
+North America,Mexico,B1,Capacity-enhancing,Boat constsruct. & renov.,11882190.44,Reported
+North America,Mexico,B2,Capacity-enhancing,Fisheries dev. projects,9647077.022,Reported
+North America,Mexico,B3,Capacity-enhancing,Fishing port develop.,0,not found evidence of subsidy
+North America,Mexico,B4,Capacity-enhancing,Markt. & storage infrast.,14807664.6,Reported
+North America,Mexico,B5,Capacity-enhancing,Tax exemption,130530799.4,Reported
+North America,Mexico,B6,Capacity-enhancing,Fishing access,323782.64,Modeled
+North America,Mexico,B7,Capacity-enhancing,Fuel subsidies,23585488.95,Reported
+North America,Mexico,C1,Ambiguous,Fisher assistance,24293424.24,Reported
+North America,Mexico,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+North America,Mexico,C3,Ambiguous,Rural fisher communities,0,not found evidence of subsidy
+North America,USA,A1,Beneficial,Fisheries mangt.,1956419781,Reported
+North America,USA,A2,Beneficial,Fishery R&D,40127780.2,Reported
+North America,USA,A3,Beneficial,MPAs,190570703,Modeled
+North America,USA,B1,Capacity-enhancing,Boat constsruct. & renov.,2659142.906,Reported
+North America,USA,B1,Capacity-enhancing,Boat constsruct. & renov.,145180302.4,Modeled
+North America,USA,B2,Capacity-enhancing,Fisheries dev. projects,336524.2479,Reported
+North America,USA,B3,Capacity-enhancing,Fishing port develop.,0,not found evidence of subsidy
+North America,USA,B4,Capacity-enhancing,Markt. & storage infrast.,231130019.7,Reported
+North America,USA,B5,Capacity-enhancing,Tax exemption,505507564.2,Modeled
+North America,USA,B6,Capacity-enhancing,Fishing access,50418583.06,Modeled
+North America,USA,B7,Capacity-enhancing,Fuel subsidies,200996603.5,Modeled
+North America,USA,C1,Ambiguous,Fisher assistance,349000,Reported
+North America,USA,C2,Ambiguous,Vessel buyback,105792164.9,Modeled
+North America,USA,C3,Ambiguous,Rural fisher communities,0,not found evidence of subsidy
+Oceania,Australia,A1,Beneficial,Fisheries mangt.,103315416.4,Reported
+Oceania,Australia,A2,Beneficial,Fishery R&D,53391595.81,Reported
+Oceania,Australia,A3,Beneficial,MPAs,181232631.4,Modeled
+Oceania,Australia,B1,Capacity-enhancing,Boat constsruct. & renov.,12903829.25,Modeled
+Oceania,Australia,B2,Capacity-enhancing,Fisheries dev. projects,0,not found evidence of subsidy
+Oceania,Australia,B3,Capacity-enhancing,Fishing port develop.,0,not found evidence of subsidy
+Oceania,Australia,B4,Capacity-enhancing,Markt. & storage infrast.,344832.0795,Reported
+Oceania,Australia,B5,Capacity-enhancing,Tax exemption,0,not found evidence of subsidy
+Oceania,Australia,B6,Capacity-enhancing,Fishing access,2845893.93,Modeled
+Oceania,Australia,B7,Capacity-enhancing,Fuel subsidies,12218003.96,Modeled
+Oceania,Australia,C1,Ambiguous,Fisher assistance,19086634.93,Reported
+Oceania,Australia,C2,Ambiguous,Vessel buyback,9402956.25,Modeled
+Oceania,Australia,C3,Ambiguous,Rural fisher communities,2477287.567,Reported
+Oceania,Fiji,A1,Beneficial,Fisheries mangt.,13292325.35,Modeled
+Oceania,Fiji,A2,Beneficial,Fishery R&D,0,not found evidence of subsidy
+Oceania,Fiji,A3,Beneficial,MPAs,21420911.46,Modeled
+Oceania,Fiji,B1,Capacity-enhancing,Boat constsruct. & renov.,1795164.478,Modeled
+Oceania,Fiji,B2,Capacity-enhancing,Fisheries dev. projects,5309747.58,Modeled
+Oceania,Fiji,B3,Capacity-enhancing,Fishing port develop.,0,not found evidence of subsidy
+Oceania,Fiji,B4,Capacity-enhancing,Markt. & storage infrast.,4032921.305,Modeled
+Oceania,Fiji,B5,Capacity-enhancing,Tax exemption,6250635.984,Modeled
+Oceania,Fiji,B6,Capacity-enhancing,Fishing access,216026.71,Modeled
+Oceania,Fiji,B7,Capacity-enhancing,Fuel subsidies,7198192.866,Modeled
+Oceania,Fiji,C1,Ambiguous,Fisher assistance,0,not found evidence of subsidy
+Oceania,Fiji,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+Oceania,Fiji,C3,Ambiguous,Rural fisher communities,1665754.406,Modeled
+Oceania,Kiribati,A1,Beneficial,Fisheries mangt.,51239495.47,Modeled
+Oceania,Kiribati,A2,Beneficial,Fishery R&D,0,not found evidence of subsidy
+Oceania,Kiribati,A3,Beneficial,MPAs,5196945,Modeled
+Oceania,Kiribati,B1,Capacity-enhancing,Boat constsruct. & renov.,532375.7763,Modeled
+Oceania,Kiribati,B2,Capacity-enhancing,Fisheries dev. projects,6280953.725,Modeled
+Oceania,Kiribati,B3,Capacity-enhancing,Fishing port develop.,0,not found evidence of subsidy
+Oceania,Kiribati,B4,Capacity-enhancing,Markt. & storage infrast.,8879105.887,Modeled
+Oceania,Kiribati,B5,Capacity-enhancing,Tax exemption,0,not found evidence of subsidy
+Oceania,Kiribati,B6,Capacity-enhancing,Fishing access,1083381.27,Modeled
+Oceania,Kiribati,B7,Capacity-enhancing,Fuel subsidies,639435.9828,Modeled
+Oceania,Kiribati,C1,Ambiguous,Fisher assistance,0,not found evidence of subsidy
+Oceania,Kiribati,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+Oceania,Kiribati,C3,Ambiguous,Rural fisher communities,0,not found evidence of subsidy
+Oceania,Marshall Is,A1,Beneficial,Fisheries mangt.,20402368.99,Modeled
+Oceania,Marshall Is,A2,Beneficial,Fishery R&D,4780335.514,Modeled
+Oceania,Marshall Is,A3,Beneficial,MPAs,2972441.8,Modeled
+Oceania,Marshall Is,B1,Capacity-enhancing,Boat constsruct. & renov.,0,not found evidence of subsidy
+Oceania,Marshall Is,B2,Capacity-enhancing,Fisheries dev. projects,2089377.51,Modeled
+Oceania,Marshall Is,B3,Capacity-enhancing,Fishing port develop.,1217256.091,Modeled
+Oceania,Marshall Is,B4,Capacity-enhancing,Markt. & storage infrast.,1586948.334,Modeled
+Oceania,Marshall Is,B5,Capacity-enhancing,Tax exemption,0,not found evidence of subsidy
+Oceania,Marshall Is,B6,Capacity-enhancing,Fishing access,1928764.83,Modeled
+Oceania,Marshall Is,B7,Capacity-enhancing,Fuel subsidies,0,not found evidence of subsidy
+Oceania,Marshall Is,C1,Ambiguous,Fisher assistance,0,not found evidence of subsidy
+Oceania,Marshall Is,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+Oceania,Marshall Is,C3,Ambiguous,Rural fisher communities,0,not found evidence of subsidy
+Oceania,Micronesia,A1,Beneficial,Fisheries mangt.,1944724.765,Reported
+Oceania,Micronesia,A2,Beneficial,Fishery R&D,959465.2049,Modeled
+Oceania,Micronesia,A3,Beneficial,MPAs,0,not found evidence of subsidy
+Oceania,Micronesia,B1,Capacity-enhancing,Boat constsruct. & renov.,406750.3119,Modeled
+Oceania,Micronesia,B2,Capacity-enhancing,Fisheries dev. projects,2126635.412,Reported
+Oceania,Micronesia,B3,Capacity-enhancing,Fishing port develop.,3984136.3,Modeled
+Oceania,Micronesia,B4,Capacity-enhancing,Markt. & storage infrast.,552077.4232,Reported
+Oceania,Micronesia,B5,Capacity-enhancing,Tax exemption,0,not found evidence of subsidy
+Oceania,Micronesia,B6,Capacity-enhancing,Fishing access,1650680.35,Modeled
+Oceania,Micronesia,B7,Capacity-enhancing,Fuel subsidies,0,not found evidence of subsidy
+Oceania,Micronesia,C1,Ambiguous,Fisher assistance,0,not found evidence of subsidy
+Oceania,Micronesia,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+Oceania,Micronesia,C3,Ambiguous,Rural fisher communities,0,not found evidence of subsidy
+Oceania,Nauru,A1,Beneficial,Fisheries mangt.,12155805,Modeled
+Oceania,Nauru,A2,Beneficial,Fishery R&D,981676.2714,Modeled
+Oceania,Nauru,A3,Beneficial,MPAs,0,not found evidence of subsidy
+Oceania,Nauru,B1,Capacity-enhancing,Boat constsruct. & renov.,4706.758548,Modeled
+Oceania,Nauru,B2,Capacity-enhancing,Fisheries dev. projects,55530.19869,Modeled
+Oceania,Nauru,B3,Capacity-enhancing,Fishing port develop.,46102.89664,Modeled
+Oceania,Nauru,B4,Capacity-enhancing,Markt. & storage infrast.,78500.58059,Modeled
+Oceania,Nauru,B5,Capacity-enhancing,Tax exemption,0,not found evidence of subsidy
+Oceania,Nauru,B6,Capacity-enhancing,Fishing access,382.52,Modeled
+Oceania,Nauru,B7,Capacity-enhancing,Fuel subsidies,0,not found evidence of subsidy
+Oceania,Nauru,C1,Ambiguous,Fisher assistance,0,not found evidence of subsidy
+Oceania,Nauru,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+Oceania,Nauru,C3,Ambiguous,Rural fisher communities,0,not found evidence of subsidy
+Oceania,New Zealand,A1,Beneficial,Fisheries mangt.,44594142.07,Reported
+Oceania,New Zealand,A2,Beneficial,Fishery R&D,0,not found evidence of subsidy
+Oceania,New Zealand,A3,Beneficial,MPAs,32027483.06,Modeled
+Oceania,New Zealand,B1,Capacity-enhancing,Boat constsruct. & renov.,0,not found evidence of subsidy
+Oceania,New Zealand,B2,Capacity-enhancing,Fisheries dev. projects,0,not found evidence of subsidy
+Oceania,New Zealand,B3,Capacity-enhancing,Fishing port develop.,0,not found evidence of subsidy
+Oceania,New Zealand,B4,Capacity-enhancing,Markt. & storage infrast.,0,not found evidence of subsidy
+Oceania,New Zealand,B5,Capacity-enhancing,Tax exemption,0,not found evidence of subsidy
+Oceania,New Zealand,B6,Capacity-enhancing,Fishing access,785595.88,Modeled
+Oceania,New Zealand,B7,Capacity-enhancing,Fuel subsidies,28166225.58,Modeled
+Oceania,New Zealand,C1,Ambiguous,Fisher assistance,710516.42,Reported
+Oceania,New Zealand,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+Oceania,New Zealand,C3,Ambiguous,Rural fisher communities,0,not found evidence of subsidy
+Oceania,Palau,A1,Beneficial,Fisheries mangt.,20965574.91,Modeled
+Oceania,Palau,A2,Beneficial,Fishery R&D,0,not found evidence of subsidy
+Oceania,Palau,A3,Beneficial,MPAs,2189035.707,Modeled
+Oceania,Palau,B1,Capacity-enhancing,Boat constsruct. & renov.,0,not found evidence of subsidy
+Oceania,Palau,B2,Capacity-enhancing,Fisheries dev. projects,330695.8366,Modeled
+Oceania,Palau,B3,Capacity-enhancing,Fishing port develop.,0,not found evidence of subsidy
+Oceania,Palau,B4,Capacity-enhancing,Markt. & storage infrast.,251173.9522,Modeled
+Oceania,Palau,B5,Capacity-enhancing,Tax exemption,0,not found evidence of subsidy
+Oceania,Palau,B6,Capacity-enhancing,Fishing access,0,not found evidence of subsidy
+Oceania,Palau,B7,Capacity-enhancing,Fuel subsidies,0,not found evidence of subsidy
+Oceania,Palau,C1,Ambiguous,Fisher assistance,0,not found evidence of subsidy
+Oceania,Palau,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+Oceania,Palau,C3,Ambiguous,Rural fisher communities,0,not found evidence of subsidy
+Oceania,Papua New Guinea,A1,Beneficial,Fisheries mangt.,1371457.476,Reported
+Oceania,Papua New Guinea,A2,Beneficial,Fishery R&D,2668531.609,Modeled
+Oceania,Papua New Guinea,A3,Beneficial,MPAs,2526622.26,Modeled
+Oceania,Papua New Guinea,B1,Capacity-enhancing,Boat constsruct. & renov.,1618814.763,Modeled
+Oceania,Papua New Guinea,B2,Capacity-enhancing,Fisheries dev. projects,3947720.413,Reported
+Oceania,Papua New Guinea,B3,Capacity-enhancing,Fishing port develop.,2158991.842,Reported
+Oceania,Papua New Guinea,B4,Capacity-enhancing,Markt. & storage infrast.,11036631.22,Reported
+Oceania,Papua New Guinea,B5,Capacity-enhancing,Tax exemption,3180825.179,Modeled
+Oceania,Papua New Guinea,B6,Capacity-enhancing,Fishing access,5799581.92,Modeled
+Oceania,Papua New Guinea,B7,Capacity-enhancing,Fuel subsidies,0,not found evidence of subsidy
+Oceania,Papua New Guinea,C1,Ambiguous,Fisher assistance,0,not found evidence of subsidy
+Oceania,Papua New Guinea,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+Oceania,Papua New Guinea,C3,Ambiguous,Rural fisher communities,323848.7763,Reported
+Oceania,Samoa,A1,Beneficial,Fisheries mangt.,5429992.747,Modeled
+Oceania,Samoa,A2,Beneficial,Fishery R&D,1272263.392,Modeled
+Oceania,Samoa,A3,Beneficial,MPAs,0,not found evidence of subsidy
+Oceania,Samoa,B1,Capacity-enhancing,Boat constsruct. & renov.,0,not found evidence of subsidy
+Oceania,Samoa,B2,Capacity-enhancing,Fisheries dev. projects,1209606.603,Modeled
+Oceania,Samoa,B3,Capacity-enhancing,Fishing port develop.,0,not found evidence of subsidy
+Oceania,Samoa,B4,Capacity-enhancing,Markt. & storage infrast.,0,not found evidence of subsidy
+Oceania,Samoa,B5,Capacity-enhancing,Tax exemption,1423949.151,Modeled
+Oceania,Samoa,B6,Capacity-enhancing,Fishing access,46131.3,Modeled
+Oceania,Samoa,B7,Capacity-enhancing,Fuel subsidies,108738.5762,Modeled
+Oceania,Samoa,C1,Ambiguous,Fisher assistance,0,not found evidence of subsidy
+Oceania,Samoa,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+Oceania,Samoa,C3,Ambiguous,Rural fisher communities,680470.4297,Modeled
+Oceania,Solomon Is,A1,Beneficial,Fisheries mangt.,10500444.82,Modeled
+Oceania,Solomon Is,A2,Beneficial,Fishery R&D,0,not found evidence of subsidy
+Oceania,Solomon Is,A3,Beneficial,MPAs,3873055.895,Modeled
+Oceania,Solomon Is,B1,Capacity-enhancing,Boat constsruct. & renov.,809079.3353,Modeled
+Oceania,Solomon Is,B2,Capacity-enhancing,Fisheries dev. projects,9545494.163,Modeled
+Oceania,Solomon Is,B3,Capacity-enhancing,Fishing port develop.,0,not found evidence of subsidy
+Oceania,Solomon Is,B4,Capacity-enhancing,Markt. & storage infrast.,13494042.01,Modeled
+Oceania,Solomon Is,B5,Capacity-enhancing,Tax exemption,0,not found evidence of subsidy
+Oceania,Solomon Is,B6,Capacity-enhancing,Fishing access,0,not found evidence of subsidy
+Oceania,Solomon Is,B7,Capacity-enhancing,Fuel subsidies,245481.5216,Modeled
+Oceania,Solomon Is,C1,Ambiguous,Fisher assistance,0,not found evidence of subsidy
+Oceania,Solomon Is,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+Oceania,Solomon Is,C3,Ambiguous,Rural fisher communities,436274.3025,Modeled
+Oceania,Tonga,A1,Beneficial,Fisheries mangt.,1777871.014,Modeled
+Oceania,Tonga,A2,Beneficial,Fishery R&D,416560.447,Modeled
+Oceania,Tonga,A3,Beneficial,MPAs,729858.8946,Modeled
+Oceania,Tonga,B1,Capacity-enhancing,Boat constsruct. & renov.,95685.21244,Modeled
+Oceania,Tonga,B2,Capacity-enhancing,Fisheries dev. projects,283018.259,Modeled
+Oceania,Tonga,B3,Capacity-enhancing,Fishing port develop.,164884.3724,Modeled
+Oceania,Tonga,B4,Capacity-enhancing,Markt. & storage infrast.,214961.3233,Modeled
+Oceania,Tonga,B5,Capacity-enhancing,Tax exemption,0,not found evidence of subsidy
+Oceania,Tonga,B6,Capacity-enhancing,Fishing access,0,not found evidence of subsidy
+Oceania,Tonga,B7,Capacity-enhancing,Fuel subsidies,653444.7528,Modeled
+Oceania,Tonga,C1,Ambiguous,Fisher assistance,0,not found evidence of subsidy
+Oceania,Tonga,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+Oceania,Tonga,C3,Ambiguous,Rural fisher communities,0,not found evidence of subsidy
+Oceania,Tuvalu,A1,Beneficial,Fisheries mangt.,4900690.95,Modeled
+Oceania,Tuvalu,A2,Beneficial,Fishery R&D,0,not found evidence of subsidy
+Oceania,Tuvalu,A3,Beneficial,MPAs,725575.4824,Modeled
+Oceania,Tuvalu,B1,Capacity-enhancing,Boat constsruct. & renov.,0,not found evidence of subsidy
+Oceania,Tuvalu,B2,Capacity-enhancing,Fisheries dev. projects,0,not found evidence of subsidy
+Oceania,Tuvalu,B3,Capacity-enhancing,Fishing port develop.,0,not found evidence of subsidy
+Oceania,Tuvalu,B4,Capacity-enhancing,Markt. & storage infrast.,0,not found evidence of subsidy
+Oceania,Tuvalu,B5,Capacity-enhancing,Tax exemption,0,not found evidence of subsidy
+Oceania,Tuvalu,B6,Capacity-enhancing,Fishing access,395113.66,Modeled
+Oceania,Tuvalu,B7,Capacity-enhancing,Fuel subsidies,0,not found evidence of subsidy
+Oceania,Tuvalu,C1,Ambiguous,Fisher assistance,0,not found evidence of subsidy
+Oceania,Tuvalu,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+Oceania,Tuvalu,C3,Ambiguous,Rural fisher communities,0,not found evidence of subsidy
+Oceania,Vanuatu,A1,Beneficial,Fisheries mangt.,1342666.452,Reported
+Oceania,Vanuatu,A2,Beneficial,Fishery R&D,176709.1654,Reported
+Oceania,Vanuatu,A3,Beneficial,MPAs,440034.5529,Modeled
+Oceania,Vanuatu,B1,Capacity-enhancing,Boat constsruct. & renov.,345888.6784,Modeled
+Oceania,Vanuatu,B2,Capacity-enhancing,Fisheries dev. projects,632468.3205,Reported
+Oceania,Vanuatu,B3,Capacity-enhancing,Fishing port develop.,0,not found evidence of subsidy
+Oceania,Vanuatu,B4,Capacity-enhancing,Markt. & storage infrast.,5768824.086,Modeled
+Oceania,Vanuatu,B5,Capacity-enhancing,Tax exemption,679640.0942,Modeled
+Oceania,Vanuatu,B6,Capacity-enhancing,Fishing access,911866.76,Modeled
+Oceania,Vanuatu,B7,Capacity-enhancing,Fuel subsidies,4008640.934,Modeled
+Oceania,Vanuatu,C1,Ambiguous,Fisher assistance,0,not found evidence of subsidy
+Oceania,Vanuatu,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+Oceania,Vanuatu,C3,Ambiguous,Rural fisher communities,0,not found evidence of subsidy
+"South, Central America and Carribbean",Antigua Barb,A1,Beneficial,Fisheries mangt.,1113301.419,Modeled
+"South, Central America and Carribbean",Antigua Barb,A2,Beneficial,Fishery R&D,260849.8215,Modeled
+"South, Central America and Carribbean",Antigua Barb,A3,Beneficial,MPAs,1520416.488,Modeled
+"South, Central America and Carribbean",Antigua Barb,B1,Capacity-enhancing,Boat constsruct. & renov.,0,not found evidence of subsidy
+"South, Central America and Carribbean",Antigua Barb,B2,Capacity-enhancing,Fisheries dev. projects,439688.0711,Modeled
+"South, Central America and Carribbean",Antigua Barb,B3,Capacity-enhancing,Fishing port develop.,0,not found evidence of subsidy
+"South, Central America and Carribbean",Antigua Barb,B4,Capacity-enhancing,Markt. & storage infrast.,333957.0032,Modeled
+"South, Central America and Carribbean",Antigua Barb,B5,Capacity-enhancing,Tax exemption,517600.8911,Modeled
+"South, Central America and Carribbean",Antigua Barb,B6,Capacity-enhancing,Fishing access,0,not found evidence of subsidy
+"South, Central America and Carribbean",Antigua Barb,B7,Capacity-enhancing,Fuel subsidies,0,not found evidence of subsidy
+"South, Central America and Carribbean",Antigua Barb,C1,Ambiguous,Fisher assistance,0,not found evidence of subsidy
+"South, Central America and Carribbean",Antigua Barb,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+"South, Central America and Carribbean",Antigua Barb,C3,Ambiguous,Rural fisher communities,0,not found evidence of subsidy
+"South, Central America and Carribbean",Argentina,A1,Beneficial,Fisheries mangt.,23293779.61,Reported
+"South, Central America and Carribbean",Argentina,A2,Beneficial,Fishery R&D,14683734.48,Reported
+"South, Central America and Carribbean",Argentina,A3,Beneficial,MPAs,12357904.98,Modeled
+"South, Central America and Carribbean",Argentina,B1,Capacity-enhancing,Boat constsruct. & renov.,16076972.61,Modeled
+"South, Central America and Carribbean",Argentina,B2,Capacity-enhancing,Fisheries dev. projects,47552559.92,Modeled
+"South, Central America and Carribbean",Argentina,B3,Capacity-enhancing,Fishing port develop.,250863.5151,Reported
+"South, Central America and Carribbean",Argentina,B4,Capacity-enhancing,Markt. & storage infrast.,36117673.98,Modeled
+"South, Central America and Carribbean",Argentina,B5,Capacity-enhancing,Tax exemption,55978883.69,Modeled
+"South, Central America and Carribbean",Argentina,B6,Capacity-enhancing,Fishing access,5988.41,Modeled
+"South, Central America and Carribbean",Argentina,B7,Capacity-enhancing,Fuel subsidies,86845934.37,Modeled
+"South, Central America and Carribbean",Argentina,C1,Ambiguous,Fisher assistance,10756897.04,Modeled
+"South, Central America and Carribbean",Argentina,C2,Ambiguous,Vessel buyback,11715210.05,Modeled
+"South, Central America and Carribbean",Argentina,C3,Ambiguous,Rural fisher communities,0,not found evidence of subsidy
+"South, Central America and Carribbean",Bahamas,A1,Beneficial,Fisheries mangt.,2291412,Reported
+"South, Central America and Carribbean",Bahamas,A2,Beneficial,Fishery R&D,1700000,Reported
+"South, Central America and Carribbean",Bahamas,A3,Beneficial,MPAs,9394835.37,Modeled
+"South, Central America and Carribbean",Bahamas,B1,Capacity-enhancing,Boat constsruct. & renov.,0,not found evidence of subsidy
+"South, Central America and Carribbean",Bahamas,B2,Capacity-enhancing,Fisheries dev. projects,0,not found evidence of subsidy
+"South, Central America and Carribbean",Bahamas,B3,Capacity-enhancing,Fishing port develop.,0,not found evidence of subsidy
+"South, Central America and Carribbean",Bahamas,B4,Capacity-enhancing,Markt. & storage infrast.,0,not found evidence of subsidy
+"South, Central America and Carribbean",Bahamas,B5,Capacity-enhancing,Tax exemption,4625550.542,Modeled
+"South, Central America and Carribbean",Bahamas,B6,Capacity-enhancing,Fishing access,0,not found evidence of subsidy
+"South, Central America and Carribbean",Bahamas,B7,Capacity-enhancing,Fuel subsidies,0,not found evidence of subsidy
+"South, Central America and Carribbean",Bahamas,C1,Ambiguous,Fisher assistance,0,not found evidence of subsidy
+"South, Central America and Carribbean",Bahamas,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+"South, Central America and Carribbean",Bahamas,C3,Ambiguous,Rural fisher communities,0,not found evidence of subsidy
+"South, Central America and Carribbean",Barbados,A1,Beneficial,Fisheries mangt.,563755.073,Modeled
+"South, Central America and Carribbean",Barbados,A2,Beneficial,Fishery R&D,132089.4842,Modeled
+"South, Central America and Carribbean",Barbados,A3,Beneficial,MPAs,134486.0094,Modeled
+"South, Central America and Carribbean",Barbados,B1,Capacity-enhancing,Boat constsruct. & renov.,0,not found evidence of subsidy
+"South, Central America and Carribbean",Barbados,B2,Capacity-enhancing,Fisheries dev. projects,0,not found evidence of subsidy
+"South, Central America and Carribbean",Barbados,B3,Capacity-enhancing,Fishing port develop.,0,not found evidence of subsidy
+"South, Central America and Carribbean",Barbados,B4,Capacity-enhancing,Markt. & storage infrast.,0,not found evidence of subsidy
+"South, Central America and Carribbean",Barbados,B5,Capacity-enhancing,Tax exemption,274698.9505,Modeled
+"South, Central America and Carribbean",Barbados,B6,Capacity-enhancing,Fishing access,650.19,Modeled
+"South, Central America and Carribbean",Barbados,B7,Capacity-enhancing,Fuel subsidies,2301463.332,Modeled
+"South, Central America and Carribbean",Barbados,C1,Ambiguous,Fisher assistance,0,not found evidence of subsidy
+"South, Central America and Carribbean",Barbados,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+"South, Central America and Carribbean",Barbados,C3,Ambiguous,Rural fisher communities,70648.09745,Modeled
+"South, Central America and Carribbean",Belize,A1,Beneficial,Fisheries mangt.,4217228.85,Reported
+"South, Central America and Carribbean",Belize,A2,Beneficial,Fishery R&D,307326.5328,Modeled
+"South, Central America and Carribbean",Belize,A3,Beneficial,MPAs,9721373.393,Modeled
+"South, Central America and Carribbean",Belize,B1,Capacity-enhancing,Boat constsruct. & renov.,0,not found evidence of subsidy
+"South, Central America and Carribbean",Belize,B2,Capacity-enhancing,Fisheries dev. projects,14255767.19,Modeled
+"South, Central America and Carribbean",Belize,B3,Capacity-enhancing,Fishing port develop.,0,not found evidence of subsidy
+"South, Central America and Carribbean",Belize,B4,Capacity-enhancing,Markt. & storage infrast.,332505.625,Reported
+"South, Central America and Carribbean",Belize,B5,Capacity-enhancing,Tax exemption,16781892.18,Modeled
+"South, Central America and Carribbean",Belize,B6,Capacity-enhancing,Fishing access,15723894.71,Modeled
+"South, Central America and Carribbean",Belize,B7,Capacity-enhancing,Fuel subsidies,0,not found evidence of subsidy
+"South, Central America and Carribbean",Belize,C1,Ambiguous,Fisher assistance,0,not found evidence of subsidy
+"South, Central America and Carribbean",Belize,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+"South, Central America and Carribbean",Belize,C3,Ambiguous,Rural fisher communities,164373.6818,Modeled
+"South, Central America and Carribbean",Brazil,A1,Beneficial,Fisheries mangt.,42571102.79,Reported
+"South, Central America and Carribbean",Brazil,A2,Beneficial,Fishery R&D,53552010.3,Modeled
+"South, Central America and Carribbean",Brazil,A3,Beneficial,MPAs,149979343.5,Modeled
+"South, Central America and Carribbean",Brazil,B1,Capacity-enhancing,Boat constsruct. & renov.,27928835.92,Modeled
+"South, Central America and Carribbean",Brazil,B2,Capacity-enhancing,Fisheries dev. projects,8257499.848,Reported
+"South, Central America and Carribbean",Brazil,B3,Capacity-enhancing,Fishing port develop.,332049.0338,Reported
+"South, Central America and Carribbean",Brazil,B4,Capacity-enhancing,Markt. & storage infrast.,121220212.9,Reported
+"South, Central America and Carribbean",Brazil,B5,Capacity-enhancing,Tax exemption,92115717.9,Reported
+"South, Central America and Carribbean",Brazil,B6,Capacity-enhancing,Fishing access,54151.86,Modeled
+"South, Central America and Carribbean",Brazil,B7,Capacity-enhancing,Fuel subsidies,6181967.382,Reported
+"South, Central America and Carribbean",Brazil,C1,Ambiguous,Fisher assistance,30063729.48,Reported
+"South, Central America and Carribbean",Brazil,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+"South, Central America and Carribbean",Brazil,C3,Ambiguous,Rural fisher communities,28642307.64,Modeled
+"South, Central America and Carribbean",Chile,A1,Beneficial,Fisheries mangt.,9716384.638,Reported
+"South, Central America and Carribbean",Chile,A2,Beneficial,Fishery R&D,3718790.778,Reported
+"South, Central America and Carribbean",Chile,A3,Beneficial,MPAs,105515451.2,Modeled
+"South, Central America and Carribbean",Chile,B1,Capacity-enhancing,Boat constsruct. & renov.,0,not found evidence of subsidy
+"South, Central America and Carribbean",Chile,B2,Capacity-enhancing,Fisheries dev. projects,27012637.31,Reported
+"South, Central America and Carribbean",Chile,B3,Capacity-enhancing,Fishing port develop.,0,not found evidence of subsidy
+"South, Central America and Carribbean",Chile,B4,Capacity-enhancing,Markt. & storage infrast.,84617424.84,Modeled
+"South, Central America and Carribbean",Chile,B5,Capacity-enhancing,Tax exemption,0,not found evidence of subsidy
+"South, Central America and Carribbean",Chile,B6,Capacity-enhancing,Fishing access,21449833.87,Modeled
+"South, Central America and Carribbean",Chile,B7,Capacity-enhancing,Fuel subsidies,0,not found evidence of subsidy
+"South, Central America and Carribbean",Chile,C1,Ambiguous,Fisher assistance,2887593.75,Reported
+"South, Central America and Carribbean",Chile,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+"South, Central America and Carribbean",Chile,C3,Ambiguous,Rural fisher communities,44923.2585,Reported
+"South, Central America and Carribbean",Colombia,A1,Beneficial,Fisheries mangt.,8458096.937,Modeled
+"South, Central America and Carribbean",Colombia,A2,Beneficial,Fishery R&D,1981757.177,Modeled
+"South, Central America and Carribbean",Colombia,A3,Beneficial,MPAs,10066398.66,Modeled
+"South, Central America and Carribbean",Colombia,B1,Capacity-enhancing,Boat constsruct. & renov.,0,not found evidence of subsidy
+"South, Central America and Carribbean",Colombia,B2,Capacity-enhancing,Fisheries dev. projects,6445303.315,Modeled
+"South, Central America and Carribbean",Colombia,B3,Capacity-enhancing,Fishing port develop.,0,not found evidence of subsidy
+"South, Central America and Carribbean",Colombia,B4,Capacity-enhancing,Markt. & storage infrast.,4895411.818,Modeled
+"South, Central America and Carribbean",Colombia,B5,Capacity-enhancing,Tax exemption,0,not found evidence of subsidy
+"South, Central America and Carribbean",Colombia,B6,Capacity-enhancing,Fishing access,139765.55,Modeled
+"South, Central America and Carribbean",Colombia,B7,Capacity-enhancing,Fuel subsidies,0,not found evidence of subsidy
+"South, Central America and Carribbean",Colombia,C1,Ambiguous,Fisher assistance,0,not found evidence of subsidy
+"South, Central America and Carribbean",Colombia,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+"South, Central America and Carribbean",Colombia,C3,Ambiguous,Rural fisher communities,1059943.378,Modeled
+"South, Central America and Carribbean",Costa Rica,A1,Beneficial,Fisheries mangt.,3903926.682,Modeled
+"South, Central America and Carribbean",Costa Rica,A2,Beneficial,Fishery R&D,914701.5904,Modeled
+"South, Central America and Carribbean",Costa Rica,A3,Beneficial,MPAs,5899001.736,Modeled
+"South, Central America and Carribbean",Costa Rica,B1,Capacity-enhancing,Boat constsruct. & renov.,0,not found evidence of subsidy
+"South, Central America and Carribbean",Costa Rica,B2,Capacity-enhancing,Fisheries dev. projects,2417657.052,Modeled
+"South, Central America and Carribbean",Costa Rica,B3,Capacity-enhancing,Fishing port develop.,0,not found evidence of subsidy
+"South, Central America and Carribbean",Costa Rica,B4,Capacity-enhancing,Markt. & storage infrast.,0,not found evidence of subsidy
+"South, Central America and Carribbean",Costa Rica,B5,Capacity-enhancing,Tax exemption,433.2264065,Reported
+"South, Central America and Carribbean",Costa Rica,B6,Capacity-enhancing,Fishing access,52601.06,Modeled
+"South, Central America and Carribbean",Costa Rica,B7,Capacity-enhancing,Fuel subsidies,1461305.522,Reported
+"South, Central America and Carribbean",Costa Rica,C1,Ambiguous,Fisher assistance,0,not found evidence of subsidy
+"South, Central America and Carribbean",Costa Rica,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+"South, Central America and Carribbean",Costa Rica,C3,Ambiguous,Rural fisher communities,489228.4006,Modeled
+"South, Central America and Carribbean",Cuba,A1,Beneficial,Fisheries mangt.,5557819.788,Modeled
+"South, Central America and Carribbean",Cuba,A2,Beneficial,Fishery R&D,0,not found evidence of subsidy
+"South, Central America and Carribbean",Cuba,A3,Beneficial,MPAs,18255231.62,Modeled
+"South, Central America and Carribbean",Cuba,B1,Capacity-enhancing,Boat constsruct. & renov.,0,not found evidence of subsidy
+"South, Central America and Carribbean",Cuba,B2,Capacity-enhancing,Fisheries dev. projects,2295544.844,Modeled
+"South, Central America and Carribbean",Cuba,B3,Capacity-enhancing,Fishing port develop.,0,not found evidence of subsidy
+"South, Central America and Carribbean",Cuba,B4,Capacity-enhancing,Markt. & storage infrast.,0,not found evidence of subsidy
+"South, Central America and Carribbean",Cuba,B5,Capacity-enhancing,Tax exemption,0,not found evidence of subsidy
+"South, Central America and Carribbean",Cuba,B6,Capacity-enhancing,Fishing access,175422.27,Modeled
+"South, Central America and Carribbean",Cuba,B7,Capacity-enhancing,Fuel subsidies,0,not found evidence of subsidy
+"South, Central America and Carribbean",Cuba,C1,Ambiguous,Fisher assistance,0,not found evidence of subsidy
+"South, Central America and Carribbean",Cuba,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+"South, Central America and Carribbean",Cuba,C3,Ambiguous,Rural fisher communities,0,not found evidence of subsidy
+"South, Central America and Carribbean",Dominica,A1,Beneficial,Fisheries mangt.,704419.6289,Reported
+"South, Central America and Carribbean",Dominica,A2,Beneficial,Fishery R&D,98275.76796,Modeled
+"South, Central America and Carribbean",Dominica,A3,Beneficial,MPAs,374478.626,Modeled
+"South, Central America and Carribbean",Dominica,B1,Capacity-enhancing,Boat constsruct. & renov.,0,not found evidence of subsidy
+"South, Central America and Carribbean",Dominica,B2,Capacity-enhancing,Fisheries dev. projects,111111.111,Reported
+"South, Central America and Carribbean",Dominica,B3,Capacity-enhancing,Fishing port develop.,189495.9257,Reported
+"South, Central America and Carribbean",Dominica,B4,Capacity-enhancing,Markt. & storage infrast.,1018670.364,Modeled
+"South, Central America and Carribbean",Dominica,B5,Capacity-enhancing,Tax exemption,0,not found evidence of subsidy
+"South, Central America and Carribbean",Dominica,B6,Capacity-enhancing,Fishing access,1717399.91,Modeled
+"South, Central America and Carribbean",Dominica,B7,Capacity-enhancing,Fuel subsidies,548107.8327,Modeled
+"South, Central America and Carribbean",Dominica,C1,Ambiguous,Fisher assistance,0,not found evidence of subsidy
+"South, Central America and Carribbean",Dominica,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+"South, Central America and Carribbean",Dominica,C3,Ambiguous,Rural fisher communities,52562.82189,Modeled
+"South, Central America and Carribbean",Dominican Rp,A1,Beneficial,Fisheries mangt.,8879078.531,Modeled
+"South, Central America and Carribbean",Dominican Rp,A2,Beneficial,Fishery R&D,0,not found evidence of subsidy
+"South, Central America and Carribbean",Dominican Rp,A3,Beneficial,MPAs,8528779.034,Modeled
+"South, Central America and Carribbean",Dominican Rp,B1,Capacity-enhancing,Boat constsruct. & renov.,0,not found evidence of subsidy
+"South, Central America and Carribbean",Dominican Rp,B2,Capacity-enhancing,Fisheries dev. projects,3509195.507,Modeled
+"South, Central America and Carribbean",Dominican Rp,B3,Capacity-enhancing,Fishing port develop.,0,not found evidence of subsidy
+"South, Central America and Carribbean",Dominican Rp,B4,Capacity-enhancing,Markt. & storage infrast.,0,not found evidence of subsidy
+"South, Central America and Carribbean",Dominican Rp,B5,Capacity-enhancing,Tax exemption,0,not found evidence of subsidy
+"South, Central America and Carribbean",Dominican Rp,B6,Capacity-enhancing,Fishing access,3680.69,Modeled
+"South, Central America and Carribbean",Dominican Rp,B7,Capacity-enhancing,Fuel subsidies,0,not found evidence of subsidy
+"South, Central America and Carribbean",Dominican Rp,C1,Ambiguous,Fisher assistance,0,not found evidence of subsidy
+"South, Central America and Carribbean",Dominican Rp,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+"South, Central America and Carribbean",Dominican Rp,C3,Ambiguous,Rural fisher communities,0,not found evidence of subsidy
+"South, Central America and Carribbean",Ecuador,A1,Beneficial,Fisheries mangt.,48220288.01,Modeled
+"South, Central America and Carribbean",Ecuador,A2,Beneficial,Fishery R&D,11298156.38,Modeled
+"South, Central America and Carribbean",Ecuador,A3,Beneficial,MPAs,8043056.299,Modeled
+"South, Central America and Carribbean",Ecuador,B1,Capacity-enhancing,Boat constsruct. & renov.,9619420.083,Modeled
+"South, Central America and Carribbean",Ecuador,B2,Capacity-enhancing,Fisheries dev. projects,533553.6537,Reported
+"South, Central America and Carribbean",Ecuador,B3,Capacity-enhancing,Fishing port develop.,0,not found evidence of subsidy
+"South, Central America and Carribbean",Ecuador,B4,Capacity-enhancing,Markt. & storage infrast.,0,not found evidence of subsidy
+"South, Central America and Carribbean",Ecuador,B5,Capacity-enhancing,Tax exemption,0,not found evidence of subsidy
+"South, Central America and Carribbean",Ecuador,B6,Capacity-enhancing,Fishing access,162267.81,Modeled
+"South, Central America and Carribbean",Ecuador,B7,Capacity-enhancing,Fuel subsidies,0,not found evidence of subsidy
+"South, Central America and Carribbean",Ecuador,C1,Ambiguous,Fisher assistance,388302.4654,Reported
+"South, Central America and Carribbean",Ecuador,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+"South, Central America and Carribbean",Ecuador,C3,Ambiguous,Rural fisher communities,0,not found evidence of subsidy
+"South, Central America and Carribbean",El Salvador,A1,Beneficial,Fisheries mangt.,933407.0301,Modeled
+"South, Central America and Carribbean",El Salvador,A2,Beneficial,Fishery R&D,75379.91379,Modeled
+"South, Central America and Carribbean",El Salvador,A3,Beneficial,MPAs,1312573.218,Modeled
+"South, Central America and Carribbean",El Salvador,B1,Capacity-enhancing,Boat constsruct. & renov.,142460.4372,Modeled
+"South, Central America and Carribbean",El Salvador,B2,Capacity-enhancing,Fisheries dev. projects,1680744.041,Modeled
+"South, Central America and Carribbean",El Salvador,B3,Capacity-enhancing,Fishing port develop.,0,not found evidence of subsidy
+"South, Central America and Carribbean",El Salvador,B4,Capacity-enhancing,Markt. & storage infrast.,0,not found evidence of subsidy
+"South, Central America and Carribbean",El Salvador,B5,Capacity-enhancing,Tax exemption,0,not found evidence of subsidy
+"South, Central America and Carribbean",El Salvador,B6,Capacity-enhancing,Fishing access,0,not found evidence of subsidy
+"South, Central America and Carribbean",El Salvador,B7,Capacity-enhancing,Fuel subsidies,0,not found evidence of subsidy
+"South, Central America and Carribbean",El Salvador,C1,Ambiguous,Fisher assistance,272285.8215,Modeled
+"South, Central America and Carribbean",El Salvador,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+"South, Central America and Carribbean",El Salvador,C3,Ambiguous,Rural fisher communities,38781.35719,Modeled
+"South, Central America and Carribbean",Grenada,A1,Beneficial,Fisheries mangt.,435003.55,Modeled
+"South, Central America and Carribbean",Grenada,A2,Beneficial,Fishery R&D,101922.6208,Modeled
+"South, Central America and Carribbean",Grenada,A3,Beneficial,MPAs,711462.2905,Modeled
+"South, Central America and Carribbean",Grenada,B1,Capacity-enhancing,Boat constsruct. & renov.,0,not found evidence of subsidy
+"South, Central America and Carribbean",Grenada,B2,Capacity-enhancing,Fisheries dev. projects,208505.8053,Modeled
+"South, Central America and Carribbean",Grenada,B3,Capacity-enhancing,Fishing port develop.,121473.9606,Modeled
+"South, Central America and Carribbean",Grenada,B4,Capacity-enhancing,Markt. & storage infrast.,158366.7569,Modeled
+"South, Central America and Carribbean",Grenada,B5,Capacity-enhancing,Tax exemption,0,not found evidence of subsidy
+"South, Central America and Carribbean",Grenada,B6,Capacity-enhancing,Fishing access,104324.85,Modeled
+"South, Central America and Carribbean",Grenada,B7,Capacity-enhancing,Fuel subsidies,1182511.559,Modeled
+"South, Central America and Carribbean",Grenada,C1,Ambiguous,Fisher assistance,0,not found evidence of subsidy
+"South, Central America and Carribbean",Grenada,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+"South, Central America and Carribbean",Grenada,C3,Ambiguous,Rural fisher communities,0,not found evidence of subsidy
+"South, Central America and Carribbean",Guatemala,A1,Beneficial,Fisheries mangt.,2482618.247,Modeled
+"South, Central America and Carribbean",Guatemala,A2,Beneficial,Fishery R&D,200490.8292,Modeled
+"South, Central America and Carribbean",Guatemala,A3,Beneficial,MPAs,755668.1982,Modeled
+"South, Central America and Carribbean",Guatemala,B1,Capacity-enhancing,Boat constsruct. & renov.,0,not found evidence of subsidy
+"South, Central America and Carribbean",Guatemala,B2,Capacity-enhancing,Fisheries dev. projects,3460672.042,Modeled
+"South, Central America and Carribbean",Guatemala,B3,Capacity-enhancing,Fishing port develop.,0,not found evidence of subsidy
+"South, Central America and Carribbean",Guatemala,B4,Capacity-enhancing,Markt. & storage infrast.,0,not found evidence of subsidy
+"South, Central America and Carribbean",Guatemala,B5,Capacity-enhancing,Tax exemption,576362.5862,Modeled
+"South, Central America and Carribbean",Guatemala,B6,Capacity-enhancing,Fishing access,128126.93,Modeled
+"South, Central America and Carribbean",Guatemala,B7,Capacity-enhancing,Fuel subsidies,0,not found evidence of subsidy
+"South, Central America and Carribbean",Guatemala,C1,Ambiguous,Fisher assistance,0,not found evidence of subsidy
+"South, Central America and Carribbean",Guatemala,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+"South, Central America and Carribbean",Guatemala,C3,Ambiguous,Rural fisher communities,103148.2535,Modeled
+"South, Central America and Carribbean",Guyana,A1,Beneficial,Fisheries mangt.,1089360.147,Reported
+"South, Central America and Carribbean",Guyana,A2,Beneficial,Fishery R&D,354359.2825,Modeled
+"South, Central America and Carribbean",Guyana,A3,Beneficial,MPAs,54977.83476,Modeled
+"South, Central America and Carribbean",Guyana,B1,Capacity-enhancing,Boat constsruct. & renov.,0,not found evidence of subsidy
+"South, Central America and Carribbean",Guyana,B2,Capacity-enhancing,Fisheries dev. projects,4357676.346,Modeled
+"South, Central America and Carribbean",Guyana,B3,Capacity-enhancing,Fishing port develop.,0,not found evidence of subsidy
+"South, Central America and Carribbean",Guyana,B4,Capacity-enhancing,Markt. & storage infrast.,975530.0605,Reported
+"South, Central America and Carribbean",Guyana,B5,Capacity-enhancing,Tax exemption,0,not found evidence of subsidy
+"South, Central America and Carribbean",Guyana,B6,Capacity-enhancing,Fishing access,0,not found evidence of subsidy
+"South, Central America and Carribbean",Guyana,B7,Capacity-enhancing,Fuel subsidies,0,not found evidence of subsidy
+"South, Central America and Carribbean",Guyana,C1,Ambiguous,Fisher assistance,0,not found evidence of subsidy
+"South, Central America and Carribbean",Guyana,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+"South, Central America and Carribbean",Guyana,C3,Ambiguous,Rural fisher communities,182310.2895,Modeled
+"South, Central America and Carribbean",Haiti,A1,Beneficial,Fisheries mangt.,1237916.176,Reported
+"South, Central America and Carribbean",Haiti,A2,Beneficial,Fishery R&D,247911.0515,Reported
+"South, Central America and Carribbean",Haiti,A3,Beneficial,MPAs,0,not found evidence of subsidy
+"South, Central America and Carribbean",Haiti,B1,Capacity-enhancing,Boat constsruct. & renov.,21922.71282,Reported
+"South, Central America and Carribbean",Haiti,B2,Capacity-enhancing,Fisheries dev. projects,891694.0509,Reported
+"South, Central America and Carribbean",Haiti,B3,Capacity-enhancing,Fishing port develop.,59211.81313,Reported
+"South, Central America and Carribbean",Haiti,B4,Capacity-enhancing,Markt. & storage infrast.,722732.425,Reported
+"South, Central America and Carribbean",Haiti,B5,Capacity-enhancing,Tax exemption,0,not found evidence of subsidy
+"South, Central America and Carribbean",Haiti,B6,Capacity-enhancing,Fishing access,77.21,Modeled
+"South, Central America and Carribbean",Haiti,B7,Capacity-enhancing,Fuel subsidies,0,not found evidence of subsidy
+"South, Central America and Carribbean",Haiti,C1,Ambiguous,Fisher assistance,23306.2033,Reported
+"South, Central America and Carribbean",Haiti,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+"South, Central America and Carribbean",Haiti,C3,Ambiguous,Rural fisher communities,0,not found evidence of subsidy
+"South, Central America and Carribbean",Honduras,A1,Beneficial,Fisheries mangt.,3070215.089,Modeled
+"South, Central America and Carribbean",Honduras,A2,Beneficial,Fishery R&D,247943.8672,Modeled
+"South, Central America and Carribbean",Honduras,A3,Beneficial,MPAs,5537122.062,Modeled
+"South, Central America and Carribbean",Honduras,B1,Capacity-enhancing,Boat constsruct. & renov.,256310.0706,Modeled
+"South, Central America and Carribbean",Honduras,B2,Capacity-enhancing,Fisheries dev. projects,3023938.662,Modeled
+"South, Central America and Carribbean",Honduras,B3,Capacity-enhancing,Fishing port develop.,0,not found evidence of subsidy
+"South, Central America and Carribbean",Honduras,B4,Capacity-enhancing,Markt. & storage infrast.,0,not found evidence of subsidy
+"South, Central America and Carribbean",Honduras,B5,Capacity-enhancing,Tax exemption,503626.1994,Modeled
+"South, Central America and Carribbean",Honduras,B6,Capacity-enhancing,Fishing access,3170.57,Modeled
+"South, Central America and Carribbean",Honduras,B7,Capacity-enhancing,Fuel subsidies,0,not found evidence of subsidy
+"South, Central America and Carribbean",Honduras,C1,Ambiguous,Fisher assistance,0,not found evidence of subsidy
+"South, Central America and Carribbean",Honduras,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+"South, Central America and Carribbean",Honduras,C3,Ambiguous,Rural fisher communities,127561.8291,Modeled
+"South, Central America and Carribbean",Jamaica,A1,Beneficial,Fisheries mangt.,7177468.856,Reported
+"South, Central America and Carribbean",Jamaica,A2,Beneficial,Fishery R&D,0,not found evidence of subsidy
+"South, Central America and Carribbean",Jamaica,A3,Beneficial,MPAs,2341910.645,Modeled
+"South, Central America and Carribbean",Jamaica,B1,Capacity-enhancing,Boat constsruct. & renov.,564819.901,Modeled
+"South, Central America and Carribbean",Jamaica,B2,Capacity-enhancing,Fisheries dev. projects,1670627.477,Modeled
+"South, Central America and Carribbean",Jamaica,B3,Capacity-enhancing,Fishing port develop.,0,not found evidence of subsidy
+"South, Central America and Carribbean",Jamaica,B4,Capacity-enhancing,Markt. & storage infrast.,1268894.433,Modeled
+"South, Central America and Carribbean",Jamaica,B5,Capacity-enhancing,Tax exemption,1987893.211,Reported
+"South, Central America and Carribbean",Jamaica,B6,Capacity-enhancing,Fishing access,0,not found evidence of subsidy
+"South, Central America and Carribbean",Jamaica,B7,Capacity-enhancing,Fuel subsidies,16499732.15,Modeled
+"South, Central America and Carribbean",Jamaica,C1,Ambiguous,Fisher assistance,0,not found evidence of subsidy
+"South, Central America and Carribbean",Jamaica,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+"South, Central America and Carribbean",Jamaica,C3,Ambiguous,Rural fisher communities,294526.7207,Reported
+"South, Central America and Carribbean",Nicaragua,A1,Beneficial,Fisheries mangt.,6190010.012,Modeled
+"South, Central America and Carribbean",Nicaragua,A2,Beneficial,Fishery R&D,499891.6936,Modeled
+"South, Central America and Carribbean",Nicaragua,A3,Beneficial,MPAs,822950.7543,Modeled
+"South, Central America and Carribbean",Nicaragua,B1,Capacity-enhancing,Boat constsruct. & renov.,0,not found evidence of subsidy
+"South, Central America and Carribbean",Nicaragua,B2,Capacity-enhancing,Fisheries dev. projects,7802142.821,Modeled
+"South, Central America and Carribbean",Nicaragua,B3,Capacity-enhancing,Fishing port develop.,0,not found evidence of subsidy
+"South, Central America and Carribbean",Nicaragua,B4,Capacity-enhancing,Markt. & storage infrast.,11029543.49,Modeled
+"South, Central America and Carribbean",Nicaragua,B5,Capacity-enhancing,Tax exemption,1299419.061,Modeled
+"South, Central America and Carribbean",Nicaragua,B6,Capacity-enhancing,Fishing access,6772.18,Modeled
+"South, Central America and Carribbean",Nicaragua,B7,Capacity-enhancing,Fuel subsidies,0,not found evidence of subsidy
+"South, Central America and Carribbean",Nicaragua,C1,Ambiguous,Fisher assistance,0,not found evidence of subsidy
+"South, Central America and Carribbean",Nicaragua,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+"South, Central America and Carribbean",Nicaragua,C3,Ambiguous,Rural fisher communities,0,not found evidence of subsidy
+"South, Central America and Carribbean",Panama,A1,Beneficial,Fisheries mangt.,8772484,Reported
+"South, Central America and Carribbean",Panama,A2,Beneficial,Fishery R&D,785741.5,Reported
+"South, Central America and Carribbean",Panama,A3,Beneficial,MPAs,5674465.09,Modeled
+"South, Central America and Carribbean",Panama,B1,Capacity-enhancing,Boat constsruct. & renov.,2804049.567,Modeled
+"South, Central America and Carribbean",Panama,B2,Capacity-enhancing,Fisheries dev. projects,785741.5,Reported
+"South, Central America and Carribbean",Panama,B3,Capacity-enhancing,Fishing port develop.,0,not found evidence of subsidy
+"South, Central America and Carribbean",Panama,B4,Capacity-enhancing,Markt. & storage infrast.,6299429.037,Modeled
+"South, Central America and Carribbean",Panama,B5,Capacity-enhancing,Tax exemption,9763502.642,Modeled
+"South, Central America and Carribbean",Panama,B6,Capacity-enhancing,Fishing access,830060.96,Modeled
+"South, Central America and Carribbean",Panama,B7,Capacity-enhancing,Fuel subsidies,0,not found evidence of subsidy
+"South, Central America and Carribbean",Panama,C1,Ambiguous,Fisher assistance,0,not found evidence of subsidy
+"South, Central America and Carribbean",Panama,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+"South, Central America and Carribbean",Panama,C3,Ambiguous,Rural fisher communities,8200052,Reported
+"South, Central America and Carribbean",Peru,A1,Beneficial,Fisheries mangt.,19736523.14,Reported
+"South, Central America and Carribbean",Peru,A2,Beneficial,Fishery R&D,21835433.3,Reported
+"South, Central America and Carribbean",Peru,A3,Beneficial,MPAs,3039490.031,Modeled
+"South, Central America and Carribbean",Peru,B1,Capacity-enhancing,Boat constsruct. & renov.,38599299.87,Modeled
+"South, Central America and Carribbean",Peru,B2,Capacity-enhancing,Fisheries dev. projects,8312520.556,Reported
+"South, Central America and Carribbean",Peru,B3,Capacity-enhancing,Fishing port develop.,66514157.97,Modeled
+"South, Central America and Carribbean",Peru,B4,Capacity-enhancing,Markt. & storage infrast.,31899962.53,Reported
+"South, Central America and Carribbean",Peru,B5,Capacity-enhancing,Tax exemption,134400037.2,Modeled
+"South, Central America and Carribbean",Peru,B6,Capacity-enhancing,Fishing access,63405.52,Modeled
+"South, Central America and Carribbean",Peru,B7,Capacity-enhancing,Fuel subsidies,0,not found evidence of subsidy
+"South, Central America and Carribbean",Peru,C1,Ambiguous,Fisher assistance,2699781.99,Reported
+"South, Central America and Carribbean",Peru,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+"South, Central America and Carribbean",Peru,C3,Ambiguous,Rural fisher communities,1370490.006,Reported
+"South, Central America and Carribbean",St Kitts Nev,A1,Beneficial,Fisheries mangt.,583528.4046,Modeled
+"South, Central America and Carribbean",St Kitts Nev,A2,Beneficial,Fishery R&D,0,not found evidence of subsidy
+"South, Central America and Carribbean",St Kitts Nev,A3,Beneficial,MPAs,0,not found evidence of subsidy
+"South, Central America and Carribbean",St Kitts Nev,B1,Capacity-enhancing,Boat constsruct. & renov.,0,not found evidence of subsidy
+"South, Central America and Carribbean",St Kitts Nev,B2,Capacity-enhancing,Fisheries dev. projects,230459.1319,Modeled
+"South, Central America and Carribbean",St Kitts Nev,B3,Capacity-enhancing,Fishing port develop.,0,not found evidence of subsidy
+"South, Central America and Carribbean",St Kitts Nev,B4,Capacity-enhancing,Markt. & storage infrast.,0,not found evidence of subsidy
+"South, Central America and Carribbean",St Kitts Nev,B5,Capacity-enhancing,Tax exemption,271296.5393,Modeled
+"South, Central America and Carribbean",St Kitts Nev,B6,Capacity-enhancing,Fishing access,0,not found evidence of subsidy
+"South, Central America and Carribbean",St Kitts Nev,B7,Capacity-enhancing,Fuel subsidies,0,not found evidence of subsidy
+"South, Central America and Carribbean",St Kitts Nev,C1,Ambiguous,Fisher assistance,0,not found evidence of subsidy
+"South, Central America and Carribbean",St Kitts Nev,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+"South, Central America and Carribbean",St Kitts Nev,C3,Ambiguous,Rural fisher communities,0,not found evidence of subsidy
+"South, Central America and Carribbean",St Lucia,A1,Beneficial,Fisheries mangt.,339108.6508,Modeled
+"South, Central America and Carribbean",St Lucia,A2,Beneficial,Fishery R&D,79454.16178,Modeled
+"South, Central America and Carribbean",St Lucia,A3,Beneficial,MPAs,1428882.624,Modeled
+"South, Central America and Carribbean",St Lucia,B1,Capacity-enhancing,Boat constsruct. & renov.,0,not found evidence of subsidy
+"South, Central America and Carribbean",St Lucia,B2,Capacity-enhancing,Fisheries dev. projects,211513.099,Modeled
+"South, Central America and Carribbean",St Lucia,B3,Capacity-enhancing,Fishing port develop.,0,not found evidence of subsidy
+"South, Central America and Carribbean",St Lucia,B4,Capacity-enhancing,Markt. & storage infrast.,160650.8917,Modeled
+"South, Central America and Carribbean",St Lucia,B5,Capacity-enhancing,Tax exemption,248993.2653,Modeled
+"South, Central America and Carribbean",St Lucia,B6,Capacity-enhancing,Fishing access,65746.23,Modeled
+"South, Central America and Carribbean",St Lucia,B7,Capacity-enhancing,Fuel subsidies,783123.5832,Modeled
+"South, Central America and Carribbean",St Lucia,C1,Ambiguous,Fisher assistance,0,not found evidence of subsidy
+"South, Central America and Carribbean",St Lucia,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+"South, Central America and Carribbean",St Lucia,C3,Ambiguous,Rural fisher communities,42496.08058,Modeled
+"South, Central America and Carribbean",St Vincent,A1,Beneficial,Fisheries mangt.,432421.1095,Modeled
+"South, Central America and Carribbean",St Vincent,A2,Beneficial,Fishery R&D,101317.5474,Modeled
+"South, Central America and Carribbean",St Vincent,A3,Beneficial,MPAs,0,not found evidence of subsidy
+"South, Central America and Carribbean",St Vincent,B1,Capacity-enhancing,Boat constsruct. & renov.,98982.20049,Modeled
+"South, Central America and Carribbean",St Vincent,B2,Capacity-enhancing,Fisheries dev. projects,292770.1088,Modeled
+"South, Central America and Carribbean",St Vincent,B3,Capacity-enhancing,Fishing port develop.,0,not found evidence of subsidy
+"South, Central America and Carribbean",St Vincent,B4,Capacity-enhancing,Markt. & storage infrast.,0,not found evidence of subsidy
+"South, Central America and Carribbean",St Vincent,B5,Capacity-enhancing,Tax exemption,344649.0345,Modeled
+"South, Central America and Carribbean",St Vincent,B6,Capacity-enhancing,Fishing access,352578.65,Modeled
+"South, Central America and Carribbean",St Vincent,B7,Capacity-enhancing,Fuel subsidies,0,not found evidence of subsidy
+"South, Central America and Carribbean",St Vincent,C1,Ambiguous,Fisher assistance,0,not found evidence of subsidy
+"South, Central America and Carribbean",St Vincent,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+"South, Central America and Carribbean",St Vincent,C3,Ambiguous,Rural fisher communities,54189.71845,Modeled
+"South, Central America and Carribbean",Suriname,A1,Beneficial,Fisheries mangt.,9538126.847,Modeled
+"South, Central America and Carribbean",Suriname,A2,Beneficial,Fishery R&D,0,not found evidence of subsidy
+"South, Central America and Carribbean",Suriname,A3,Beneficial,MPAs,635676.8274,Modeled
+"South, Central America and Carribbean",Suriname,B1,Capacity-enhancing,Boat constsruct. & renov.,0,not found evidence of subsidy
+"South, Central America and Carribbean",Suriname,B2,Capacity-enhancing,Fisheries dev. projects,3144078.478,Modeled
+"South, Central America and Carribbean",Suriname,B3,Capacity-enhancing,Fishing port develop.,0,not found evidence of subsidy
+"South, Central America and Carribbean",Suriname,B4,Capacity-enhancing,Markt. & storage infrast.,2388027.093,Modeled
+"South, Central America and Carribbean",Suriname,B5,Capacity-enhancing,Tax exemption,0,not found evidence of subsidy
+"South, Central America and Carribbean",Suriname,B6,Capacity-enhancing,Fishing access,21155.13,Modeled
+"South, Central America and Carribbean",Suriname,B7,Capacity-enhancing,Fuel subsidies,0,not found evidence of subsidy
+"South, Central America and Carribbean",Suriname,C1,Ambiguous,Fisher assistance,0,not found evidence of subsidy
+"South, Central America and Carribbean",Suriname,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+"South, Central America and Carribbean",Suriname,C3,Ambiguous,Rural fisher communities,1195289.492,Modeled
+"South, Central America and Carribbean",Trinidad Tob,A1,Beneficial,Fisheries mangt.,444198.93,Reported
+"South, Central America and Carribbean",Trinidad Tob,A2,Beneficial,Fishery R&D,174718.2458,Reported
+"South, Central America and Carribbean",Trinidad Tob,A3,Beneficial,MPAs,128045.2879,Modeled
+"South, Central America and Carribbean",Trinidad Tob,B1,Capacity-enhancing,Boat constsruct. & renov.,527124.5623,Modeled
+"South, Central America and Carribbean",Trinidad Tob,B2,Capacity-enhancing,Fisheries dev. projects,1559131.992,Modeled
+"South, Central America and Carribbean",Trinidad Tob,B3,Capacity-enhancing,Fishing port develop.,5019447.909,Reported
+"South, Central America and Carribbean",Trinidad Tob,B4,Capacity-enhancing,Markt. & storage infrast.,388674.0638,Reported
+"South, Central America and Carribbean",Trinidad Tob,B5,Capacity-enhancing,Tax exemption,1835410.514,Modeled
+"South, Central America and Carribbean",Trinidad Tob,B6,Capacity-enhancing,Fishing access,576929.86,Modeled
+"South, Central America and Carribbean",Trinidad Tob,B7,Capacity-enhancing,Fuel subsidies,3702848.982,Modeled
+"South, Central America and Carribbean",Trinidad Tob,C1,Ambiguous,Fisher assistance,68257.32882,Reported
+"South, Central America and Carribbean",Trinidad Tob,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+"South, Central America and Carribbean",Trinidad Tob,C3,Ambiguous,Rural fisher communities,888397.86,Reported
+"South, Central America and Carribbean",Uruguay,A1,Beneficial,Fisheries mangt.,12282171.54,Modeled
+"South, Central America and Carribbean",Uruguay,A2,Beneficial,Fishery R&D,0,not found evidence of subsidy
+"South, Central America and Carribbean",Uruguay,A3,Beneficial,MPAs,1842534.997,Modeled
+"South, Central America and Carribbean",Uruguay,B1,Capacity-enhancing,Boat constsruct. & renov.,0,not found evidence of subsidy
+"South, Central America and Carribbean",Uruguay,B2,Capacity-enhancing,Fisheries dev. projects,4883492.399,Modeled
+"South, Central America and Carribbean",Uruguay,B3,Capacity-enhancing,Fishing port develop.,0,not found evidence of subsidy
+"South, Central America and Carribbean",Uruguay,B4,Capacity-enhancing,Markt. & storage infrast.,0,not found evidence of subsidy
+"South, Central America and Carribbean",Uruguay,B5,Capacity-enhancing,Tax exemption,0,not found evidence of subsidy
+"South, Central America and Carribbean",Uruguay,B6,Capacity-enhancing,Fishing access,58430.64,Modeled
+"South, Central America and Carribbean",Uruguay,B7,Capacity-enhancing,Fuel subsidies,0,not found evidence of subsidy
+"South, Central America and Carribbean",Uruguay,C1,Ambiguous,Fisher assistance,0,not found evidence of subsidy
+"South, Central America and Carribbean",Uruguay,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+"South, Central America and Carribbean",Uruguay,C3,Ambiguous,Rural fisher communities,0,not found evidence of subsidy
+"South, Central America and Carribbean",Venezuela,A1,Beneficial,Fisheries mangt.,21934463.03,Modeled
+"South, Central America and Carribbean",Venezuela,A2,Beneficial,Fishery R&D,0,not found evidence of subsidy
+"South, Central America and Carribbean",Venezuela,A3,Beneficial,MPAs,5072774.676,Modeled
+"South, Central America and Carribbean",Venezuela,B1,Capacity-enhancing,Boat constsruct. & renov.,0,not found evidence of subsidy
+"South, Central America and Carribbean",Venezuela,B2,Capacity-enhancing,Fisheries dev. projects,13751828.34,Modeled
+"South, Central America and Carribbean",Venezuela,B3,Capacity-enhancing,Fishing port develop.,0,not found evidence of subsidy
+"South, Central America and Carribbean",Venezuela,B4,Capacity-enhancing,Markt. & storage infrast.,10444948.78,Modeled
+"South, Central America and Carribbean",Venezuela,B5,Capacity-enhancing,Tax exemption,16188655.25,Modeled
+"South, Central America and Carribbean",Venezuela,B6,Capacity-enhancing,Fishing access,3368879.93,Modeled
+"South, Central America and Carribbean",Venezuela,B7,Capacity-enhancing,Fuel subsidies,0,not found evidence of subsidy
+"South, Central America and Carribbean",Venezuela,C1,Ambiguous,Fisher assistance,0,not found evidence of subsidy
+"South, Central America and Carribbean",Venezuela,C2,Ambiguous,Vessel buyback,0,not found evidence of subsidy
+"South, Central America and Carribbean",Venezuela,C3,Ambiguous,Rural fisher communities,2748761.219,Modeled

@@ -1,0 +1,1875 @@
+,year,fishing_entity_id,eezid,sector_type_id,sumcatch,landval,Name_Fleet,fishing_sector,Name_EEZ
+0,2014,1,8,1,4595.641095,4084344.577,Albania,Industrial,Albania
+1,2014,1,8,2,22.63378848,22861.85427,Albania,Artisanal,Albania
+2,2014,1,8,3,456.8659927,463953.6255,Albania,Subsistence,Albania
+3,2014,213,8,1,0.01823565,26.73346297,Unknown Fishing Country,Industrial,Albania
+4,2014,2,12,1,118578.5527,177135153.4,Algeria,Industrial,Algeria
+5,2014,2,12,2,192.66666669999998,639687.3960000001,Algeria,Artisanal,Algeria
+6,2014,2,12,3,44844.76455,115447093.8,Algeria,Subsistence,Algeria
+7,2014,2,12,4,969.5282041000002,3120498.6569999997,Algeria,Recreational,Algeria
+8,2014,165,12,1,21428.50881,44523918.34,Spain,Industrial,Algeria
+9,2014,213,12,1,1256.134432,1841493.0780000002,Unknown Fishing Country,Industrial,Algeria
+10,2014,3,16,1,56.03447911,114685.8924,American Samoa,Industrial,American Samoa
+11,2014,3,16,2,27.33794013,55744.90462,American Samoa,Artisanal,American Samoa
+12,2014,3,16,3,48.0,310702.6987,American Samoa,Subsistence,American Samoa
+13,2014,3,16,4,109.3517605,222979.6185,American Samoa,Recreational,American Samoa
+14,2014,40,16,1,46.45933351,205292.4673,Cook Islands,Industrial,American Samoa
+15,2014,91,16,1,1809.5379,8160185.63,Japan,Industrial,American Samoa
+16,2014,95,16,1,867.1064273,1515601.88,Korea (South),Industrial,American Samoa
+17,2014,187,16,1,8523.958322,14000611.7,USA,Industrial,American Samoa
+18,2014,213,16,1,4165.507878,6106634.549,Unknown Fishing Country,Industrial,American Samoa
+19,2014,3,184,1,157.8311737,353132.7697,American Samoa,Industrial,Cook Islands
+20,2014,7,184,1,12.896234699999999,23161.63752,Australia,Industrial,Cook Islands
+21,2014,18,184,1,219.5247444,173863.5976,Solomon Isl.,Industrial,Cook Islands
+22,2014,31,184,1,2698.027215,4724077.312,China,Industrial,Cook Islands
+23,2014,40,184,1,162.6321958,572582.3665,Cook Islands,Industrial,Cook Islands
+24,2014,40,184,2,431.2338028,2008817.6130000001,Cook Islands,Artisanal,Cook Islands
+25,2014,40,184,3,234.36619720000002,1091748.703,Cook Islands,Subsistence,Cook Islands
+26,2014,56,184,1,69.69888579,102178.5666,Fiji,Industrial,Cook Islands
+27,2014,69,184,1,2.578520181,1366.615696,Kiribati,Industrial,Cook Islands
+28,2014,122,184,1,59.41001875,37844.181939999995,Vanuatu,Industrial,Cook Islands
+29,2014,123,184,1,0.274664264,433.4202079,New Zealand,Industrial,Cook Islands
+30,2014,131,184,1,11.61704086,17030.58191,Micronesia,Industrial,Cook Islands
+31,2014,132,184,1,0.260697995,382.18326060000004,Marshall Isl.,Industrial,Cook Islands
+32,2014,136,184,1,9.474251702,6338.274388,Papua New Guinea,Industrial,Cook Islands
+33,2014,187,184,1,40482.118969999996,64681458.99,USA,Industrial,Cook Islands
+34,2014,192,184,1,3.41514292,2253.994327,Samoa,Industrial,Cook Islands
+35,2014,213,184,1,1497.959871,2196009.172,Unknown Fishing Country,Industrial,Cook Islands
+36,2014,3,396,1,35.67081878,56018.12311,American Samoa,Industrial,Johnston Atoll (USA)
+37,2014,31,396,1,609.4252261,735810.8267,China,Industrial,Johnston Atoll (USA)
+38,2014,40,396,1,2.36876702,7263.793035,Cook Islands,Industrial,Johnston Atoll (USA)
+39,2014,60,396,1,9.210034757,30279.744039999998,French Polynesia,Industrial,Johnston Atoll (USA)
+40,2014,69,396,1,1.389594112,1774.1496300000001,Kiribati,Industrial,Johnston Atoll (USA)
+41,2014,95,396,1,11171.96481,12723503.43,Korea (South),Industrial,Johnston Atoll (USA)
+42,2014,173,396,1,0.104340269,207.9851436,Tokelau (New Zealand),Industrial,Johnston Atoll (USA)
+43,2014,187,396,1,8803.209031999999,13430491.49,USA,Industrial,Johnston Atoll (USA)
+44,2014,192,396,1,0.87759913,1407.573251,Samoa,Industrial,Johnston Atoll (USA)
+45,2014,3,882,1,17.43414407,39247.57705,American Samoa,Industrial,Samoa
+46,2014,7,882,1,1.296458938,2328.440252,Australia,Industrial,Samoa
+47,2014,18,882,1,35.00707692,27725.604919999998,Solomon Isl.,Industrial,Samoa
+48,2014,40,882,1,0.659135035,1040.115086,Cook Islands,Industrial,Samoa
+49,2014,56,882,1,11.06520916,16221.596619999998,Fiji,Industrial,Samoa
+50,2014,69,882,1,1.712333909,907.5369720000001,Kiribati,Industrial,Samoa
+51,2014,122,882,1,9.670216304,6159.927786,Vanuatu,Industrial,Samoa
+52,2014,123,882,1,0.18250144,287.9872724,New Zealand,Industrial,Samoa
+53,2014,131,882,1,2.04588882,2999.2730100000003,Micronesia,Industrial,Samoa
+54,2014,132,882,1,0.17400373600000002,255.08947680000003,Marshall Isl.,Industrial,Samoa
+55,2014,136,882,1,2.665031977,1782.906393,Papua New Guinea,Industrial,Samoa
+56,2014,187,882,1,5398.501281,9318896.228,USA,Industrial,Samoa
+57,2014,192,882,1,23.66810749,42186.11,Samoa,Industrial,Samoa
+58,2014,192,882,2,10580.8081,23490851.78,Samoa,Artisanal,Samoa
+59,2014,192,882,3,2074.791388,4066260.644,Samoa,Subsistence,Samoa
+60,2014,213,882,1,2916.3745870000002,4275405.143999999,Unknown Fishing Country,Industrial,Samoa
+61,2014,3,898,1,30.68351259,46277.70542,American Samoa,Industrial,Clipperton Isl.  (France)
+62,2014,16,898,1,35.18537768,88232.30792,Belize,Industrial,Clipperton Isl.  (France)
+63,2014,31,898,1,376.3181018,371662.8078,China,Industrial,Clipperton Isl.  (France)
+64,2014,95,898,1,12905.70635,14352970.12,Korea (South),Industrial,Clipperton Isl.  (France)
+65,2014,110,898,1,1070.427316,3144683.5039999997,Mexico,Industrial,Clipperton Isl.  (France)
+66,2014,135,898,1,3.489966411,5492.505848,Panama,Industrial,Clipperton Isl.  (France)
+67,2014,190,898,1,4.645606771000001,18449.65861,Venezuela,Industrial,Clipperton Isl.  (France)
+68,2014,213,898,1,4115.019928,6032619.215,Unknown Fishing Country,Industrial,Clipperton Isl.  (France)
+69,2014,4,24,1,240098.5827,574265210.6,Angola,Industrial,Angola
+70,2014,4,24,2,73984.3053,191173339.0,Angola,Artisanal,Angola
+71,2014,4,24,3,224966.4123,494961010.8,Angola,Subsistence,Angola
+72,2014,4,24,4,138.29183999999998,523745.771,Angola,Recreational,Angola
+73,2014,31,24,1,117958.2741,56266096.75,China,Industrial,Angola
+74,2014,91,24,1,3163.703845,11040609.62,Japan,Industrial,Angola
+75,2014,95,24,1,1.309934307,2937.56865,Korea (South),Industrial,Angola
+76,2014,148,24,1,48967.00057,50443204.55,Russian Federation,Industrial,Angola
+77,2014,165,24,1,10834.682190000001,24910464.04,Spain,Industrial,Angola
+78,2014,181,24,1,15816.9,8730928.8,Ukraine,Industrial,Angola
+79,2014,213,24,1,7923.558575,11615936.87,Unknown Fishing Country,Industrial,Angola
+80,2014,4,430,1,2984.849953,6753189.2639999995,Angola,Industrial,Liberia
+81,2014,31,430,1,30854.656030000002,26073500.33,China,Industrial,Liberia
+82,2014,66,430,1,1276.742714,1957068.791,Germany,Industrial,Liberia
+83,2014,67,430,1,14842.10521,28791630.98,Ghana,Industrial,Liberia
+84,2014,70,430,1,135.8931389,220629.9682,Greece,Industrial,Liberia
+85,2014,91,430,1,6055.6380469999995,12940803.95,Japan,Industrial,Liberia
+86,2014,95,430,1,6912.990174,9464208.23,Korea (South),Industrial,Liberia
+87,2014,99,430,2,8377.56123,8796679.398,Liberia,Artisanal,Liberia
+88,2014,99,430,3,19530.62353,23605745.77,Liberia,Subsistence,Liberia
+89,2014,141,430,1,262.9175202,413515.5683,Portugal,Industrial,Liberia
+90,2014,148,430,1,4931.217183,4390101.174,Russian Federation,Industrial,Liberia
+91,2014,157,430,1,427.58222429999995,787622.7552,Senegal,Industrial,Liberia
+92,2014,165,430,1,3701.3617649999997,7633405.539,Spain,Industrial,Liberia
+93,2014,183,430,1,6.269545149,9182.261928,United Kingdom,Industrial,Liberia
+94,2014,213,430,1,512.1475456000001,750808.3019,Unknown Fishing Country,Industrial,Liberia
+95,2014,5,28,2,1262.390833,3356768.829,Antigua & Barbuda,Artisanal,Antigua & Barbuda
+96,2014,5,28,3,2349.775,8877163.1,Antigua & Barbuda,Subsistence,Antigua & Barbuda
+97,2014,5,28,4,177.0001871,354104.6881,Antigua & Barbuda,Recreational,Antigua & Barbuda
+98,2014,213,28,1,0.010583146000000002,15.51489141,Unknown Fishing Country,Industrial,Antigua & Barbuda
+99,2014,6,32,1,997065.7381,1028079788.0,Argentina,Industrial,Argentina
+100,2014,6,32,2,524.5854586,1083687.116,Argentina,Artisanal,Argentina
+101,2014,6,32,3,152221.1908,234767277.2,Argentina,Subsistence,Argentina
+102,2014,6,32,4,93037.73668999999,97473854.66,Argentina,Recreational,Argentina
+103,2014,213,32,1,1.917413201,2810.927752,Unknown Fishing Country,Industrial,Argentina
+104,2014,7,36,1,96619.80338,464618379.2,Australia,Industrial,Australia
+105,2014,7,36,2,3329.723241,16836612.01,Australia,Artisanal,Australia
+106,2014,7,36,3,31074.724860000002,366600644.8,Australia,Subsistence,Australia
+107,2014,7,36,4,24097.6562,120137796.9,Australia,Recreational,Australia
+108,2014,18,36,1,86.87329957,68803.65326,Solomon Isl.,Industrial,Australia
+109,2014,40,36,1,4.205559985,6636.373656000001,Cook Islands,Industrial,Australia
+110,2014,56,36,1,25.73867783,37732.90169,Fiji,Industrial,Australia
+111,2014,69,36,1,0.079791019,42.28923988,Kiribati,Industrial,Australia
+112,2014,83,36,1,7920.334387999999,14317734.64,Indonesia,Industrial,Australia
+113,2014,91,36,1,2194.263366,11504859.91,Japan,Industrial,Australia
+114,2014,122,36,1,21.3426315,13595.25626,Vanuatu,Industrial,Australia
+115,2014,123,36,1,0.008624986,13.61022793,New Zealand,Industrial,Australia
+116,2014,131,36,1,4.355857001,6385.686363000001,Micronesia,Industrial,Australia
+117,2014,132,36,1,0.007994818,11.72040368,Marshall Isl.,Industrial,Australia
+118,2014,136,36,1,3.97078514,2656.455258,Papua New Guinea,Industrial,Australia
+119,2014,187,36,1,167.31159340000002,841824.2221,USA,Industrial,Australia
+120,2014,192,36,1,1.197687879,790.4740002,Samoa,Industrial,Australia
+121,2014,213,36,1,3008.8235440000003,4410935.315,Unknown Fishing Country,Industrial,Australia
+122,2014,7,37,1,194.3238767,1986472.48,Australia,Industrial,Macquarie Isl. (Australia)
+123,2014,7,38,1,397.1347501,958262.5325,Australia,Industrial,Lord Howe Isl. (Australia)
+124,2014,7,38,2,22.8,149713.92,Australia,Artisanal,Lord Howe Isl. (Australia)
+125,2014,7,38,3,16.0,105062.4,Australia,Subsistence,Lord Howe Isl. (Australia)
+126,2014,31,38,1,603.775419,1140146.723,China,Industrial,Lord Howe Isl. (Australia)
+127,2014,40,38,1,30.05771703,111210.3539,Cook Islands,Industrial,Lord Howe Isl. (Australia)
+128,2014,91,38,1,689.3670957,3451002.0889999997,Japan,Industrial,Lord Howe Isl. (Australia)
+129,2014,95,38,1,2488.984172,4805877.112,Korea (South),Industrial,Lord Howe Isl. (Australia)
+130,2014,123,38,1,53.40659095,322422.7501,New Zealand,Industrial,Lord Howe Isl. (Australia)
+131,2014,7,90,1,147.4955409,264901.9914,Australia,Industrial,Solomon Isl.
+132,2014,18,90,1,7589.181852,11491318.48,Solomon Isl.,Industrial,Solomon Isl.
+133,2014,18,90,2,20200.0,41407660.0,Solomon Isl.,Artisanal,Solomon Isl.
+134,2014,18,90,3,6721.93065,23515479.31,Solomon Isl.,Subsistence,Solomon Isl.
+135,2014,40,90,1,11.81339054,18641.53027,Cook Islands,Industrial,Solomon Isl.
+136,2014,56,90,1,134.0786125,196559.2459,Fiji,Industrial,Solomon Isl.
+137,2014,69,90,1,2876.015766,2597986.22,Kiribati,Industrial,Solomon Isl.
+138,2014,91,90,1,12751.000890000001,49279854.93,Japan,Industrial,Solomon Isl.
+139,2014,117,90,1,2.296498289,6426.544346,Nauru,Industrial,Solomon Isl.
+140,2014,122,90,1,107.3522737,68383.39835,Vanuatu,Industrial,Solomon Isl.
+141,2014,123,90,1,1.8790306559999999,2965.110376,New Zealand,Industrial,Solomon Isl.
+142,2014,131,90,1,1207.341111,2254583.67,Micronesia,Industrial,Solomon Isl.
+143,2014,132,90,1,1782.4549170000003,1405999.01,Marshall Isl.,Industrial,Solomon Isl.
+144,2014,136,90,1,6424.596761,7645318.991,Papua New Guinea,Industrial,Solomon Isl.
+145,2014,180,90,1,184.83607849999999,378615.6674,Tuvalu,Industrial,Solomon Isl.
+146,2014,187,90,1,9458.06265,41807432.21,USA,Industrial,Solomon Isl.
+147,2014,192,90,1,6.021436241,3974.1479189999995,Samoa,Industrial,Solomon Isl.
+148,2014,213,90,1,38072.39069,55814124.75,Unknown Fishing Country,Industrial,Solomon Isl.
+149,2014,7,242,1,95.40291114,171343.6284,Australia,Industrial,Fiji
+150,2014,18,242,1,164.2468955,130083.5412,Solomon Isl.,Industrial,Fiji
+151,2014,40,242,1,4.827270134,7617.432271,Cook Islands,Industrial,Fiji
+152,2014,56,242,1,2118.401507,4630707.416999999,Fiji,Industrial,Fiji
+153,2014,56,242,2,15997.037040000001,71289246.93,Fiji,Artisanal,Fiji
+154,2014,56,242,3,11007.962959999999,46486524.45,Fiji,Subsistence,Fiji
+155,2014,69,242,1,0.07758052,41.11767542,Kiribati,Industrial,Fiji
+156,2014,91,242,1,7036.72725,26812762.48,Japan,Industrial,Fiji
+157,2014,122,242,1,40.85053694,26021.79203,Vanuatu,Industrial,Fiji
+158,2014,123,242,1,0.008567907,13.52015687,New Zealand,Industrial,Fiji
+159,2014,131,242,1,6.877078485,10081.797059999999,Micronesia,Industrial,Fiji
+160,2014,132,242,1,0.007908102,11.59327797,Marshall Isl.,Industrial,Fiji
+161,2014,136,242,1,5.512118626,3687.607361,Papua New Guinea,Industrial,Fiji
+162,2014,187,242,1,156.52213700000001,733379.855,USA,Industrial,Fiji
+163,2014,192,242,1,2.531026832,1670.477709,Samoa,Industrial,Fiji
+164,2014,213,242,1,7292.769216,10691199.67,Unknown Fishing Country,Industrial,Fiji
+165,2014,7,334,1,3989.35732,34195195.11,Australia,Industrial,Heard & McDonald Isl. (Australia)
+166,2014,7,361,1,9700.390706,19263275.4,Australia,Industrial,Indonesia (Eastern)
+167,2014,31,361,1,15056.23505,22721756.7,China,Industrial,Indonesia (Eastern)
+168,2014,32,361,1,38524.716810000005,58429791.58,Taiwan,Industrial,Indonesia (Eastern)
+169,2014,83,361,1,1901835.4130000002,3287332039.0,Indonesia,Industrial,Indonesia (Eastern)
+170,2014,83,361,2,64763.16672000001,127814590.5,Indonesia,Artisanal,Indonesia (Eastern)
+171,2014,83,361,3,855670.8037,1427463872.0,Indonesia,Subsistence,Indonesia (Eastern)
+172,2014,83,361,4,492.0108541,494962.9192,Indonesia,Recreational,Indonesia (Eastern)
+173,2014,95,361,1,35560.76038,62187261.48,Korea (South),Industrial,Indonesia (Eastern)
+174,2014,104,361,1,11480.909029999999,20333218.91,Malaysia,Industrial,Indonesia (Eastern)
+175,2014,138,361,1,55841.35197,86785976.31,Philippines,Industrial,Indonesia (Eastern)
+176,2014,171,361,1,1159762.375,1265958055.0,Thailand,Industrial,Indonesia (Eastern)
+177,2014,213,361,1,158533.1744,232409633.7,Unknown Fishing Country,Industrial,Indonesia (Eastern)
+178,2014,7,520,1,18.14892462,32595.46862,Australia,Industrial,Nauru
+179,2014,18,520,1,2262.819424,3127565.043,Solomon Isl.,Industrial,Nauru
+180,2014,40,520,1,0.5547811970000001,875.4447284,Cook Islands,Industrial,Nauru
+181,2014,56,520,1,7.406339997999999,10857.694440000001,Fiji,Industrial,Nauru
+182,2014,69,520,1,8118.893647,6399451.029,Kiribati,Industrial,Nauru
+183,2014,91,520,1,19889.45492,59218787.46,Japan,Industrial,Nauru
+184,2014,117,520,1,0.162565885,456.15536399999996,Nauru,Industrial,Nauru
+185,2014,117,520,2,210.0,506733.6329,Nauru,Artisanal,Nauru
+186,2014,117,520,3,163.0,431311.1676,Nauru,Subsistence,Nauru
+187,2014,122,520,1,16.76221656,10677.53195,Vanuatu,Industrial,Nauru
+188,2014,123,520,1,6.179899632000001,9751.88162,New Zealand,Industrial,Nauru
+189,2014,131,520,1,2799.843179,4262856.159,Micronesia,Industrial,Nauru
+190,2014,132,520,1,5536.764081,3940286.238,Marshall Isl.,Industrial,Nauru
+191,2014,136,520,1,16723.44891,17007507.09,Papua New Guinea,Industrial,Nauru
+192,2014,180,520,1,446.01187580000004,819935.7422,Tuvalu,Industrial,Nauru
+193,2014,187,520,1,27979.36424,115291888.1,USA,Industrial,Nauru
+194,2014,192,520,1,0.17534531,115.72790459999999,Samoa,Industrial,Nauru
+195,2014,7,548,1,77.25821161,138755.74800000002,Australia,Industrial,Vanuatu
+196,2014,18,548,1,170.9464839,135389.6152,Solomon Isl.,Industrial,Vanuatu
+197,2014,40,548,1,5.0259189719999995,7930.900138,Cook Islands,Industrial,Vanuatu
+198,2014,56,548,1,53.77894179999999,78839.92867000001,Fiji,Industrial,Vanuatu
+199,2014,122,548,1,1404.8349859999998,2402634.488,Vanuatu,Industrial,Vanuatu
+200,2014,122,548,2,7399.160875,9743107.342,Vanuatu,Artisanal,Vanuatu
+201,2014,122,548,3,69.36484167,219685.6421,Vanuatu,Subsistence,Vanuatu
+202,2014,122,548,4,79.33333333,212803.7333,Vanuatu,Recreational,Vanuatu
+203,2014,131,548,1,6.569752502,9631.257168,Micronesia,Industrial,Vanuatu
+204,2014,136,548,1,4.796115877,3208.601522,Papua New Guinea,Industrial,Vanuatu
+205,2014,187,548,1,92.09613175,427343.0544,USA,Industrial,Vanuatu
+206,2014,192,548,1,2.802870374,1849.894447,Samoa,Industrial,Vanuatu
+207,2014,213,548,1,5645.087041,8275697.602999999,Unknown Fishing Country,Industrial,Vanuatu
+208,2014,7,554,1,2957.3795600000003,5311453.688999999,Australia,Industrial,New Zealand
+209,2014,18,554,1,10.83581955,8581.969086,Solomon Isl.,Industrial,New Zealand
+210,2014,40,554,1,0.325625674,513.8373134999999,Cook Islands,Industrial,New Zealand
+211,2014,47,554,1,18614.18482,31911100.1,Dominica,Industrial,New Zealand
+212,2014,56,554,1,3.782310965,5544.8678740000005,Fiji,Industrial,New Zealand
+213,2014,69,554,1,2.639789958,1399.0886779999998,Kiribati,Industrial,New Zealand
+214,2014,91,554,1,64388.12051,169509648.0,Japan,Industrial,New Zealand
+215,2014,95,554,1,138508.8455,222070371.8,Korea (South),Industrial,New Zealand
+216,2014,122,554,1,4.609674624,2936.362735,Vanuatu,Industrial,New Zealand
+217,2014,123,554,1,243967.3019,558535216.3,New Zealand,Industrial,New Zealand
+218,2014,123,554,2,471.35967999999997,2311918.524,New Zealand,Artisanal,New Zealand
+219,2014,123,554,3,100690.4203,231328205.7,New Zealand,Subsistence,New Zealand
+220,2014,123,554,4,10374.0,50882253.58,New Zealand,Recreational,New Zealand
+221,2014,131,554,1,1.5787677269999998,2314.473488,Micronesia,Industrial,New Zealand
+222,2014,132,554,1,0.27077211100000004,396.9519153,Marshall Isl.,Industrial,New Zealand
+223,2014,136,554,1,3.1204726369999998,2087.596194,Papua New Guinea,Industrial,New Zealand
+224,2014,181,554,1,34901.59654,29574750.9,Ukraine,Industrial,New Zealand
+225,2014,187,554,1,1331.3990900000001,4985685.041999999,USA,Industrial,New Zealand
+226,2014,192,554,1,0.19509438,128.76229070000002,Samoa,Industrial,New Zealand
+227,2014,213,554,1,5503.878563,8068685.972999999,Unknown Fishing Country,Industrial,New Zealand
+228,2014,7,570,1,0.10054831800000001,180.5847786,Australia,Industrial,Niue (New Zealand)
+229,2014,18,570,1,2.622870104,2077.313122,Solomon Isl.,Industrial,Niue (New Zealand)
+230,2014,40,570,1,0.062270595,98.2629995,Cook Islands,Industrial,Niue (New Zealand)
+231,2014,56,570,1,0.81663876,1197.192422,Fiji,Industrial,Niue (New Zealand)
+232,2014,122,570,1,0.677033896,431.27059180000003,Vanuatu,Industrial,Niue (New Zealand)
+233,2014,126,570,2,153.92731609999998,532886.1442,Niue (New Zealand),Artisanal,Niue (New Zealand)
+234,2014,126,570,3,10.99330522,38850.60284,Niue (New Zealand),Subsistence,Niue (New Zealand)
+235,2014,131,570,1,0.098478938,144.3701232,Micronesia,Industrial,Niue (New Zealand)
+236,2014,136,570,1,0.07729920700000001,51.71316975,Papua New Guinea,Industrial,Niue (New Zealand)
+237,2014,187,570,1,3953.993814,5983353.768999999,USA,Industrial,Niue (New Zealand)
+238,2014,192,570,1,0.042370183,27.96432107,Samoa,Industrial,Niue (New Zealand)
+239,2014,213,570,1,109.46391899999999,160474.1052,Unknown Fishing Country,Industrial,Niue (New Zealand)
+240,2014,7,583,1,163.68497040000003,293978.2068,Australia,Industrial,Micronesia (Federated States of)
+241,2014,18,583,1,3078.262672,4584041.597,Solomon Isl.,Industrial,Micronesia (Federated States of)
+242,2014,40,583,1,2.921148215,4609.571883,Cook Islands,Industrial,Micronesia (Federated States of)
+243,2014,56,583,1,28.16093287,41283.92759,Fiji,Industrial,Micronesia (Federated States of)
+244,2014,69,583,1,6479.925612,5239386.371,Kiribati,Industrial,Micronesia (Federated States of)
+245,2014,91,583,1,14108.445909999999,45428552.12,Japan,Industrial,Micronesia (Federated States of)
+246,2014,117,583,1,0.715543667,2001.81545,Nauru,Industrial,Micronesia (Federated States of)
+247,2014,122,583,1,37.56474599,23928.74319,Vanuatu,Industrial,Micronesia (Federated States of)
+248,2014,123,583,1,4.589980373,7242.989029,New Zealand,Industrial,Micronesia (Federated States of)
+249,2014,131,583,1,2351.173722,3737691.865,Micronesia,Industrial,Micronesia (Federated States of)
+250,2014,131,583,2,3945.0,13815154.18,Micronesia,Artisanal,Micronesia (Federated States of)
+251,2014,131,583,3,1725.0,7705321.969,Micronesia,Subsistence,Micronesia (Federated States of)
+252,2014,132,583,1,4340.046413,3138380.095,Marshall Isl.,Industrial,Micronesia (Federated States of)
+253,2014,136,583,1,13577.8467,14234101.5,Papua New Guinea,Industrial,Micronesia (Federated States of)
+254,2014,141,583,1,19.52039165,86178.09936000001,Portugal,Industrial,Micronesia (Federated States of)
+255,2014,165,583,1,7085.192312,13902760.76,Spain,Industrial,Micronesia (Federated States of)
+256,2014,180,583,1,361.43199580000004,682670.9607,Tuvalu,Industrial,Micronesia (Federated States of)
+257,2014,187,583,1,22213.03818,93371971.53,USA,Industrial,Micronesia (Federated States of)
+258,2014,192,583,1,0.780701392,515.2629187,Samoa,Industrial,Micronesia (Federated States of)
+259,2014,213,583,1,9980.197887,14630970.1,Unknown Fishing Country,Industrial,Micronesia (Federated States of)
+260,2014,7,584,1,107.7510101,193520.8141,Australia,Industrial,Marshall Isl.
+261,2014,18,584,1,2151.981944,3048241.724,Solomon Isl.,Industrial,Marshall Isl.
+262,2014,32,584,1,22518.71131,29505290.25,Taiwan,Industrial,Marshall Isl.
+263,2014,40,584,1,1.585796134,2502.3863,Cook Islands,Industrial,Marshall Isl.
+264,2014,56,584,1,19.37238911,28399.92244,Fiji,Industrial,Marshall Isl.
+265,2014,69,584,1,6136.721975,4830676.847,Kiribati,Industrial,Marshall Isl.
+266,2014,91,584,1,25572.97735,76926401.92,Japan,Industrial,Marshall Isl.
+267,2014,117,584,1,0.287663067,793.1514414,Nauru,Industrial,Marshall Isl.
+268,2014,122,584,1,23.35019057,14874.071390000001,Vanuatu,Industrial,Marshall Isl.
+269,2014,123,584,1,4.351472769,6866.6240290000005,New Zealand,Industrial,Marshall Isl.
+270,2014,131,584,1,2170.0535489999997,3333183.708,Micronesia,Industrial,Marshall Isl.
+271,2014,132,584,1,4173.469875,2959943.818,Marshall Isl.,Industrial,Marshall Isl.
+272,2014,132,584,2,3000.0,5402642.867000001,Marshall Isl.,Artisanal,Marshall Isl.
+273,2014,132,584,3,1500.0,2699177.385,Marshall Isl.,Subsistence,Marshall Isl.
+274,2014,136,584,1,12688.43321,12898266.02,Papua New Guinea,Industrial,Marshall Isl.
+275,2014,180,584,1,341.7609724,630040.9765,Tuvalu,Industrial,Marshall Isl.
+276,2014,187,584,1,21285.80959,88209865.42,USA,Industrial,Marshall Isl.
+277,2014,192,584,1,0.386162853,254.86748319999998,Samoa,Industrial,Marshall Isl.
+278,2014,213,584,1,9281.257357999999,13606323.29,Unknown Fishing Country,Industrial,Marshall Isl.
+279,2014,7,585,1,33.76267493,60637.76417,Australia,Industrial,Palau
+280,2014,18,585,1,4068.709693,6112913.003,Solomon Isl.,Industrial,Palau
+281,2014,32,585,1,8874.587947,11865913.46,Taiwan,Industrial,Palau
+282,2014,40,585,1,3.119321735,4922.289697,Cook Islands,Industrial,Palau
+283,2014,56,585,1,41.17816302,60367.186989999995,Fiji,Industrial,Palau
+284,2014,69,585,1,6458.358066,5173130.713,Kiribati,Industrial,Palau
+285,2014,91,585,1,27834.2803,92786376.33,Japan,Industrial,Palau
+286,2014,117,585,1,1.431143356,4109.696878,Nauru,Industrial,Palau
+287,2014,122,585,1,37.7214561,24028.56753,Vanuatu,Industrial,Palau
+288,2014,123,585,1,4.833536866,7627.321174,New Zealand,Industrial,Palau
+289,2014,131,585,1,2317.48212,3641060.048,Micronesia,Industrial,Palau
+290,2014,132,585,1,4229.6415719999995,3007343.38,Marshall Isl.,Industrial,Palau
+291,2014,133,585,2,1250.0,5627648.34,Palau,Artisanal,Palau
+292,2014,133,585,3,865.0,3839998.328,Palau,Subsistence,Palau
+293,2014,136,585,1,13488.360519999998,14071721.06,Papua New Guinea,Industrial,Palau
+294,2014,180,585,1,360.0448355,676059.4373,Tuvalu,Industrial,Palau
+295,2014,187,585,1,21941.726459999998,90096888.23,USA,Industrial,Palau
+296,2014,192,585,1,1.144284364,755.2276801,Samoa,Industrial,Palau
+297,2014,213,585,1,3920.76181,5747836.812999999,Unknown Fishing Country,Industrial,Palau
+298,2014,7,598,1,289.1342333,519285.083,Australia,Industrial,Papua New Guinea
+299,2014,18,598,1,7819.186191,12236345.65,Solomon Isl.,Industrial,Papua New Guinea
+300,2014,40,598,1,4.2699497719999995,6737.980740999999,Cook Islands,Industrial,Papua New Guinea
+301,2014,56,598,1,33.61878659,49285.14114,Fiji,Industrial,Papua New Guinea
+302,2014,69,598,1,17842.46606,15854196.5,Kiribati,Industrial,Papua New Guinea
+303,2014,91,598,1,35093.42189,117782092.4,Japan,Industrial,Papua New Guinea
+304,2014,117,598,1,0.7373590390000001,2091.451895,Nauru,Industrial,Papua New Guinea
+305,2014,122,598,1,47.16987677,30047.2115,Vanuatu,Industrial,Papua New Guinea
+306,2014,123,598,1,11.1694882,17625.452380000002,New Zealand,Industrial,Papua New Guinea
+307,2014,131,598,1,6052.812892,10299858.14,Micronesia,Industrial,Papua New Guinea
+308,2014,132,598,1,11465.76572,9015874.108,Marshall Isl.,Industrial,Papua New Guinea
+309,2014,136,598,1,43690.887689999996,52144047.18,Papua New Guinea,Industrial,Papua New Guinea
+310,2014,136,598,2,33659.543789999996,81827149.94,Papua New Guinea,Artisanal,Papua New Guinea
+311,2014,136,598,3,3815.9418049999995,6955963.2979999995,Papua New Guinea,Subsistence,Papua New Guinea
+312,2014,136,598,4,1080.376657,1517464.6409999998,Papua New Guinea,Recreational,Papua New Guinea
+313,2014,180,598,1,909.9433744999999,1838024.3080000002,Tuvalu,Industrial,Papua New Guinea
+314,2014,187,598,1,64017.721829999995,263672226.4,USA,Industrial,Papua New Guinea
+315,2014,192,598,1,1.408056357,929.3171956,Samoa,Industrial,Papua New Guinea
+316,2014,213,598,1,138111.1648,202470967.6,Unknown Fishing Country,Industrial,Papua New Guinea
+317,2014,7,711,1,2.890153948,11822.2773,Australia,Industrial,Prince Edward Isl. (South Africa)
+318,2014,31,711,1,3.05724766,1662.051492,China,Industrial,Prince Edward Isl. (South Africa)
+319,2014,58,711,1,6.2665012220000005,10521.45555,France,Industrial,Prince Edward Isl. (South Africa)
+320,2014,91,711,1,0.770492941,3294.593861,Japan,Industrial,Prince Edward Isl. (South Africa)
+321,2014,95,711,1,24.83325581,60194.573529999994,Korea (South),Industrial,Prince Edward Isl. (South Africa)
+322,2014,164,711,1,394.180735,2714472.9639999997,South Africa,Industrial,Prince Edward Isl. (South Africa)
+323,2014,165,711,1,6209.189923,10279389.85,Spain,Industrial,Prince Edward Isl. (South Africa)
+324,2014,183,711,1,156.2,211174.0,United Kingdom,Industrial,Prince Edward Isl. (South Africa)
+325,2014,7,772,1,2.8605908089999996,5137.621094,Australia,Industrial,Tokelau (New Zealand)
+326,2014,18,772,1,38.38571456,30401.485930000003,Solomon Isl.,Industrial,Tokelau (New Zealand)
+327,2014,40,772,1,0.802709764,1266.676007,Cook Islands,Industrial,Tokelau (New Zealand)
+328,2014,56,772,1,11.83596143,17351.51945,Fiji,Industrial,Tokelau (New Zealand)
+329,2014,69,772,1,16.93425716,8975.156294,Kiribati,Industrial,Tokelau (New Zealand)
+330,2014,122,772,1,11.81883625,7528.598690000001,Vanuatu,Industrial,Tokelau (New Zealand)
+331,2014,123,772,1,1.865560114,2943.853859,New Zealand,Industrial,Tokelau (New Zealand)
+332,2014,131,772,1,9.656657051,14156.65924,Micronesia,Industrial,Tokelau (New Zealand)
+333,2014,132,772,1,1.717918562,2518.468613,Marshall Isl.,Industrial,Tokelau (New Zealand)
+334,2014,136,772,1,18.73561601,12534.12711,Papua New Guinea,Industrial,Tokelau (New Zealand)
+335,2014,173,772,1,2.293114733,4411.989764,Tokelau (New Zealand),Industrial,Tokelau (New Zealand)
+336,2014,187,772,1,14954.39037,38973672.67,USA,Industrial,Tokelau (New Zealand)
+337,2014,192,772,1,0.43692991200000003,288.3737421,Samoa,Industrial,Tokelau (New Zealand)
+338,2014,213,772,1,18726.65448,27453275.47,Unknown Fishing Country,Industrial,Tokelau (New Zealand)
+339,2014,7,776,1,29.59701796,53156.24426,Australia,Industrial,Tonga
+340,2014,18,776,1,27.04118922,21416.62186,Solomon Isl.,Industrial,Tonga
+341,2014,40,776,1,0.77479396,1222.624869,Cook Islands,Industrial,Tonga
+342,2014,56,776,1,8.341411105,12228.508679999999,Fiji,Industrial,Tonga
+343,2014,69,776,1,0.10182776699999999,53.96871677,Kiribati,Industrial,Tonga
+344,2014,122,776,1,6.8926034320000005,4390.588386,Vanuatu,Industrial,Tonga
+345,2014,123,776,1,0.010852856999999999,17.12580756,New Zealand,Industrial,Tonga
+346,2014,131,776,1,1.106123452,1621.5769810000002,Micronesia,Industrial,Tonga
+347,2014,132,776,1,0.010347522,15.16946653,Marshall Isl.,Industrial,Tonga
+348,2014,136,776,1,0.9820847690000001,657.0147106000001,Papua New Guinea,Industrial,Tonga
+349,2014,174,776,1,255.2461866,182691.9148,Tonga,Industrial,Tonga
+350,2014,174,776,2,2359.960475,4720578.848,Tonga,Artisanal,Tonga
+351,2014,174,776,3,1551.938543,2903369.192,Tonga,Subsistence,Tonga
+352,2014,187,776,1,7980.303481999999,12201809.75,USA,Industrial,Tonga
+353,2014,192,776,1,0.426040132,281.1864873,Samoa,Industrial,Tonga
+354,2014,213,776,1,949.4996752999998,1391966.524,Unknown Fishing Country,Industrial,Tonga
+355,2014,7,798,1,39.79891806,71478.85684,Australia,Industrial,Tuvalu
+356,2014,18,798,1,1724.643506,2374383.615,Solomon Isl.,Industrial,Tuvalu
+357,2014,40,798,1,1.5018044730000002,2369.847459,Cook Islands,Industrial,Tuvalu
+358,2014,56,798,1,24.62710043,36103.32923,Fiji,Industrial,Tuvalu
+359,2014,69,798,1,4608.618685,3467518.441,Kiribati,Industrial,Tuvalu
+360,2014,117,798,1,0.37065491,1037.627086,Nauru,Industrial,Tuvalu
+361,2014,122,798,1,19.95396023,12710.67267,Vanuatu,Industrial,Tuvalu
+362,2014,123,798,1,3.6256440289999996,5721.266278,New Zealand,Industrial,Tuvalu
+363,2014,131,798,1,1623.317411,2396852.433,Micronesia,Industrial,Tuvalu
+364,2014,132,798,1,3158.379269,2147507.0319999997,Marshall Isl.,Industrial,Tuvalu
+365,2014,136,798,1,9361.989506,9045368.45,Papua New Guinea,Industrial,Tuvalu
+366,2014,180,798,1,264.4258417,471852.3453,Tuvalu,Industrial,Tuvalu
+367,2014,180,798,2,1280.920295,1386587.271,Tuvalu,Artisanal,Tuvalu
+368,2014,180,798,3,197.915536,279676.9328,Tuvalu,Subsistence,Tuvalu
+369,2014,187,798,1,15822.70845,63397314.21,USA,Industrial,Tuvalu
+370,2014,192,798,1,0.648654605,428.1120391,Samoa,Industrial,Tuvalu
+371,2014,213,798,1,23700.8255,34745410.19,Unknown Fishing Country,Industrial,Tuvalu
+372,2014,7,937,1,400.86850530000004,719959.8356,Australia,Industrial,Indonesia (Central)
+373,2014,31,937,1,14176.46689,20658611.52,China,Industrial,Indonesia (Central)
+374,2014,32,937,1,14987.6155,27410301.76,Taiwan,Industrial,Indonesia (Central)
+375,2014,83,937,1,950617.4451,1682242656.0,Indonesia,Industrial,Indonesia (Central)
+376,2014,83,937,2,20674.75469,31519522.82,Indonesia,Artisanal,Indonesia (Central)
+377,2014,83,937,3,507626.649,842160636.6,Indonesia,Subsistence,Indonesia (Central)
+378,2014,83,937,4,7872.173666,7919406.708,Indonesia,Recreational,Indonesia (Central)
+379,2014,104,937,1,17520.1099,32207026.02,Malaysia,Industrial,Indonesia (Central)
+380,2014,138,937,1,14039.349369999998,24943989.19,Philippines,Industrial,Indonesia (Central)
+381,2014,171,937,1,368023.7945,364269015.7,Thailand,Industrial,Indonesia (Central)
+382,2014,213,937,1,30.99430415,45437.649880000004,Unknown Fishing Country,Industrial,Indonesia (Central)
+383,2014,7,938,1,18523.138890000002,33267557.45,Australia,Industrial,Indonesia (Indian Ocean)
+384,2014,32,938,1,20863.65423,51387825.26,Taiwan,Industrial,Indonesia (Indian Ocean)
+385,2014,83,938,1,897507.3436,1590459623.0,Indonesia,Industrial,Indonesia (Indian Ocean)
+386,2014,83,938,2,17669.90194,25095013.92,Indonesia,Artisanal,Indonesia (Indian Ocean)
+387,2014,83,938,3,447925.8671,763633203.2,Indonesia,Subsistence,Indonesia (Indian Ocean)
+388,2014,83,938,4,1476.0325619999999,1484888.7580000001,Indonesia,Recreational,Indonesia (Indian Ocean)
+389,2014,104,938,1,18043.63333,29025898.32,Malaysia,Industrial,Indonesia (Indian Ocean)
+390,2014,171,938,1,291927.0275,623831095.8,Thailand,Industrial,Indonesia (Indian Ocean)
+391,2014,213,938,1,101.54319620000001,148862.3257,Unknown Fishing Country,Industrial,Indonesia (Indian Ocean)
+392,2014,7,941,1,67.14048637,120584.3135,Australia,Industrial,Kiribati (Gilbert Islands)
+393,2014,18,941,1,6360.137556000001,8682048.928,Solomon Isl.,Industrial,Kiribati (Gilbert Islands)
+394,2014,32,941,1,60552.38077999999,76855851.47,Taiwan,Industrial,Kiribati (Gilbert Islands)
+395,2014,40,941,1,1.791550873,2827.067277,Cook Islands,Industrial,Kiribati (Gilbert Islands)
+396,2014,69,941,1,22892.355059999998,17773347.93,Kiribati,Industrial,Kiribati (Gilbert Islands)
+397,2014,69,941,2,11447.786259999999,13383422.46,Kiribati,Artisanal,Kiribati (Gilbert Islands)
+398,2014,69,941,3,6127.823093,7907813.666,Kiribati,Subsistence,Kiribati (Gilbert Islands)
+399,2014,117,941,1,0.40100306700000005,1106.551081,Nauru,Industrial,Kiribati (Gilbert Islands)
+400,2014,122,941,1,51.76773563,32976.0476,Vanuatu,Industrial,Kiribati (Gilbert Islands)
+401,2014,123,941,1,17.82196651,28123.06316,New Zealand,Industrial,Kiribati (Gilbert Islands)
+402,2014,131,941,1,7899.727165,11848754.31,Micronesia,Industrial,Kiribati (Gilbert Islands)
+403,2014,132,941,1,15609.77179,10932242.51,Marshall Isl.,Industrial,Kiribati (Gilbert Islands)
+404,2014,136,941,1,47110.642719999996,47199158.6,Papua New Guinea,Industrial,Kiribati (Gilbert Islands)
+405,2014,180,941,1,1267.154042,2302950.267,Tuvalu,Industrial,Kiribati (Gilbert Islands)
+406,2014,187,941,1,79256.38924,322400655.1,USA,Industrial,Kiribati (Gilbert Islands)
+407,2014,192,941,1,0.55104265,363.68814910000003,Samoa,Industrial,Kiribati (Gilbert Islands)
+408,2014,213,941,1,55198.63699,80921201.82,Unknown Fishing Country,Industrial,Kiribati (Gilbert Islands)
+409,2014,7,942,1,15.5053117,27847.539810000002,Australia,Industrial,Kiribati (Line Islands)
+410,2014,18,942,1,2213.597327,3462560.376,Solomon Isl.,Industrial,Kiribati (Line Islands)
+411,2014,32,942,1,7564.615281,13718623.18,Taiwan,Industrial,Kiribati (Line Islands)
+412,2014,40,942,1,2.84334895,4486.804643,Cook Islands,Industrial,Kiribati (Line Islands)
+413,2014,69,942,1,1497.804837,1415698.995,Kiribati,Industrial,Kiribati (Line Islands)
+414,2014,69,942,2,896.6359228,1021334.068,Kiribati,Artisanal,Kiribati (Line Islands)
+415,2014,69,942,3,521.5956178,673466.0747,Kiribati,Subsistence,Kiribati (Line Islands)
+416,2014,117,942,1,0.545959202,1461.9855220000002,Nauru,Industrial,Kiribati (Line Islands)
+417,2014,122,942,1,61.86198469,40059.19083,Vanuatu,Industrial,Kiribati (Line Islands)
+418,2014,123,942,1,0.8392821140000001,1324.387176,New Zealand,Industrial,Kiribati (Line Islands)
+419,2014,131,942,1,697.6914412000001,1338122.034,Micronesia,Industrial,Kiribati (Line Islands)
+420,2014,132,942,1,929.0476454,772713.9477,Marshall Isl.,Industrial,Kiribati (Line Islands)
+421,2014,136,942,1,3346.469069,4129334.558,Papua New Guinea,Industrial,Kiribati (Line Islands)
+422,2014,180,942,1,89.93312509,195429.7815,Tuvalu,Industrial,Kiribati (Line Islands)
+423,2014,187,942,1,42300.03759,78449190.72,USA,Industrial,Kiribati (Line Islands)
+424,2014,192,942,1,1.195008912,788.7058817000001,Samoa,Industrial,Kiribati (Line Islands)
+425,2014,213,942,1,3710.153646,5439085.244,Unknown Fishing Country,Industrial,Kiribati (Line Islands)
+426,2014,7,943,1,10.28530726,18472.41184,Australia,Industrial,Kiribati (Phoenix Islands)
+427,2014,18,943,1,4849.978597,6943202.859,Solomon Isl.,Industrial,Kiribati (Phoenix Islands)
+428,2014,32,943,1,32148.23008,41635508.26,Taiwan,Industrial,Kiribati (Phoenix Islands)
+429,2014,40,943,1,1.863252165,2940.211917,Cook Islands,Industrial,Kiribati (Phoenix Islands)
+430,2014,69,943,1,13015.65577,10160894.57,Kiribati,Industrial,Kiribati (Phoenix Islands)
+431,2014,69,943,2,5.577815232000001,4449.98425,Kiribati,Artisanal,Kiribati (Phoenix Islands)
+432,2014,69,943,3,0.581289545,397.60204869999995,Kiribati,Subsistence,Kiribati (Phoenix Islands)
+433,2014,117,943,1,0.72853904,2028.245544,Nauru,Industrial,Kiribati (Phoenix Islands)
+434,2014,122,943,1,41.64175721,26525.79935,Vanuatu,Industrial,Kiribati (Phoenix Islands)
+435,2014,123,943,1,8.028005525,12668.192720000001,New Zealand,Industrial,Kiribati (Phoenix Islands)
+436,2014,131,943,1,4577.3512630000005,6954917.406,Micronesia,Industrial,Kiribati (Phoenix Islands)
+437,2014,132,943,1,8786.172844,6141319.419,Marshall Isl.,Industrial,Kiribati (Phoenix Islands)
+438,2014,136,943,1,27040.020289999997,27351530.1,Papua New Guinea,Industrial,Kiribati (Phoenix Islands)
+439,2014,180,943,1,727.4832073,1330365.881,Tuvalu,Industrial,Kiribati (Phoenix Islands)
+440,2014,187,943,1,48241.90821,164399584.4,USA,Industrial,Kiribati (Phoenix Islands)
+441,2014,192,943,1,8.795860524,12327.75825,Samoa,Industrial,Kiribati (Phoenix Islands)
+442,2014,213,943,1,86711.27027000001,127118722.2,Unknown Fishing Country,Industrial,Kiribati (Phoenix Islands)
+443,2014,8,44,1,7587.195,75906437.25,Bahamas,Industrial,Bahamas
+444,2014,8,44,2,610.0000012,4423289.113,Bahamas,Artisanal,Bahamas
+445,2014,8,44,3,6072.99,16477717.16,Bahamas,Subsistence,Bahamas
+446,2014,8,44,4,6015.381714,15685793.33,Bahamas,Recreational,Bahamas
+447,2014,43,44,1,1243.766251,1356525.236,Cuba,Industrial,Bahamas
+448,2014,179,44,1,13.74741822,20153.715119999997,Turks & Caicos Isl. (UK),Industrial,Bahamas
+449,2014,9,48,1,158.545,801762.065,Bahrain,Industrial,Bahrain
+450,2014,9,48,2,16.3,30492.18,Bahrain,Artisanal,Bahrain
+451,2014,9,48,3,41693.5,122254641.3,Bahrain,Subsistence,Bahrain
+452,2014,9,48,4,634.18,1177038.08,Bahrain,Recreational,Bahrain
+453,2014,9,634,1,348.8119278,376716.88200000004,Bahrain,Industrial,Qatar
+454,2014,145,634,2,74.5452708,270671.8656,Qatar,Artisanal,Qatar
+455,2014,145,634,3,39769.620460000006,212467538.3,Qatar,Subsistence,Qatar
+456,2014,145,634,4,542.147424,1003379.345,Qatar,Recreational,Qatar
+457,2014,9,922,1,5690.028487,15357582.5,Bahrain,Industrial,Iran (Persian Gulf)
+458,2014,31,922,1,24173.146090000002,45942551.39,China,Industrial,Iran (Persian Gulf)
+459,2014,84,922,1,19222.746219999997,27272381.93,Iran,Industrial,Iran (Persian Gulf)
+460,2014,84,922,2,9787.721017,11959371.62,Iran,Artisanal,Iran (Persian Gulf)
+461,2014,84,922,3,209029.7745,373813515.7,Iran,Subsistence,Iran (Persian Gulf)
+462,2014,84,922,4,280.36930689999997,342576.2468,Iran,Recreational,Iran (Persian Gulf)
+463,2014,85,922,1,1394.595,1790309.116,Iraq,Industrial,Iran (Persian Gulf)
+464,2014,95,922,1,6833.8787489999995,20387109.38,Korea (South),Industrial,Iran (Persian Gulf)
+465,2014,134,922,1,5690.028487,7773513.741,Pakistan,Industrial,Iran (Persian Gulf)
+466,2014,156,922,1,5690.028487,13861831.87,Saudi Arabia,Industrial,Iran (Persian Gulf)
+467,2014,176,922,1,4806.790889,15414785.41,United Arab Emirates,Industrial,Iran (Persian Gulf)
+468,2014,10,50,1,161413.2276,129748811.8,Bangladesh,Industrial,Bangladesh
+469,2014,10,50,2,255324.995,308005656.1,Bangladesh,Artisanal,Bangladesh
+470,2014,10,50,3,614466.4528,363258443.8,Bangladesh,Subsistence,Bangladesh
+471,2014,171,50,1,20564.51962,45086658.03,Thailand,Industrial,Bangladesh
+472,2014,11,52,1,2816.152624,2940977.4280000003,Barbados,Industrial,Barbados
+473,2014,11,52,2,841.3395311,1110640.611,Barbados,Artisanal,Barbados
+474,2014,11,52,3,1995.9115350000002,2321165.456,Barbados,Subsistence,Barbados
+475,2014,11,52,4,1.1983,1563.452237,Barbados,Recreational,Barbados
+476,2014,213,52,1,0.007294004000000001,10.69300958,Unknown Fishing Country,Industrial,Barbados
+477,2014,12,56,1,3885.844619,13596655.97,Belgium,Industrial,Belgium
+478,2014,12,56,2,0.9,3225.6,Belgium,Artisanal,Belgium
+479,2014,12,56,4,58.1,390680.4,Belgium,Recreational,Belgium
+480,2014,46,56,1,63.13839668,185189.8966,Denmark,Industrial,Belgium
+481,2014,58,56,1,337.59626810000003,1177434.755,France,Industrial,Belgium
+482,2014,66,56,1,18.77573106,118290.4635,Germany,Industrial,Belgium
+483,2014,86,56,1,0.064880443,544.2643447,Ireland,Industrial,Belgium
+484,2014,98,56,1,0.285962544,442.65405489999995,Latvia,Industrial,Belgium
+485,2014,101,56,1,1.7800000000000002e-05,0.026096477000000003,Lithuania,Industrial,Belgium
+486,2014,118,56,1,2282.5731539999997,7990421.607999999,Netherlands,Industrial,Belgium
+487,2014,128,56,1,77.98651538,56428.149979999995,Norway,Industrial,Belgium
+488,2014,183,56,1,524.2828374,1872945.449,United Kingdom,Industrial,Belgium
+489,2014,12,277,1,2016.2234460000002,6464758.411,Belgium,Industrial,Germany (North Sea)
+490,2014,46,277,1,60808.542010000005,106225199.2,Denmark,Industrial,Germany (North Sea)
+491,2014,58,277,1,1675.104149,1734422.25,France,Industrial,Germany (North Sea)
+492,2014,66,277,1,47363.24403,140631226.3,Germany,Industrial,Germany (North Sea)
+493,2014,66,277,2,5.5,13159.5,Germany,Artisanal,Germany (North Sea)
+494,2014,66,277,4,46.00128205,106729.1795,Germany,Recreational,Germany (North Sea)
+495,2014,86,277,1,291.4412805,692994.3758,Ireland,Industrial,Germany (North Sea)
+496,2014,98,277,1,1889.4380030000002,2711509.3389999997,Latvia,Industrial,Germany (North Sea)
+497,2014,101,277,1,0.12528446199999999,428.09700539999994,Lithuania,Industrial,Germany (North Sea)
+498,2014,118,277,1,16226.5269,36560821.11,Netherlands,Industrial,Germany (North Sea)
+499,2014,128,277,1,9954.221296,21353666.91,Norway,Industrial,Germany (North Sea)
+500,2014,169,277,1,4956.104869,7237010.708,Sweden,Industrial,Germany (North Sea)
+501,2014,183,277,1,9733.012945,28663196.0,United Kingdom,Industrial,Germany (North Sea)
+502,2014,213,277,1,0.035659302000000004,52.27653732,Unknown Fishing Country,Industrial,Germany (North Sea)
+503,2014,12,372,1,56.2541311,92781.4926,Belgium,Industrial,Ireland
+504,2014,46,372,1,29676.60734,41346248.67,Denmark,Industrial,Ireland
+505,2014,54,372,1,6977.468453,9356560.034,Faeroe Isl. (Denmark),Industrial,Ireland
+506,2014,58,372,1,47508.40516,124964069.8,France,Industrial,Ireland
+507,2014,66,372,1,31985.67295,13226002.86,Germany,Industrial,Ireland
+508,2014,71,372,1,25.07297816,36704.945589999996,Greenland,Industrial,Ireland
+509,2014,86,372,1,117616.7205,261084114.7,Ireland,Industrial,Ireland
+510,2014,86,372,3,6075.842309000001,21755214.18,Ireland,Subsistence,Ireland
+511,2014,86,372,4,207.0378365,582344.435,Ireland,Recreational,Ireland
+512,2014,98,372,1,2.458583667,4842.107308,Latvia,Industrial,Ireland
+513,2014,101,372,1,56.4915288,192870.2513,Lithuania,Industrial,Ireland
+514,2014,118,372,1,27526.129969999998,24020864.48,Netherlands,Industrial,Ireland
+515,2014,128,372,1,164362.7263,220307719.4,Norway,Industrial,Ireland
+516,2014,141,372,1,4.2883408769999996,6613.737158,Portugal,Industrial,Ireland
+517,2014,148,372,1,24266.36326,35527111.35,Russian Federation,Industrial,Ireland
+518,2014,165,372,1,28945.362139999997,86564314.85,Spain,Industrial,Ireland
+519,2014,183,372,1,157240.3189,274349288.0,United Kingdom,Industrial,Ireland
+520,2014,12,528,1,6848.097156999999,24508299.32,Belgium,Industrial,Netherlands
+521,2014,46,528,1,43426.27578,81474820.56,Denmark,Industrial,Netherlands
+522,2014,58,528,1,4941.056565999999,12650500.6,France,Industrial,Netherlands
+523,2014,66,528,1,5158.789692,10773031.96,Germany,Industrial,Netherlands
+524,2014,86,528,1,0.476695273,3998.8666329999996,Ireland,Industrial,Netherlands
+525,2014,98,528,1,3164.323257,4544621.558,Latvia,Industrial,Netherlands
+526,2014,101,528,1,0.194548832,338.4212978,Lithuania,Industrial,Netherlands
+527,2014,118,528,1,55557.26786,171306131.0,Netherlands,Industrial,Netherlands
+528,2014,118,528,3,6.4,9785.6,Netherlands,Subsistence,Netherlands
+529,2014,118,528,4,755.0,2189482.0,Netherlands,Recreational,Netherlands
+530,2014,128,528,1,1769.3570280000001,2436423.9390000002,Norway,Industrial,Netherlands
+531,2014,169,528,1,4363.197331,6638210.172,Sweden,Industrial,Netherlands
+532,2014,183,528,1,15749.50787,50519409.34,United Kingdom,Industrial,Netherlands
+533,2014,12,578,1,1376.591934,4423506.165,Belgium,Industrial,Norway
+534,2014,46,578,1,116273.27900000001,189731957.3,Denmark,Industrial,Norway
+535,2014,54,578,1,25064.23946,49630927.82,Faeroe Isl. (Denmark),Industrial,Norway
+536,2014,58,578,1,28987.827019999997,52341619.36,France,Industrial,Norway
+537,2014,71,578,1,9465.690864,25411956.94,Greenland,Industrial,Norway
+538,2014,81,578,1,10022.3487,25809569.81,Iceland,Industrial,Norway
+539,2014,86,578,1,22116.234959999998,31167096.47,Ireland,Industrial,Norway
+540,2014,118,578,1,50900.85313,48761090.63,Netherlands,Industrial,Norway
+541,2014,128,578,1,1119288.403,2116499537.0,Norway,Industrial,Norway
+542,2014,128,578,2,40899.60663,123783029.9,Norway,Artisanal,Norway
+543,2014,128,578,3,302642.8959,936391556.5,Norway,Subsistence,Norway
+544,2014,128,578,4,13372.64369,40806012.85,Norway,Recreational,Norway
+545,2014,148,578,1,437631.8741,556496707.6,Russian Federation,Industrial,Norway
+546,2014,169,578,1,19264.59448,24064942.84,Sweden,Industrial,Norway
+547,2014,183,578,1,180255.3005,255937479.4,United Kingdom,Industrial,Norway
+548,2014,12,826,1,16624.40056,75682389.53,Belgium,Industrial,United Kingdom
+549,2014,46,826,1,287052.5311,444834285.4,Denmark,Industrial,United Kingdom
+550,2014,54,826,1,84634.98337,123889071.6,Faeroe Isl. (Denmark),Industrial,United Kingdom
+551,2014,58,826,1,127389.4472,300068042.4,France,Industrial,United Kingdom
+552,2014,66,826,1,89448.92731,76874319.01,Germany,Industrial,United Kingdom
+553,2014,71,826,1,1439.459684,1972476.7140000002,Greenland,Industrial,United Kingdom
+554,2014,81,826,1,34655.145,28763770.35,Iceland,Industrial,United Kingdom
+555,2014,86,826,1,68481.63035,154180850.7,Ireland,Industrial,United Kingdom
+556,2014,98,826,1,8671.171737,12456249.49,Latvia,Industrial,United Kingdom
+557,2014,101,826,1,0.825217289,1271.960953,Lithuania,Industrial,United Kingdom
+558,2014,118,826,1,198555.8091,356628747.0,Netherlands,Industrial,United Kingdom
+559,2014,128,826,1,380461.7565,606688813.8,Norway,Industrial,United Kingdom
+560,2014,141,826,1,1607.622153,3635486.716,Portugal,Industrial,United Kingdom
+561,2014,148,826,1,22783.21834,35528275.47,Russian Federation,Industrial,United Kingdom
+562,2014,165,826,1,3553.105403,10752426.35,Spain,Industrial,United Kingdom
+563,2014,169,826,1,21225.33466,25909522.37,Sweden,Industrial,United Kingdom
+564,2014,183,826,1,325852.0808,570579509.7,United Kingdom,Industrial,United Kingdom
+565,2014,183,826,3,51918.718160000004,115337868.1,United Kingdom,Subsistence,United Kingdom
+566,2014,183,826,4,3398.6808509999996,9572303.866,United Kingdom,Recreational,United Kingdom
+567,2014,12,830,1,1.6241044919999998,2670.9238219999997,Belgium,Industrial,Channel Isl. (UK)
+568,2014,46,830,1,118.28776950000001,115436.901,Denmark,Industrial,Channel Isl. (UK)
+569,2014,58,830,1,9198.654436,23712219.04,France,Industrial,Channel Isl. (UK)
+570,2014,66,830,1,7.386754825,1365.059286,Germany,Industrial,Channel Isl. (UK)
+571,2014,86,830,1,8.86314,50962.931039999996,Ireland,Industrial,Channel Isl. (UK)
+572,2014,98,830,1,2.76e-06,0.005632145,Latvia,Industrial,Channel Isl. (UK)
+573,2014,118,830,1,320.0364807,251679.9087,Netherlands,Industrial,Channel Isl. (UK)
+574,2014,165,830,1,0.774535518,3137.161436,Spain,Industrial,Channel Isl. (UK)
+575,2014,183,830,1,6120.328979,11621343.16,United Kingdom,Industrial,Channel Isl. (UK)
+576,2014,184,830,1,2292.357138,8439648.064,Channel Isl. (UK),Industrial,Channel Isl. (UK)
+577,2014,184,830,3,481.0540544,1472768.7219999998,Channel Isl. (UK),Subsistence,Channel Isl. (UK)
+578,2014,12,919,1,5626.378118,32714970.74,Belgium,Industrial,France (Atlantic Coast)
+579,2014,46,919,1,2868.079972,2596638.3230000003,Denmark,Industrial,France (Atlantic Coast)
+580,2014,58,919,1,136261.1543,415144340.4,France,Industrial,France (Atlantic Coast)
+581,2014,58,919,2,9168.084868,19862386.01,France,Artisanal,France (Atlantic Coast)
+582,2014,58,919,3,102334.87199999999,350827111.1,France,Subsistence,France (Atlantic Coast)
+583,2014,58,919,4,9168.084868,19862386.01,France,Recreational,France (Atlantic Coast)
+584,2014,66,919,1,9835.208432,4239614.6,Germany,Industrial,France (Atlantic Coast)
+585,2014,86,919,1,7844.989953,15259073.5,Ireland,Industrial,France (Atlantic Coast)
+586,2014,98,919,1,317.0518301,455723.6393,Latvia,Industrial,France (Atlantic Coast)
+587,2014,101,919,1,0.906455303,2285.1895719999998,Lithuania,Industrial,France (Atlantic Coast)
+588,2014,118,919,1,13037.24025,10322534.77,Netherlands,Industrial,France (Atlantic Coast)
+589,2014,128,919,1,1.797194704,4289.880413,Norway,Industrial,France (Atlantic Coast)
+590,2014,141,919,1,575.440106,706632.2488,Portugal,Industrial,France (Atlantic Coast)
+591,2014,148,919,1,1906.642941,2795138.5519999997,Russian Federation,Industrial,France (Atlantic Coast)
+592,2014,165,919,1,50858.74441,106886914.1,Spain,Industrial,France (Atlantic Coast)
+593,2014,183,919,1,31745.34548,60310594.11,United Kingdom,Industrial,France (Atlantic Coast)
+594,2014,213,919,1,0.013802807,20.23491478,Unknown Fishing Country,Industrial,France (Atlantic Coast)
+595,2014,12,932,1,2287.5447059999997,7350739.066000001,Belgium,Industrial,Denmark (North Sea)
+596,2014,46,932,1,97868.60287999999,205247965.8,Denmark,Industrial,Denmark (North Sea)
+597,2014,46,932,3,27864.11562,49800851.43,Denmark,Subsistence,Denmark (North Sea)
+598,2014,46,932,4,804.3504901,2556130.702,Denmark,Recreational,Denmark (North Sea)
+599,2014,58,932,1,2123.429853,2101648.534,France,Industrial,Denmark (North Sea)
+600,2014,66,932,1,6140.256959,10267623.99,Germany,Industrial,Denmark (North Sea)
+601,2014,86,932,1,349.5709312,831216.1161,Ireland,Industrial,Denmark (North Sea)
+602,2014,98,932,1,1015.02185,1456793.861,Latvia,Industrial,Denmark (North Sea)
+603,2014,101,932,1,0.06728761400000001,229.9217759,Lithuania,Industrial,Denmark (North Sea)
+604,2014,118,932,1,17718.667569999998,35195919.6,Netherlands,Industrial,Denmark (North Sea)
+605,2014,128,932,1,12042.93175,26733276.52,Norway,Industrial,Denmark (North Sea)
+606,2014,169,932,1,17241.13404,25833973.2,Sweden,Industrial,Denmark (North Sea)
+607,2014,183,932,1,8311.721797,20819014.39,United Kingdom,Industrial,Denmark (North Sea)
+608,2014,213,932,1,0.19059206899999998,279.40797299999997,Unknown Fishing Country,Industrial,Denmark (North Sea)
+609,2014,12,963,1,7.349556702,46884.36807,Belgium,Industrial,Spain (Northwest)
+610,2014,58,963,1,3940.727493,9464321.13,France,Industrial,Spain (Northwest)
+611,2014,66,963,1,15.95390542,23152.9435,Germany,Industrial,Spain (Northwest)
+612,2014,98,963,1,27.99294504,40170.02727,Latvia,Industrial,Spain (Northwest)
+613,2014,101,963,1,0.103564233,282.8605496,Lithuania,Industrial,Spain (Northwest)
+614,2014,141,963,1,15531.97691,20909717.76,Portugal,Industrial,Spain (Northwest)
+615,2014,165,963,1,207782.9082,371809006.9,Spain,Industrial,Spain (Northwest)
+616,2014,165,963,2,20.95946626,70801.07701000001,Spain,Artisanal,Spain (Northwest)
+617,2014,165,963,3,16174.001530000001,34006760.24,Spain,Subsistence,Spain (Northwest)
+618,2014,165,963,4,1756.662615,6501716.222,Spain,Recreational,Spain (Northwest)
+619,2014,183,963,1,50.00642609,65268.79882,United Kingdom,Industrial,Spain (Northwest)
+620,2014,13,60,1,100.24085579999999,596829.4561,Bermuda (UK),Industrial,Bermuda (UK)
+621,2014,13,60,2,158.331719,949527.2579999999,Bermuda (UK),Artisanal,Bermuda (UK)
+622,2014,13,60,3,418.0,2817642.5,Bermuda (UK),Subsistence,Bermuda (UK)
+623,2014,13,60,4,154.439856,910893.4747,Bermuda (UK),Recreational,Bermuda (UK)
+624,2014,14,70,2,44.31183442,62317.15328,Bosnia & Herzegovina,Artisanal,Bosnia & Herzegovina
+625,2014,14,70,3,8.85,10854.827659999999,Bosnia & Herzegovina,Subsistence,Bosnia & Herzegovina
+626,2014,14,70,4,11.077958599999999,15579.28832,Bosnia & Herzegovina,Recreational,Bosnia & Herzegovina
+627,2014,15,76,1,431690.8786,1041665099.0,Brazil,Industrial,Brazil
+628,2014,15,76,2,4921.074646,12413127.89,Brazil,Artisanal,Brazil
+629,2014,15,76,3,441453.8579,1272419057.0,Brazil,Subsistence,Brazil
+630,2014,15,76,4,1479.516273,2380541.684,Brazil,Recreational,Brazil
+631,2014,213,76,1,13.65269815,20014.85549,Unknown Fishing Country,Industrial,Brazil
+632,2014,15,77,1,6214.349203,10514991.77,Brazil,Industrial,Trindade & Martim Vaz Isl. (Brazil)
+633,2014,16,77,1,182.6428404,129001.905,Belize,Industrial,Trindade & Martim Vaz Isl. (Brazil)
+634,2014,31,77,1,358726.4788,171117207.4,China,Industrial,Trindade & Martim Vaz Isl. (Brazil)
+635,2014,32,77,1,1594.621283,1650334.753,Taiwan,Industrial,Trindade & Martim Vaz Isl. (Brazil)
+636,2014,91,77,1,81.80460325,254992.2657,Japan,Industrial,Trindade & Martim Vaz Isl. (Brazil)
+637,2014,95,77,1,4055.325263,5548890.683999999,Korea (South),Industrial,Trindade & Martim Vaz Isl. (Brazil)
+638,2014,122,77,1,8.61313701,13425.20268,Vanuatu,Industrial,Trindade & Martim Vaz Isl. (Brazil)
+639,2014,141,77,1,2583.625,4180811.625,Portugal,Industrial,Trindade & Martim Vaz Isl. (Brazil)
+640,2014,154,77,1,10.38935271,32236.63365,Saint Vincent & the Grenadines,Industrial,Trindade & Martim Vaz Isl. (Brazil)
+641,2014,165,77,1,30947.88678,46360818.5,Spain,Industrial,Trindade & Martim Vaz Isl. (Brazil)
+642,2014,15,969,1,3774.452525,14284773.51,Brazil,Industrial,Brazil (Fernando de Noronha)
+643,2014,15,969,2,39.42713894,188473.2142,Brazil,Artisanal,Brazil (Fernando de Noronha)
+644,2014,15,969,3,31.05058843,118751.5466,Brazil,Subsistence,Brazil (Fernando de Noronha)
+645,2014,15,970,1,287.7909439,1029278.378,Brazil,Industrial,Brazil (St Paul and St. Peter Archipelago)
+646,2014,213,970,1,4.890959936000001,7170.147266,Unknown Fishing Country,Industrial,Brazil (St Paul and St. Peter Archipelago)
+647,2014,16,84,1,875.875,981966.9414,Belize,Industrial,Belize
+648,2014,16,84,2,1517.65325,2785669.9480000003,Belize,Artisanal,Belize
+649,2014,16,84,3,4745.02136,11063263.23,Belize,Subsistence,Belize
+650,2014,16,266,1,30702.74463,11547026.33,Belize,Industrial,Gabon
+651,2014,25,266,1,326.5122352,544666.9401,Cameroon,Industrial,Gabon
+652,2014,31,266,1,28548.01261,13629076.05,China,Industrial,Gabon
+653,2014,38,266,1,979.5367054999999,2731910.838,"Congo, R. of",Industrial,Gabon
+654,2014,58,266,1,849.0066047,1284719.4070000001,France,Industrial,Gabon
+655,2014,62,266,1,22098.42808,61592894.72,Gabon,Industrial,Gabon
+656,2014,62,266,2,3914.049165,9103290.892,Gabon,Artisanal,Gabon
+657,2014,62,266,3,29749.7137,76112071.34,Gabon,Subsistence,Gabon
+658,2014,91,266,1,251.06015730000004,1194639.9009999998,Japan,Industrial,Gabon
+659,2014,95,266,1,3497.454345,4139187.0739999996,Korea (South),Industrial,Gabon
+660,2014,103,266,1,979.5367054999999,745427.4329,Madagascar,Industrial,Gabon
+661,2014,141,266,1,1871.155709,2888679.394,Portugal,Industrial,Gabon
+662,2014,165,266,1,13680.09491,29467091.51,Spain,Industrial,Gabon
+663,2014,172,266,1,979.5367054999999,1521068.5880000002,Togo,Industrial,Gabon
+664,2014,213,266,1,14066.15236,20620979.37,Unknown Fishing Country,Industrial,Gabon
+665,2014,214,266,1,2066.238201,5511694.122,Curacao,Industrial,Gabon
+666,2014,16,478,1,435942.3657,338214144.4,Belize,Industrial,Mauritania
+667,2014,27,478,1,2074.6553329999997,3563010.3419999997,Cape Verde,Industrial,Mauritania
+668,2014,31,478,1,71989.65549,64553810.43,China,Industrial,Mauritania
+669,2014,58,478,1,4226.503043,10706977.24,France,Industrial,Mauritania
+670,2014,76,478,1,1364.278918,2019456.64,Guinea,Industrial,Mauritania
+671,2014,81,478,1,3790.300789,5715772.621,Iceland,Industrial,Mauritania
+672,2014,95,478,1,7581.575587,8731771.081,Korea (South),Industrial,Mauritania
+673,2014,98,478,1,57561.0,47841261.0,Latvia,Industrial,Mauritania
+674,2014,108,478,1,211473.0545,95051479.21,Mauritania,Industrial,Mauritania
+675,2014,108,478,2,17527.161,7874888.232999999,Mauritania,Artisanal,Mauritania
+676,2014,108,478,3,377986.089,229788649.7,Mauritania,Subsistence,Mauritania
+677,2014,108,478,4,92.6,135751.6,Mauritania,Recreational,Mauritania
+678,2014,141,478,1,1.2327783959999998,6796.480893999999,Portugal,Industrial,Mauritania
+679,2014,157,478,1,263857.0641,430581873.0,Senegal,Industrial,Mauritania
+680,2014,165,478,1,13624.5413,26002184.56,Spain,Industrial,Mauritania
+681,2014,181,478,1,114209.0457,85838855.78,Ukraine,Industrial,Mauritania
+682,2014,213,478,1,23087.04421,33845606.81,Unknown Fishing Country,Industrial,Mauritania
+683,2014,223,478,1,12827.87161,45652151.69,Fishing Country Unknown,Industrial,Mauritania
+684,2014,16,624,1,25587.61999,16478427.27,Belize,Industrial,Guinea-Bissau
+685,2014,27,624,1,25469.53968,29812664.24,Cape Verde,Industrial,Guinea-Bissau
+686,2014,31,624,1,116482.8192,133106225.6,China,Industrial,Guinea-Bissau
+687,2014,36,624,1,61802.61154,78425223.01,Comoros,Industrial,Guinea-Bissau
+688,2014,58,624,1,17.48301891,72747.93291,France,Industrial,Guinea-Bissau
+689,2014,75,624,1,9884.034721,8989363.04,Guatemala,Industrial,Guinea-Bissau
+690,2014,76,624,1,15698.37859,17249308.66,Guinea,Industrial,Guinea-Bissau
+691,2014,89,624,1,10782.92748,12209159.92,Côte d'Ivoire,Industrial,Guinea-Bissau
+692,2014,91,624,1,18.49514678,72334.02045,Japan,Industrial,Guinea-Bissau
+693,2014,95,624,1,107952.9104,154877693.3,Korea (South),Industrial,Guinea-Bissau
+694,2014,108,624,1,7228.189759999999,10596526.19,Mauritania,Industrial,Guinea-Bissau
+695,2014,113,624,1,12332.93372,15811695.36,Morocco,Industrial,Guinea-Bissau
+696,2014,135,624,1,13077.53768,8958113.311,Panama,Industrial,Guinea-Bissau
+697,2014,142,624,2,19805.643,28769677.02,Guinea-Bissau,Artisanal,Guinea-Bissau
+698,2014,142,624,3,14383.5738,27799777.2,Guinea-Bissau,Subsistence,Guinea-Bissau
+699,2014,142,624,4,142.494,219295.4161,Guinea-Bissau,Recreational,Guinea-Bissau
+700,2014,148,624,1,251474.837,242975380.5,Russian Federation,Industrial,Guinea-Bissau
+701,2014,157,624,1,226429.8488,374999732.1,Senegal,Industrial,Guinea-Bissau
+702,2014,165,624,1,9.760938999,14622.94891,Spain,Industrial,Guinea-Bissau
+703,2014,213,624,1,204.8011648,300238.5075,Unknown Fishing Country,Industrial,Guinea-Bissau
+704,2014,214,624,1,13490.670909999999,21467592.0,Curacao,Industrial,Guinea-Bissau
+705,2014,17,86,4,71.8,105258.8,Brit. Indian Ocean Terr. (UK),Recreational,Chagos Archipelago (UK)
+706,2014,29,86,1,711.1613404,1373590.7519999999,Sri Lanka,Industrial,Chagos Archipelago (UK)
+707,2014,82,86,1,70659.82487000001,39357522.45,India,Industrial,Chagos Archipelago (UK)
+708,2014,19,92,1,10.72446168,32594.750819999997,British Virgin Isl. (UK),Industrial,British Virgin Isl. (UK)
+709,2014,19,92,2,840.3013509,3847456.93,British Virgin Isl. (UK),Artisanal,British Virgin Isl. (UK)
+710,2014,19,92,3,3167.378152,15610143.97,British Virgin Isl. (UK),Subsistence,British Virgin Isl. (UK)
+711,2014,19,92,4,107.7779277,239617.2778,British Virgin Isl. (UK),Recreational,British Virgin Isl. (UK)
+712,2014,213,92,1,0.00281554,4.127581623999999,Unknown Fishing Country,Industrial,British Virgin Isl. (UK)
+713,2014,19,850,1,1.27553832,3657.249178,British Virgin Isl. (UK),Industrial,US Virgin Isl.
+714,2014,188,850,2,90.88629808,363412.2297,US Virgin Isl.,Artisanal,US Virgin Isl.
+715,2014,188,850,3,398.86370189999997,1594871.2880000002,US Virgin Isl.,Subsistence,US Virgin Isl.
+716,2014,188,850,4,94.9124,273323.9839,US Virgin Isl.,Recreational,US Virgin Isl.
+717,2014,213,850,1,0.0039029459999999996,5.721718984,Unknown Fishing Country,Industrial,US Virgin Isl.
+718,2014,20,96,1,8405.459232,10318520.62,Brunei Darussalam,Industrial,Brunei Darussalam
+719,2014,20,96,2,469.0198438,606709.5303,Brunei Darussalam,Artisanal,Brunei Darussalam
+720,2014,20,96,3,12931.547120000001,16727848.48,Brunei Darussalam,Subsistence,Brunei Darussalam
+721,2014,20,96,4,310.541136,435285.5103,Brunei Darussalam,Recreational,Brunei Darussalam
+722,2014,104,96,1,1136.868371,1815645.989,Malaysia,Industrial,Brunei Darussalam
+723,2014,161,96,1,369.68300000000005,364614.6461,Viet Nam,Industrial,Brunei Darussalam
+724,2014,21,100,1,12328.21545,16001007.0,Bulgaria,Industrial,Bulgaria
+725,2014,21,100,2,30.63338138,49685.5066,Bulgaria,Artisanal,Bulgaria
+726,2014,21,100,3,1019.1404220000001,2306217.637,Bulgaria,Subsistence,Bulgaria
+727,2014,21,100,4,81.43996514,132090.7371,Bulgaria,Recreational,Bulgaria
+728,2014,178,100,1,366.66666660000004,2899366.666,Turkey,Industrial,Bulgaria
+729,2014,22,104,1,816228.2199,846916927.7,Myanmar,Industrial,Myanmar
+730,2014,22,104,2,136132.4905,168352668.2,Myanmar,Artisanal,Myanmar
+731,2014,22,104,3,257043.204,269849727.2,Myanmar,Subsistence,Myanmar
+732,2014,171,104,1,455466.6476,998547143.0,Thailand,Industrial,Myanmar
+733,2014,213,104,1,2420.152714,3547943.878,Unknown Fishing Country,Industrial,Myanmar
+734,2014,23,111,2,122.4145003,322121.9231,Eritrea,Artisanal,Eritrea
+735,2014,23,111,3,3692.038287,6769875.534,Eritrea,Subsistence,Eritrea
+736,2014,167,111,1,376.0594402,398246.9472,Sudan,Industrial,Eritrea
+737,2014,182,111,1,6018.818581,8157114.488,Egypt,Industrial,Eritrea
+738,2014,193,111,1,748.8381818,635763.6163,Yemen,Industrial,Eritrea
+739,2014,24,116,1,145860.7466,125176400.6,Cambodia,Industrial,Cambodia
+740,2014,24,116,2,7513.770059,8801561.892,Cambodia,Artisanal,Cambodia
+741,2014,24,116,3,11270.65509,13202342.84,Cambodia,Subsistence,Cambodia
+742,2014,171,116,1,616013.3596,641095356.8,Thailand,Industrial,Cambodia
+743,2014,213,116,1,1.0158775359999999,1489.276468,Unknown Fishing Country,Industrial,Cambodia
+744,2014,24,704,1,33068.75,27187946.89,Cambodia,Industrial,Viet Nam
+745,2014,95,704,1,8193.539647,13615332.8,Korea (South),Industrial,Viet Nam
+746,2014,161,704,1,2257025.212,2277727355.0,Viet Nam,Industrial,Viet Nam
+747,2014,161,704,2,260068.4291,284464321.0,Viet Nam,Artisanal,Viet Nam
+748,2014,161,704,3,617342.1164,675252304.0,Viet Nam,Subsistence,Viet Nam
+749,2014,213,704,1,9294.984076,13626446.66,Unknown Fishing Country,Industrial,Viet Nam
+750,2014,25,120,1,8171.349195000001,7719243.357000001,Cameroon,Industrial,Cameroon
+751,2014,25,120,2,2437.330623,4568405.353999999,Cameroon,Artisanal,Cameroon
+752,2014,25,120,3,143547.2243,113047762.5,Cameroon,Subsistence,Cameroon
+753,2014,31,120,1,11788.56677,5717742.302,China,Industrial,Cameroon
+754,2014,51,120,1,2.661746619,8840.577341,Equatorial Guinea,Industrial,Cameroon
+755,2014,213,120,1,0.02584108,37.88302354,Unknown Fishing Country,Industrial,Cameroon
+756,2014,25,226,1,4100.4,9374138.481,Cameroon,Industrial,Equatorial Guinea
+757,2014,31,226,1,8657.647385,7320579.989,China,Industrial,Equatorial Guinea
+758,2014,51,226,1,2816.075859,17838058.37,Equatorial Guinea,Industrial,Equatorial Guinea
+759,2014,51,226,2,1258.716729,3713214.3510000003,Equatorial Guinea,Artisanal,Equatorial Guinea
+760,2014,51,226,3,7903.080914,23543563.81,Equatorial Guinea,Subsistence,Equatorial Guinea
+761,2014,51,226,4,7.7358634770000005,33143.6882,Equatorial Guinea,Recreational,Equatorial Guinea
+762,2014,91,226,1,87.72555304,400992.3962,Japan,Industrial,Equatorial Guinea
+763,2014,125,226,1,8200.8,24881054.98,Nigeria,Industrial,Equatorial Guinea
+764,2014,155,226,1,323.5856108,767281.7003,Sao Tome & Principe,Industrial,Equatorial Guinea
+765,2014,213,226,1,1105.203651,1620228.553,Unknown Fishing Country,Industrial,Equatorial Guinea
+766,2014,26,848,1,3.753065968,18055.45178,Canada,Industrial,USA (West Coast)
+767,2014,187,848,1,334259.0769,123986410.6,USA,Industrial,USA (West Coast)
+768,2014,187,848,3,261214.4647,632197592.1,USA,Subsistence,USA (West Coast)
+769,2014,187,848,4,18520.35834,87900311.72,USA,Recreational,USA (West Coast)
+770,2014,213,848,1,7.675393532,11252.12692,Unknown Fishing Country,Industrial,USA (West Coast)
+771,2014,26,851,1,0.012169885,20.12898939,Canada,Industrial,USA (East Coast)
+772,2014,187,851,1,910063.0256,2280547657.0,USA,Industrial,USA (East Coast)
+773,2014,187,851,3,434428.6339,2053409459.0,USA,Subsistence,USA (East Coast)
+774,2014,187,851,4,55653.49986,187970055.3,USA,Recreational,USA (East Coast)
+775,2014,26,924,1,2.74e-10,1.14e-07,Canada,Industrial,Canada (Arctic)
+776,2014,26,924,2,993.6451514,3849031.81,Canada,Artisanal,Canada (Arctic)
+777,2014,26,924,3,38.10471738,156697.2276,Canada,Subsistence,Canada (Arctic)
+778,2014,213,924,1,9.15e-12,1.3400000000000001e-08,Unknown Fishing Country,Industrial,Canada (Arctic)
+779,2014,26,925,1,191755.54100000003,340383622.4,Canada,Industrial,Canada (Pacific)
+780,2014,26,925,2,3019.274007,15281659.16,Canada,Artisanal,Canada (Pacific)
+781,2014,26,925,3,1782.0,4530690.0,Canada,Subsistence,Canada (Pacific)
+782,2014,26,925,4,5843.28363,38090990.44,Canada,Recreational,Canada (Pacific)
+783,2014,26,926,1,709151.9187,2110044354.0,Canada,Industrial,Canada (East Coast)
+784,2014,26,926,2,15015.12935,34454245.57,Canada,Artisanal,Canada (East Coast)
+785,2014,26,926,3,33179.72672,93261060.6,Canada,Subsistence,Canada (East Coast)
+786,2014,26,926,4,22100.42337,60928814.86,Canada,Recreational,Canada (East Coast)
+787,2014,54,926,1,156.7580267,693902.0126,Faeroe Isl. (Denmark),Industrial,Canada (East Coast)
+788,2014,148,926,1,5337.73947,8467035.726,Russian Federation,Industrial,Canada (East Coast)
+789,2014,153,926,1,3595.710679,7643761.234,Saint Pierre & Miquelon (France),Industrial,Canada (East Coast)
+790,2014,165,926,1,11310.69959,34272448.73,Spain,Industrial,Canada (East Coast)
+791,2014,213,926,1,2552.8724429999997,3742511.002,Unknown Fishing Country,Industrial,Canada (East Coast)
+792,2014,27,132,1,18228.46402,38389806.05,Cape Verde,Industrial,Cape Verde
+793,2014,27,132,2,2566.924893,7115494.13,Cape Verde,Artisanal,Cape Verde
+794,2014,27,132,3,5096.816784000001,13797453.13,Cape Verde,Subsistence,Cape Verde
+795,2014,27,132,4,838.7104168,1587343.335,Cape Verde,Recreational,Cape Verde
+796,2014,31,132,1,9.713280533999999,18922.021259999998,China,Industrial,Cape Verde
+797,2014,76,132,1,5173.489525,7916509.247,Guinea,Industrial,Cape Verde
+798,2014,91,132,1,36.95662602,153326.6572,Japan,Industrial,Cape Verde
+799,2014,157,132,1,139.6659294,307333.5797,Senegal,Industrial,Cape Verde
+800,2014,213,132,1,5683.814956,8332472.725,Unknown Fishing Country,Industrial,Cape Verde
+801,2014,27,324,1,446.2443326,870835.4463,Cape Verde,Industrial,Guinea
+802,2014,31,324,1,53917.867079999996,27083587.58,China,Industrial,Guinea
+803,2014,58,324,1,31628.83485,67772333.77,France,Industrial,Guinea
+804,2014,66,324,1,23552.6672,36672238.52,Germany,Industrial,Guinea
+805,2014,70,324,1,15766.600540000001,23813187.95,Greece,Industrial,Guinea
+806,2014,76,324,1,43907.132139999994,42992616.22,Guinea,Industrial,Guinea
+807,2014,76,324,2,9140.5,6034009.67,Guinea,Artisanal,Guinea
+808,2014,76,324,3,174442.5605,135197110.2,Guinea,Subsistence,Guinea
+809,2014,88,324,1,11350.609540000001,17919787.53,Italy,Industrial,Guinea
+810,2014,91,324,1,381.2028378,1426237.8269999998,Japan,Industrial,Guinea
+811,2014,95,324,1,58252.82829,85133223.01,Korea (South),Industrial,Guinea
+812,2014,106,324,1,54328.95646,158928949.9,Malta,Industrial,Guinea
+813,2014,135,324,1,743.372323,509210.0413,Panama,Industrial,Guinea
+814,2014,141,324,1,611.4257702000001,917407.1122,Portugal,Industrial,Guinea
+815,2014,148,324,1,97509.98053,87123963.2,Russian Federation,Industrial,Guinea
+816,2014,157,324,1,63843.15663,143201542.2,Senegal,Industrial,Guinea
+817,2014,159,324,1,54328.95646,87458914.87,Sierra Leone,Industrial,Guinea
+818,2014,165,324,1,91066.30981,188623174.7,Spain,Industrial,Guinea
+819,2014,181,324,1,54328.51896,38522542.69,Ukraine,Industrial,Guinea
+820,2014,187,324,1,54328.95646,81493861.91,USA,Industrial,Guinea
+821,2014,213,324,1,120.9060696,177248.298,Unknown Fishing Country,Industrial,Guinea
+822,2014,27,686,1,35886.667369999996,42023203.94,Cape Verde,Industrial,Senegal
+823,2014,58,686,1,1881.569695,3159155.518,France,Industrial,Senegal
+824,2014,76,686,1,1103.886835,1624296.0659999999,Guinea,Industrial,Senegal
+825,2014,122,686,1,0.275,382.425,Vanuatu,Industrial,Senegal
+826,2014,157,686,1,124741.7808,274461884.1,Senegal,Industrial,Senegal
+827,2014,157,686,2,11520.49929,15461447.49,Senegal,Artisanal,Senegal
+828,2014,157,686,3,331757.1447,554749716.2,Senegal,Subsistence,Senegal
+829,2014,157,686,4,1430.488889,1358964.4440000001,Senegal,Recreational,Senegal
+830,2014,165,686,1,11967.96487,31344884.96,Spain,Industrial,Senegal
+831,2014,213,686,1,564.5390972,827614.3164,Unknown Fishing Country,Industrial,Senegal
+832,2014,27,694,1,316.9793603,642328.8782,Cape Verde,Industrial,Sierra Leone
+833,2014,31,694,1,36.585454399999996,18152.48317,China,Industrial,Sierra Leone
+834,2014,58,694,1,38.27754764,87058.07218999999,France,Industrial,Sierra Leone
+835,2014,70,694,1,65.12265921,153070.6684,Greece,Industrial,Sierra Leone
+836,2014,76,694,1,1197.876307,1784123.924,Guinea,Industrial,Sierra Leone
+837,2014,95,694,1,774.7756017,1197043.701,Korea (South),Industrial,Sierra Leone
+838,2014,148,694,1,5333.492118,4039087.8860000004,Russian Federation,Industrial,Sierra Leone
+839,2014,157,694,1,9.77995729,31946.129060000003,Senegal,Industrial,Sierra Leone
+840,2014,159,694,1,63477.652760000004,91735658.56,Sierra Leone,Industrial,Sierra Leone
+841,2014,159,694,2,9742.588529,4057718.936,Sierra Leone,Artisanal,Sierra Leone
+842,2014,159,694,3,272111.7858,184649109.3,Sierra Leone,Subsistence,Sierra Leone
+843,2014,165,694,1,2844.9759329999997,6342308.0370000005,Spain,Industrial,Sierra Leone
+844,2014,181,694,1,231.6143074,127851.0977,Ukraine,Industrial,Sierra Leone
+845,2014,213,694,1,486.4332523,713111.1479,Unknown Fishing Country,Industrial,Sierra Leone
+846,2014,28,136,2,1.0,6847.55,Cayman Isl. (UK),Artisanal,Cayman Isl. (UK)
+847,2014,28,136,3,1.0,6847.55,Cayman Isl. (UK),Subsistence,Cayman Isl. (UK)
+848,2014,28,136,4,25.74733337,48508.69072,Cayman Isl. (UK),Recreational,Cayman Isl. (UK)
+849,2014,43,136,1,280.7605388,374013.6311,Cuba,Industrial,Cayman Isl. (UK)
+850,2014,28,921,1,69.609375,439052.3438,Cayman Isl. (UK),Industrial,Honduras (Caribbean)
+851,2014,79,921,1,4445.728365999999,13456461.94,Honduras,Industrial,Honduras (Caribbean)
+852,2014,79,921,2,839.0450519999999,1828433.304,Honduras,Artisanal,Honduras (Caribbean)
+853,2014,79,921,3,4262.7281729999995,25254241.25,Honduras,Subsistence,Honduras (Caribbean)
+854,2014,28,927,1,68.75,102523.4375,Cayman Isl. (UK),Industrial,Colombia (Caribbean)
+855,2014,35,927,1,6679.2715,13821008.96,Colombia,Industrial,Colombia (Caribbean)
+856,2014,35,927,3,16144.2285,32706992.89,Colombia,Subsistence,Colombia (Caribbean)
+857,2014,29,144,1,300167.8586,472184575.1,Sri Lanka,Industrial,Sri Lanka
+858,2014,29,144,2,126177.837,111729623.1,Sri Lanka,Artisanal,Sri Lanka
+859,2014,29,144,3,152331.2336,94946853.37,Sri Lanka,Subsistence,Sri Lanka
+860,2014,82,144,1,284787.7042,266272169.7,India,Industrial,Sri Lanka
+861,2014,213,144,1,3291.440223,4825251.367,Unknown Fishing Country,Industrial,Sri Lanka
+862,2014,29,356,1,69459.6812,58524964.31,Sri Lanka,Industrial,India (mainland)
+863,2014,82,356,1,2183077.9359999998,2781040371.0,India,Industrial,India (mainland)
+864,2014,82,356,2,558854.9018,740861781.9,India,Artisanal,India (mainland)
+865,2014,82,356,3,909055.4476,944736478.3,India,Subsistence,India (mainland)
+866,2014,91,356,1,9.24594654,46417.99901,Japan,Industrial,India (mainland)
+867,2014,95,356,1,283.3686734,319750.5312,Korea (South),Industrial,India (mainland)
+868,2014,171,356,1,60750.65605,133115022.3,Thailand,Industrial,India (mainland)
+869,2014,213,356,1,28.5858784,41906.89774,Unknown Fishing Country,Industrial,India (mainland)
+870,2014,30,152,1,2606878.935,1339552983.0,Chile,Industrial,Chile
+871,2014,30,152,3,773742.85,1415667816.0,Chile,Subsistence,Chile
+872,2014,95,152,1,8273.152111,7528543.308999999,Korea (South),Industrial,Chile
+873,2014,213,152,1,30.55263034,44790.15608,Unknown Fishing Country,Industrial,Chile
+874,2014,30,153,1,2.3,9474.6,Chile,Industrial,Easter Isl. (Chile)
+875,2014,30,153,2,47.63,129517.68699999999,Chile,Artisanal,Easter Isl. (Chile)
+876,2014,30,153,3,5.5,11641.2,Chile,Subsistence,Easter Isl. (Chile)
+877,2014,31,153,1,240.81782280000002,197166.5363,China,Industrial,Easter Isl. (Chile)
+878,2014,91,153,1,231.0,361809.0,Japan,Industrial,Easter Isl. (Chile)
+879,2014,165,153,1,8697.061682,18310703.32,Spain,Industrial,Easter Isl. (Chile)
+880,2014,30,154,1,26.754,58221.599,Chile,Industrial,Desventuradas Isl. (Chile)
+881,2014,30,155,1,31790.72,31928887.36,Chile,Industrial,Juan Fernandez Islands (Chile)
+882,2014,30,155,2,51.545,338737.2456,Chile,Artisanal,Juan Fernandez Islands (Chile)
+883,2014,30,155,3,589.494,3592186.397,Chile,Subsistence,Juan Fernandez Islands (Chile)
+884,2014,30,238,1,1901.0454710000001,3439025.992,Chile,Industrial,Falkland Isl. (UK)
+885,2014,32,238,1,221355.4811,257165578.4,Taiwan,Industrial,Falkland Isl. (UK)
+886,2014,55,238,1,72227.76684,335640704.9,Falkland Isl. (UK),Industrial,Falkland Isl. (UK)
+887,2014,55,238,2,0.059082892000000005,84.48853616,Falkland Isl. (UK),Artisanal,Falkland Isl. (UK)
+888,2014,55,238,3,0.531746032,2385.353616,Falkland Isl. (UK),Subsistence,Falkland Isl. (UK)
+889,2014,91,238,1,2392.261611,4038425.6410000003,Japan,Industrial,Falkland Isl. (UK)
+890,2014,95,238,1,275782.087,425637460.8,Korea (South),Industrial,Falkland Isl. (UK)
+891,2014,122,238,1,12156.1,10781355.6,Vanuatu,Industrial,Falkland Isl. (UK)
+892,2014,165,238,1,178006.1987,458624196.5,Spain,Industrial,Falkland Isl. (UK)
+893,2014,183,238,1,3856.053265,19922031.78,United Kingdom,Industrial,Falkland Isl. (UK)
+894,2014,30,239,1,1901.089582,4803849.576,Chile,Industrial,South Georgia & Sandwich Isl. (UK)
+895,2014,31,239,1,15856.59309,5387107.381,China,Industrial,South Georgia & Sandwich Isl. (UK)
+896,2014,95,239,1,14777.38159,51481648.51,Korea (South),Industrial,South Georgia & Sandwich Isl. (UK)
+897,2014,123,239,1,458.49887,4051570.4189999998,New Zealand,Industrial,South Georgia & Sandwich Isl. (UK)
+898,2014,128,239,1,47268.28284,49150419.92,Norway,Industrial,South Georgia & Sandwich Isl. (UK)
+899,2014,181,239,1,3147.690381,4352970.436000001,Ukraine,Industrial,South Georgia & Sandwich Isl. (UK)
+900,2014,183,239,1,1374.65151,11155300.34,United Kingdom,Industrial,South Georgia & Sandwich Isl. (UK)
+901,2014,189,239,1,121.7071,937977.3266,Uruguay,Industrial,South Georgia & Sandwich Isl. (UK)
+902,2014,30,604,1,703057.6544,345824268.9,Chile,Industrial,Peru
+903,2014,31,604,1,206868.1098,167707735.4,China,Industrial,Peru
+904,2014,137,604,1,3017973.333,1109184650.0,Peru,Industrial,Peru
+905,2014,137,604,2,6157.749574,7551720.694,Peru,Artisanal,Peru
+906,2014,137,604,3,872653.7456,2106233859.0,Peru,Subsistence,Peru
+907,2014,137,604,4,27150.0,44264325.0,Peru,Recreational,Peru
+908,2014,213,604,1,20820.80575,30523301.24,Unknown Fishing Country,Industrial,Peru
+909,2014,30,910,1,1269.7177900000002,1828120.3569999998,Chile,Industrial,South Orkney Islands (UK)
+910,2014,31,910,1,15876.463469999999,6888420.745,China,Industrial,South Orkney Islands (UK)
+911,2014,95,910,1,4159.060469,14042579.09,Korea (South),Industrial,South Orkney Islands (UK)
+912,2014,128,910,1,67343.59169,70025091.07,Norway,Industrial,South Orkney Islands (UK)
+913,2014,165,910,1,937.2590956,1390892.4980000001,Spain,Industrial,South Orkney Islands (UK)
+914,2014,181,910,1,2184.601584,3021105.3910000003,Ukraine,Industrial,South Orkney Islands (UK)
+915,2014,31,156,1,6175276.424,11888164842.0,China,Industrial,China
+916,2014,31,156,2,23824.70064,37603721.24,China,Artisanal,China
+917,2014,31,156,3,3311553.463,6426944390.0,China,Subsistence,China
+918,2014,31,156,4,52722.005560000005,58094377.93,China,Recreational,China
+919,2014,80,156,1,673508.8046,1157599376.0,Hong Kong,Industrial,China
+920,2014,213,156,1,14505.7536,21265434.78,Unknown Fishing Country,Industrial,China
+921,2014,31,178,1,49887.89315,39090450.93,China,Industrial,"Congo, R. of"
+922,2014,38,178,1,12162.693000000001,26840394.41,"Congo, R. of",Industrial,"Congo, R. of"
+923,2014,38,178,2,5983.472048,6789744.906,"Congo, R. of",Artisanal,"Congo, R. of"
+924,2014,38,178,3,28151.1452,58742162.54,"Congo, R. of",Subsistence,"Congo, R. of"
+925,2014,89,178,1,3832.731478,4339041.1,Côte d'Ivoire,Industrial,"Congo, R. of"
+926,2014,213,178,1,347.56866119999995,509535.6574,Unknown Fishing Country,Industrial,"Congo, R. of"
+927,2014,31,180,1,12235.56723,11836758.92,China,Industrial,Congo (ex-Zaire)
+928,2014,39,180,2,1840.578293,5954797.182,Congo (ex-Zaire),Artisanal,Congo (ex-Zaire)
+929,2014,39,180,3,10788.575579999999,31571822.94,Congo (ex-Zaire),Subsistence,Congo (ex-Zaire)
+930,2014,213,180,1,28.60366046,41932.96623,Unknown Fishing Country,Industrial,Congo (ex-Zaire)
+931,2014,31,204,1,2637.7234,1258787.814,China,Industrial,Benin
+932,2014,45,204,1,1006.4482800000001,1848135.716,Benin,Industrial,Benin
+933,2014,45,204,2,20399.385980000003,24408889.71,Benin,Artisanal,Benin
+934,2014,45,204,3,46869.49356,56932140.82,Benin,Subsistence,Benin
+935,2014,70,204,1,341.47433989999996,525847.3841,Greece,Industrial,Benin
+936,2014,125,204,1,2555.0959199999998,12150393.41,Nigeria,Industrial,Benin
+937,2014,141,204,1,0.26320143,384.6855188,Portugal,Industrial,Benin
+938,2014,213,204,1,1635.065136,2397005.489,Unknown Fishing Country,Industrial,Benin
+939,2014,31,270,1,4792.367282,2286424.286,China,Industrial,Gambia
+940,2014,64,270,1,2798.671142,2294645.682,Gambia,Industrial,Gambia
+941,2014,64,270,2,6498.340999999999,6294079.249,Gambia,Artisanal,Gambia
+942,2014,64,270,3,96760.31762,80852822.92,Gambia,Subsistence,Gambia
+943,2014,64,270,4,486.33,648344.535,Gambia,Recreational,Gambia
+944,2014,70,270,1,956.8562492000001,1515398.48,Greece,Industrial,Gambia
+945,2014,76,270,1,152.13435769999998,228617.6853,Guinea,Industrial,Gambia
+946,2014,88,270,1,5939.941589999999,9581125.785,Italy,Industrial,Gambia
+947,2014,91,270,1,3.310025242,13416.26908,Japan,Industrial,Gambia
+948,2014,157,270,1,101913.9178,151047269.5,Senegal,Industrial,Gambia
+949,2014,159,270,1,605.7730799999999,797331.8143,Sierra Leone,Industrial,Gambia
+950,2014,165,270,1,5750.230562,11959033.3,Spain,Industrial,Gambia
+951,2014,213,270,1,36.06174177,52866.51343,Unknown Fishing Country,Industrial,Gambia
+952,2014,31,288,1,1424.957233,680103.2339,China,Industrial,Ghana
+953,2014,67,288,1,161519.1858,200975543.1,Ghana,Industrial,Ghana
+954,2014,67,288,2,30738.443839999996,37026087.76,Ghana,Artisanal,Ghana
+955,2014,67,288,3,198656.0,270110057.0,Ghana,Subsistence,Ghana
+956,2014,67,288,4,994.4069999999999,1793962.9319999998,Ghana,Recreational,Ghana
+957,2014,91,288,1,1266.047198,2139334.6859999998,Japan,Industrial,Ghana
+958,2014,95,288,1,1214.4,1187020.8,Korea (South),Industrial,Ghana
+959,2014,172,288,1,1404.097983,1475133.882,Togo,Industrial,Ghana
+960,2014,213,288,1,4376.321986,6415688.032000001,Unknown Fishing Country,Industrial,Ghana
+961,2014,31,384,1,98636.26712,95426966.81,China,Industrial,Côte d'Ivoire
+962,2014,58,384,1,2051.137907,4188788.2169999997,France,Industrial,Côte d'Ivoire
+963,2014,89,384,1,9933.908222,12947671.67,Côte d'Ivoire,Industrial,Côte d'Ivoire
+964,2014,89,384,2,7925.27247,7971169.296,Côte d'Ivoire,Artisanal,Côte d'Ivoire
+965,2014,89,384,3,43567.367139999995,56685394.44,Côte d'Ivoire,Subsistence,Côte d'Ivoire
+966,2014,91,384,1,147.8103085,648592.6768,Japan,Industrial,Côte d'Ivoire
+967,2014,165,384,1,2958.405726,5809389.451,Spain,Industrial,Côte d'Ivoire
+968,2014,213,384,1,5614.264173,8230511.278,Unknown Fishing Country,Industrial,Côte d'Ivoire
+969,2014,223,384,1,15964.09654,57446280.94,Fishing Country Unknown,Industrial,Côte d'Ivoire
+970,2014,31,390,1,942889.6440000001,682555735.8,China,Industrial,Japan (main islands)
+971,2014,91,390,1,2435124.069,6041680508.0,Japan,Industrial,Japan (main islands)
+972,2014,91,390,2,8560.0,26860967.0,Japan,Artisanal,Japan (main islands)
+973,2014,91,390,3,1234916.5829999999,3776672530.0,Japan,Subsistence,Japan (main islands)
+974,2014,91,390,4,45000.0,150231500.0,Japan,Recreational,Japan (main islands)
+975,2014,95,390,1,88245.09902000001,125964958.1,Korea (South),Industrial,Japan (main islands)
+976,2014,148,390,1,55424.88939,54780735.76,Russian Federation,Industrial,Japan (main islands)
+977,2014,213,390,1,6978.277491,10230154.8,Unknown Fishing Country,Industrial,Japan (main islands)
+978,2014,31,410,1,2732759.615,4303549981.0,China,Industrial,Korea (South)
+979,2014,95,410,1,867596.9183,1264363009.0,Korea (South),Industrial,Korea (South)
+980,2014,95,410,2,4251.961461999999,8518119.137,Korea (South),Artisanal,Korea (South)
+981,2014,95,410,3,379285.4118,540359152.9,Korea (South),Subsistence,Korea (South)
+982,2014,95,410,4,52811.71393,75925608.05,Korea (South),Recreational,Korea (South)
+983,2014,213,410,1,301.3682256,441805.8188,Unknown Fishing Country,Industrial,Korea (South)
+984,2014,31,516,1,150442.892,71761259.49,China,Industrial,Namibia
+985,2014,58,516,1,0.825,2989.675,France,Industrial,Namibia
+986,2014,91,516,1,7890.887540000001,14826977.69,Japan,Industrial,Namibia
+987,2014,95,516,1,1413.6775710000002,3693155.04,Korea (South),Industrial,Namibia
+988,2014,116,516,1,512458.9897,562544800.4,Namibia,Industrial,Namibia
+989,2014,116,516,2,64.61089335,94719.56965,Namibia,Artisanal,Namibia
+990,2014,116,516,4,252.33528930000003,369923.5341,Namibia,Recreational,Namibia
+991,2014,140,516,1,27856.4,37684796.4,Poland,Industrial,Namibia
+992,2014,165,516,1,17287.001809999998,42066355.42,Spain,Industrial,Namibia
+993,2014,213,516,1,0.579799772,849.9864661,Unknown Fishing Country,Industrial,Namibia
+994,2014,31,649,1,1439489.862,1126572438.0,China,Industrial,Russia (Far East)
+995,2014,91,649,1,98110.27077,194039954.5,Japan,Industrial,Russia (Far East)
+996,2014,94,649,1,32550.0,30173850.0,Korea (North),Industrial,Russia (Far East)
+997,2014,95,649,1,119656.7926,109289309.7,Korea (South),Industrial,Russia (Far East)
+998,2014,148,649,1,5303922.484,3164602939.0,Russian Federation,Industrial,Russia (Far East)
+999,2014,148,649,2,28925.697630000002,40848134.34,Russian Federation,Artisanal,Russia (Far East)
+1000,2014,148,649,3,812684.9658,675975800.6,Russian Federation,Subsistence,Russia (Far East)
+1001,2014,148,649,4,14616.182480000001,18742333.02,Russian Federation,Recreational,Russia (Far East)
+1002,2014,213,649,1,0.007790381999999999,11.42070031,Unknown Fishing Country,Industrial,Russia (Far East)
+1003,2014,31,678,1,7.2993557110000005,3485.854617,China,Industrial,Sao Tome & Principe
+1004,2014,32,678,1,57.36507658,50137.07693,Taiwan,Industrial,Sao Tome & Principe
+1005,2014,58,678,1,722.0535301,1103828.779,France,Industrial,Sao Tome & Principe
+1006,2014,91,678,1,22.14883483,42626.67538,Japan,Industrial,Sao Tome & Principe
+1007,2014,155,678,1,212.65303889999998,397470.2388,Sao Tome & Principe,Industrial,Sao Tome & Principe
+1008,2014,155,678,2,3169.696164,5625275.0879999995,Sao Tome & Principe,Artisanal,Sao Tome & Principe
+1009,2014,155,678,3,6075.196311,13008619.34,Sao Tome & Principe,Subsistence,Sao Tome & Principe
+1010,2014,165,678,1,3238.206255,6181286.74,Spain,Industrial,Sao Tome & Principe
+1011,2014,213,678,1,6233.281763,9137991.065,Unknown Fishing Country,Industrial,Sao Tome & Principe
+1012,2014,31,690,1,195.035538,148277.7702,China,Industrial,Seychelles
+1013,2014,32,690,1,6329.407837,6513806.222,Taiwan,Industrial,Seychelles
+1014,2014,91,690,1,646.5462611,1293711.153,Japan,Industrial,Seychelles
+1015,2014,115,690,1,6.152260462999999,8189.384920999999,Oman,Industrial,Seychelles
+1016,2014,138,690,1,17.56958403,17064.09628,Philippines,Industrial,Seychelles
+1017,2014,158,690,1,51.71388284,66516.04005,Seychelles,Industrial,Seychelles
+1018,2014,158,690,3,4605.014555,6433198.61,Seychelles,Subsistence,Seychelles
+1019,2014,158,690,4,155.2252097,224541.9307,Seychelles,Recreational,Seychelles
+1020,2014,186,690,1,2.011261498,1429.575577,Tanzania,Industrial,Seychelles
+1021,2014,213,690,1,587.3060755,860990.7067,Unknown Fishing Country,Industrial,Seychelles
+1022,2014,223,690,1,1613.902976,2834583.644,Fishing Country Unknown,Industrial,Seychelles
+1023,2014,31,768,1,18899.841630000003,9020056.556,China,Industrial,Togo
+1024,2014,67,768,1,7893.805359999999,13092935.08,Ghana,Industrial,Togo
+1025,2014,70,768,1,2716.523791,4116953.1939999997,Greece,Industrial,Togo
+1026,2014,76,768,1,2093.490067,2835197.13,Guinea,Industrial,Togo
+1027,2014,165,768,1,6432.033964,11564783.72,Spain,Industrial,Togo
+1028,2014,172,768,1,1185.5801720000002,2247804.312,Togo,Industrial,Togo
+1029,2014,172,768,2,717.546617,933327.5341,Togo,Artisanal,Togo
+1030,2014,172,768,3,18792.28417,16275636.03,Togo,Subsistence,Togo
+1031,2014,172,768,4,24.71071002,47954.40332,Togo,Recreational,Togo
+1032,2014,213,768,1,31.5477352,46248.979810000004,Unknown Fishing Country,Industrial,Togo
+1033,2014,223,768,1,1078.431851,3786005.0489999996,Fishing Country Unknown,Industrial,Togo
+1034,2014,31,928,1,27.32543849,15911.23416,China,Industrial,Colombia (Pacific)
+1035,2014,35,928,1,23100.17545,38365207.01,Colombia,Industrial,Colombia (Pacific)
+1036,2014,35,928,2,4796.455,10019794.5,Colombia,Artisanal,Colombia (Pacific)
+1037,2014,35,928,3,377.598,603789.0262,Colombia,Subsistence,Colombia (Pacific)
+1038,2014,213,928,1,18175.35233,26645066.51,Unknown Fishing Country,Industrial,Colombia (Pacific)
+1039,2014,31,946,1,58472.22067,27924495.66,China,Industrial,Morocco (Central)
+1040,2014,58,946,1,6744.9778129999995,11327148.7,France,Industrial,Morocco (Central)
+1041,2014,88,946,1,11655.230379999999,18799886.6,Italy,Industrial,Morocco (Central)
+1042,2014,91,946,1,102563.2413,196071203.2,Japan,Industrial,Morocco (Central)
+1043,2014,95,946,1,12193.37449,14295578.31,Korea (South),Industrial,Morocco (Central)
+1044,2014,113,946,1,667410.4769,685001451.8,Morocco,Industrial,Morocco (Central)
+1045,2014,113,946,2,3645.620058,18384720.69,Morocco,Artisanal,Morocco (Central)
+1046,2014,113,946,3,59081.01452999999,232464336.4,Morocco,Subsistence,Morocco (Central)
+1047,2014,113,946,4,10363.01567,52229777.72,Morocco,Recreational,Morocco (Central)
+1048,2014,140,946,1,75499.62467,70785448.51,Poland,Industrial,Morocco (Central)
+1049,2014,141,946,1,4070.347356,8317300.53,Portugal,Industrial,Morocco (Central)
+1050,2014,164,946,1,532.5557843,667292.3977,South Africa,Industrial,Morocco (Central)
+1051,2014,165,946,1,65989.27368,116572822.1,Spain,Industrial,Morocco (Central)
+1052,2014,213,946,1,0.34476009700000004,505.41830269999997,Unknown Fishing Country,Industrial,Morocco (Central)
+1053,2014,31,948,1,136435.1816,65157156.56,China,Industrial,Morocco (South)
+1054,2014,58,948,1,2023.4933440000002,3398144.6089999997,France,Industrial,Morocco (South)
+1055,2014,66,948,1,14894.36925,22751791.03,Germany,Industrial,Morocco (South)
+1056,2014,88,948,1,27105.18692,43720666.51,Italy,Industrial,Morocco (South)
+1057,2014,91,948,1,238519.1658,455979542.2,Japan,Industrial,Morocco (South)
+1058,2014,95,948,1,28072.90258,32912823.06,Korea (South),Industrial,Morocco (South)
+1059,2014,101,948,1,105345.7612,136065750.3,Lithuania,Industrial,Morocco (South)
+1060,2014,113,948,1,901736.9657,928948845.1,Morocco,Industrial,Morocco (South)
+1061,2014,113,948,2,2926.727155,15632718.89,Morocco,Artisanal,Morocco (South)
+1062,2014,113,948,3,74783.32227,254060024.1,Morocco,Subsistence,Morocco (South)
+1063,2014,113,948,4,1288.4154039999999,7698672.696,Morocco,Recreational,Morocco (South)
+1064,2014,118,948,1,81494.8679,111372156.2,Netherlands,Industrial,Morocco (South)
+1065,2014,140,948,1,175580.5225,164617322.1,Poland,Industrial,Morocco (South)
+1066,2014,141,948,1,8769.649066,13110255.0,Portugal,Industrial,Morocco (South)
+1067,2014,148,948,1,198415.1248,161203789.9,Russian Federation,Industrial,Morocco (South)
+1068,2014,164,948,1,1231.522039,1543097.115,South Africa,Industrial,Morocco (South)
+1069,2014,165,948,1,156168.3847,266466822.3,Spain,Industrial,Morocco (South)
+1070,2014,213,948,1,4534.495782,6647570.816000001,Unknown Fishing Country,Industrial,Morocco (South)
+1071,2014,32,157,1,282305.3264,451215576.3,Taiwan,Industrial,Taiwan
+1072,2014,32,157,2,14808.612,21985852.62,Taiwan,Artisanal,Taiwan
+1073,2014,32,157,3,57839.41981,92547595.13,Taiwan,Subsistence,Taiwan
+1074,2014,32,157,4,862.4557113,1024597.385,Taiwan,Recreational,Taiwan
+1075,2014,91,157,1,6772.526231,23475330.34,Japan,Industrial,Taiwan
+1076,2014,213,157,1,10406.9668,15256613.33,Unknown Fishing Country,Industrial,Taiwan
+1077,2014,32,219,1,5416.4,7621709.6,Taiwan,Industrial,Galapagos Isl. (Ecuador)
+1078,2014,35,219,1,2605.5295899999996,5019710.943,Colombia,Industrial,Galapagos Isl. (Ecuador)
+1079,2014,41,219,1,388.1101014,960876.1067,Costa Rica,Industrial,Galapagos Isl. (Ecuador)
+1080,2014,49,219,1,58603.03939,72287356.62,Ecuador,Industrial,Galapagos Isl. (Ecuador)
+1081,2014,49,219,2,31.45329037,66025.22447999999,Ecuador,Artisanal,Galapagos Isl. (Ecuador)
+1082,2014,49,219,3,711.5558133,1596563.467,Ecuador,Subsistence,Galapagos Isl. (Ecuador)
+1083,2014,91,219,1,4.723900008999999,27544.94765,Japan,Industrial,Galapagos Isl. (Ecuador)
+1084,2014,95,219,1,3154.942323,3608917.99,Korea (South),Industrial,Galapagos Isl. (Ecuador)
+1085,2014,213,219,1,9363.650029999999,13727110.94,Unknown Fishing Country,Industrial,Galapagos Isl. (Ecuador)
+1086,2014,32,586,1,977.6838458999999,901101.1477,Taiwan,Industrial,Pakistan
+1087,2014,134,586,1,298775.1005,360315828.3,Pakistan,Industrial,Pakistan
+1088,2014,134,586,2,203741.8899,309480569.0,Pakistan,Artisanal,Pakistan
+1089,2014,134,586,3,351417.1355,284043570.2,Pakistan,Subsistence,Pakistan
+1090,2014,134,586,4,91.08148148,92540.60681,Pakistan,Recreational,Pakistan
+1091,2014,32,780,1,7.701252026000001,6730.894270999999,Taiwan,Industrial,Trinidad & Tobago
+1092,2014,175,780,1,6383.286943,11302726.35,Trinidad & Tobago,Industrial,Trinidad & Tobago
+1093,2014,175,780,2,3747.402967,7292901.107000001,Trinidad & Tobago,Artisanal,Trinidad & Tobago
+1094,2014,175,780,3,8495.837486,17473354.16,Trinidad & Tobago,Subsistence,Trinidad & Tobago
+1095,2014,175,780,4,1239.519749,2954035.017,Trinidad & Tobago,Recreational,Trinidad & Tobago
+1096,2014,190,780,1,3774.196249,10649269.54,Venezuela,Industrial,Trinidad & Tobago
+1097,2014,32,967,1,287.598748,587948.7057,Taiwan,Industrial,Aruba (Netherlands)
+1098,2014,43,967,1,181.1934157,475617.831,Cuba,Industrial,Aruba (Netherlands)
+1099,2014,95,967,1,16.75784701,37998.69462,Korea (South),Industrial,Aruba (Netherlands)
+1100,2014,120,967,2,30.91473126,149589.219,Aruba (Netherlands),Artisanal,Aruba (Netherlands)
+1101,2014,120,967,3,145.766976,578376.2074,Aruba (Netherlands),Subsistence,Aruba (Netherlands)
+1102,2014,120,967,4,752.2326691000001,1622283.78,Aruba (Netherlands),Recreational,Aruba (Netherlands)
+1103,2014,190,967,1,501.523037,1669040.129,Venezuela,Industrial,Aruba (Netherlands)
+1104,2014,33,162,1,5.9796,29259.6696,Christmas Isl. (Australia),Industrial,Christmas Isl. (Australia)
+1105,2014,33,162,2,18.378960600000003,120498.8983,Christmas Isl. (Australia),Artisanal,Christmas Isl. (Australia)
+1106,2014,33,162,3,8.354073,54772.22651,Christmas Isl. (Australia),Subsistence,Christmas Isl. (Australia)
+1107,2014,33,162,4,6.683258400000001,43817.78121,Christmas Isl. (Australia),Recreational,Christmas Isl. (Australia)
+1108,2014,213,162,1,14.68988801,21535.37583,Unknown Fishing Country,Industrial,Christmas Isl. (Australia)
+1109,2014,34,166,1,22.0,32252.0,Cocos (Keeling) Isl. (Australia),Industrial,Cocos (Keeling) Isl. (Australia)
+1110,2014,36,174,2,6661.7261,7599615.794,Comoros,Artisanal,Comoros Isl.
+1111,2014,36,174,3,12366.976920000001,19756742.74,Comoros,Subsistence,Comoros Isl.
+1112,2014,213,174,1,1.853134043,2716.694507,Unknown Fishing Country,Industrial,Comoros Isl.
+1113,2014,37,175,1,82.50043336,327072.9486,Mayotte (France),Industrial,Mayotte (France)
+1114,2014,37,175,2,811.5095018,3422332.742,Mayotte (France),Artisanal,Mayotte (France)
+1115,2014,37,175,3,1190.746507,5549547.334,Mayotte (France),Subsistence,Mayotte (France)
+1116,2014,37,175,4,19.92173913,74149.83166,Mayotte (France),Recreational,Mayotte (France)
+1117,2014,213,175,1,4.594263,6735.189558,Unknown Fishing Country,Industrial,Mayotte (France)
+1118,2014,37,972,1,82.5,161659.5439,Mayotte (France),Industrial,Glorieuse Islands (France)
+1119,2014,103,972,1,13.40625,12364.42188,Madagascar,Industrial,Glorieuse Islands (France)
+1120,2014,213,972,1,4.550539382,6671.090733,Unknown Fishing Country,Industrial,Glorieuse Islands (France)
+1121,2014,41,929,2,30.91592032,126171.8472,Costa Rica,Artisanal,Costa Rica (Caribbean)
+1122,2014,41,929,3,500.0,1369153.0,Costa Rica,Subsistence,Costa Rica (Caribbean)
+1123,2014,41,930,1,19891.50969,28705119.91,Costa Rica,Industrial,Costa Rica (Pacific)
+1124,2014,41,930,2,653.363216,1158128.412,Costa Rica,Artisanal,Costa Rica (Pacific)
+1125,2014,41,930,3,7280.3575359999995,12618644.72,Costa Rica,Subsistence,Costa Rica (Pacific)
+1126,2014,41,930,4,72.24878439,164261.8591,Costa Rica,Recreational,Costa Rica (Pacific)
+1127,2014,213,930,1,10107.19755,14817151.61,Unknown Fishing Country,Industrial,Costa Rica (Pacific)
+1128,2014,42,191,1,84222.52221,88990520.87,Croatia,Industrial,Croatia
+1129,2014,42,191,2,6000.0,8831940.215,Croatia,Artisanal,Croatia
+1130,2014,42,191,3,6924.0508310000005,7667861.191000001,Croatia,Subsistence,Croatia
+1131,2014,42,191,4,1500.0,2207985.054,Croatia,Recreational,Croatia
+1132,2014,213,191,1,15.74824507,23086.92728,Unknown Fishing Country,Industrial,Croatia
+1133,2014,42,380,1,256.2708545,1641273.3569999998,Croatia,Industrial,Italy
+1134,2014,58,380,1,3.5845819010000004,19477.71063,France,Industrial,Italy
+1135,2014,88,380,1,181303.0544,840880258.2,Italy,Industrial,Italy
+1136,2014,88,380,2,2052.520523,8400027.445,Italy,Artisanal,Italy
+1137,2014,88,380,3,33272.86565,207502968.1,Italy,Subsistence,Italy
+1138,2014,88,380,4,25888.57865,135654484.6,Italy,Recreational,Italy
+1139,2014,141,380,1,3.441069422,5995.8230140000005,Portugal,Industrial,Italy
+1140,2014,213,380,1,4.874117248,7145.455884999999,Unknown Fishing Country,Industrial,Italy
+1141,2014,42,891,1,61.80367411,422818.1621,Croatia,Industrial,Montenegro
+1142,2014,194,891,1,926.0040082,1940595.416,Montenegro,Industrial,Montenegro
+1143,2014,194,891,2,365.75565510000007,548258.0317,Montenegro,Artisanal,Montenegro
+1144,2014,194,891,3,70.85653431,118381.9974,Montenegro,Subsistence,Montenegro
+1145,2014,194,891,4,91.43891379,137064.5079,Montenegro,Recreational,Montenegro
+1146,2014,43,192,1,855.1764035,1281044.061,Cuba,Industrial,Cuba
+1147,2014,43,192,2,3398.561152,3516242.3310000002,Cuba,Artisanal,Cuba
+1148,2014,43,192,3,20076.39258,54629948.22,Cuba,Subsistence,Cuba
+1149,2014,43,192,4,3002.745,3414721.6139999996,Cuba,Recreational,Cuba
+1150,2014,43,332,1,401.57977830000004,666226.6148,Cuba,Industrial,Haiti
+1151,2014,78,332,2,7923.933502,14486743.04,Haiti,Artisanal,Haiti
+1152,2014,78,332,3,17060.58745,26227028.94,Haiti,Subsistence,Haiti
+1153,2014,95,332,1,128.08776809999998,277667.5529,Korea (South),Industrial,Haiti
+1154,2014,152,332,1,0.000573413,0.464370694,Saint Lucia,Industrial,Haiti
+1155,2014,179,332,1,0.149118791,218.60814759999997,Turks & Caicos Isl. (UK),Industrial,Haiti
+1156,2014,190,332,1,1118.099141,2061774.815,Venezuela,Industrial,Haiti
+1157,2014,43,907,1,7.490794287000001,5893.641165999999,Cuba,Industrial,Bonaire (Netherlands)
+1158,2014,95,907,1,5.104971851,11469.422359999999,Korea (South),Industrial,Bonaire (Netherlands)
+1159,2014,190,907,1,263.916067,848091.8691,Venezuela,Industrial,Bonaire (Netherlands)
+1160,2014,222,907,2,100.43990059999999,354768.6052,Bonaire (Netherlands),Artisanal,Bonaire (Netherlands)
+1161,2014,222,907,3,106.0429185,401038.6387,Bonaire (Netherlands),Subsistence,Bonaire (Netherlands)
+1162,2014,222,907,4,99.00229687,203296.7165,Bonaire (Netherlands),Recreational,Bonaire (Netherlands)
+1163,2014,46,233,1,3440.305956,4837070.173,Denmark,Industrial,Estonia
+1164,2014,53,233,1,15870.661240000001,5475284.59,Estonia,Industrial,Estonia
+1165,2014,53,233,3,5536.599072999999,1910094.049,Estonia,Subsistence,Estonia
+1166,2014,53,233,4,197.6332954,128400.1131,Estonia,Recreational,Estonia
+1167,2014,57,233,1,9909.506572,7590518.705,Finland,Industrial,Estonia
+1168,2014,66,233,1,1897.5161679999999,665596.5041,Germany,Industrial,Estonia
+1169,2014,98,233,1,19363.60466,5430457.259,Latvia,Industrial,Estonia
+1170,2014,101,233,1,1326.6177539999999,291891.3955,Lithuania,Industrial,Estonia
+1171,2014,140,233,1,510.85408150000006,151988.2449,Poland,Industrial,Estonia
+1172,2014,169,233,1,9635.729626999999,7285730.635,Sweden,Industrial,Estonia
+1173,2014,46,246,1,3514.170779,4940924.115,Denmark,Industrial,Finland
+1174,2014,53,246,1,14298.78685,4213845.996,Estonia,Industrial,Finland
+1175,2014,57,246,1,69585.62749,36418838.08,Finland,Industrial,Finland
+1176,2014,57,246,3,14167.959509999999,7665691.562000001,Finland,Subsistence,Finland
+1177,2014,57,246,4,5524.5,11913400.0,Finland,Recreational,Finland
+1178,2014,66,246,1,1507.260821,529964.5736,Germany,Industrial,Finland
+1179,2014,101,246,1,575.7223031000001,127349.2143,Lithuania,Industrial,Finland
+1180,2014,140,246,1,73.22470191,23139.0058,Poland,Industrial,Finland
+1181,2014,169,246,1,18736.24194,12700090.96,Sweden,Industrial,Finland
+1182,2014,213,246,1,26.84392643,39353.19615,Unknown Fishing Country,Industrial,Finland
+1183,2014,46,278,1,12896.19911,27242623.41,Denmark,Industrial,Germany (Baltic Sea)
+1184,2014,57,278,1,3.56829789,11661.1975,Finland,Industrial,Germany (Baltic Sea)
+1185,2014,66,278,1,8452.556043,10009180.36,Germany,Industrial,Germany (Baltic Sea)
+1186,2014,66,278,3,2188.730042,2719221.249,Germany,Subsistence,Germany (Baltic Sea)
+1187,2014,66,278,4,3470.6041219999997,8991298.27,Germany,Recreational,Germany (Baltic Sea)
+1188,2014,98,278,1,34.94320518,67535.91022,Latvia,Industrial,Germany (Baltic Sea)
+1189,2014,140,278,1,7307.371956,7970091.675,Poland,Industrial,Germany (Baltic Sea)
+1190,2014,169,278,1,1093.329764,2157772.203,Sweden,Industrial,Germany (Baltic Sea)
+1191,2014,46,304,1,3563.225,10805503.27,Denmark,Industrial,Greenland
+1192,2014,54,304,1,3130.1923859999997,10620932.28,Faeroe Isl. (Denmark),Industrial,Greenland
+1193,2014,58,304,1,318.798221,634413.3548,France,Industrial,Greenland
+1194,2014,66,304,1,10660.33488,29633707.79,Germany,Industrial,Greenland
+1195,2014,71,304,1,186848.7534,562002750.6,Greenland,Industrial,Greenland
+1196,2014,71,304,2,799.1821187999999,3112689.305,Greenland,Artisanal,Greenland
+1197,2014,71,304,3,72590.76155,218454748.5,Greenland,Subsistence,Greenland
+1198,2014,81,304,1,26447.2855,47063133.43,Iceland,Industrial,Greenland
+1199,2014,118,304,1,0.030925225,45.33637967,Netherlands,Industrial,Greenland
+1200,2014,128,304,1,2543.063165,6732087.772000001,Norway,Industrial,Greenland
+1201,2014,141,304,1,671.7250452000001,967218.1894,Portugal,Industrial,Greenland
+1202,2014,148,304,1,21950.52909,25226641.01,Russian Federation,Industrial,Greenland
+1203,2014,165,304,1,9757.146939,14614709.06,Spain,Industrial,Greenland
+1204,2014,46,428,1,3298.1963539999997,4814226.254,Denmark,Industrial,Latvia
+1205,2014,53,428,1,9679.796153,5270793.494,Estonia,Industrial,Latvia
+1206,2014,57,428,1,195.8450995,271454.3124,Finland,Industrial,Latvia
+1207,2014,66,428,1,2056.874701,721008.373,Germany,Industrial,Latvia
+1208,2014,98,428,1,25216.125030000003,7930167.123,Latvia,Industrial,Latvia
+1209,2014,98,428,3,6499.284898,2329713.998,Latvia,Subsistence,Latvia
+1210,2014,98,428,4,339.77002400000003,140131.6668,Latvia,Recreational,Latvia
+1211,2014,101,428,1,3511.126243,1246484.183,Lithuania,Industrial,Latvia
+1212,2014,140,428,1,11281.05108,6690428.079,Poland,Industrial,Latvia
+1213,2014,169,428,1,9267.880165,6997827.94,Sweden,Industrial,Latvia
+1214,2014,46,440,1,933.5467085000001,1510147.7040000001,Denmark,Industrial,Lithuania
+1215,2014,53,440,1,28.02142652,43170.89099,Estonia,Industrial,Lithuania
+1216,2014,57,440,1,57.94874662,189376.504,Finland,Industrial,Lithuania
+1217,2014,66,440,1,459.49680419999993,160898.8345,Germany,Industrial,Lithuania
+1218,2014,98,440,1,1036.382259,1077291.202,Latvia,Industrial,Lithuania
+1219,2014,101,440,1,1201.214269,749746.5352,Lithuania,Industrial,Lithuania
+1220,2014,101,440,3,785.2043042,490090.9202,Lithuania,Subsistence,Lithuania
+1221,2014,101,440,4,621.16031,999697.2293,Lithuania,Recreational,Lithuania
+1222,2014,140,440,1,11775.21501,7250411.033,Poland,Industrial,Lithuania
+1223,2014,169,440,1,1931.8236670000001,1758781.1409999998,Sweden,Industrial,Lithuania
+1224,2014,46,616,1,9699.186252,19956167.13,Denmark,Industrial,Poland
+1225,2014,53,616,1,143.3850009,210965.1661,Estonia,Industrial,Poland
+1226,2014,57,616,1,122.1095571,399054.0327,Finland,Industrial,Poland
+1227,2014,66,616,1,4485.081819,3803426.8460000004,Germany,Industrial,Poland
+1228,2014,98,616,1,2366.1101989999997,2414387.395,Latvia,Industrial,Poland
+1229,2014,101,616,1,2696.406296,1552727.563,Lithuania,Industrial,Poland
+1230,2014,140,616,1,66442.92196,45504975.08,Poland,Industrial,Poland
+1231,2014,140,616,3,19575.899230000003,13734628.5,Poland,Subsistence,Poland
+1232,2014,140,616,4,1029.177483,1614026.497,Poland,Recreational,Poland
+1233,2014,169,616,1,11120.515229999999,12581471.37,Sweden,Industrial,Poland
+1234,2014,46,648,1,1763.773457,2805948.4439999997,Denmark,Industrial,Russia (Baltic Sea)
+1235,2014,53,648,1,11315.91603,3051121.4239999996,Estonia,Industrial,Russia (Baltic Sea)
+1236,2014,57,648,1,4238.118718,4553841.0030000005,Finland,Industrial,Russia (Baltic Sea)
+1237,2014,66,648,1,839.2960207999998,293702.1786,Germany,Industrial,Russia (Baltic Sea)
+1238,2014,98,648,1,1834.0159190000002,1830717.9119999998,Latvia,Industrial,Russia (Baltic Sea)
+1239,2014,101,648,1,2274.3723019999998,1392660.299,Lithuania,Industrial,Russia (Baltic Sea)
+1240,2014,140,648,1,20709.11548,13174290.26,Poland,Industrial,Russia (Baltic Sea)
+1241,2014,148,648,1,54145.456770000004,29501213.55,Russian Federation,Industrial,Russia (Baltic Sea)
+1242,2014,148,648,3,5262.963804999999,2854706.6780000003,Russian Federation,Subsistence,Russia (Baltic Sea)
+1243,2014,148,648,4,436.6702025,720077.4508,Russian Federation,Recreational,Russia (Baltic Sea)
+1244,2014,169,648,1,3867.688647,3483745.765,Sweden,Industrial,Russia (Baltic Sea)
+1245,2014,46,914,1,17076.20611,32957209.25,Denmark,Industrial,Sweden (Baltic)
+1246,2014,53,914,1,5047.847122,1652224.458,Estonia,Industrial,Sweden (Baltic)
+1247,2014,57,914,1,60160.34843,29937228.53,Finland,Industrial,Sweden (Baltic)
+1248,2014,66,914,1,8546.984582,5753031.316000001,Germany,Industrial,Sweden (Baltic)
+1249,2014,98,914,1,17085.25822,6262916.999,Latvia,Industrial,Sweden (Baltic)
+1250,2014,101,914,1,4798.988284,1599431.6030000001,Lithuania,Industrial,Sweden (Baltic)
+1251,2014,140,914,1,60984.01865,42140283.22,Poland,Industrial,Sweden (Baltic)
+1252,2014,169,914,1,47716.21219,40068629.97,Sweden,Industrial,Sweden (Baltic)
+1253,2014,169,914,3,10528.64272,9040034.365,Sweden,Subsistence,Sweden (Baltic)
+1254,2014,169,914,4,5675.648034000001,17839969.72,Sweden,Recreational,Sweden (Baltic)
+1255,2014,213,914,1,1.133695248,1661.997234,Unknown Fishing Country,Industrial,Sweden (Baltic)
+1256,2014,46,915,1,16147.7498,41610166.5,Denmark,Industrial,Sweden (West Coast)
+1257,2014,58,915,1,0.508649574,858.2917726,France,Industrial,Sweden (West Coast)
+1258,2014,66,915,1,93.09064669,193623.05,Germany,Industrial,Sweden (West Coast)
+1259,2014,118,915,1,239.1475024,475153.9075,Netherlands,Industrial,Sweden (West Coast)
+1260,2014,128,915,1,382.9199269,1030526.845,Norway,Industrial,Sweden (West Coast)
+1261,2014,169,915,1,5777.504502000001,8376783.818,Sweden,Industrial,Sweden (West Coast)
+1262,2014,169,915,2,530.7898018999999,880691.1342,Sweden,Artisanal,Sweden (West Coast)
+1263,2014,169,915,3,502.8070581,729018.2165,Sweden,Subsistence,Sweden (West Coast)
+1264,2014,169,915,4,1238.509538,2054945.98,Sweden,Recreational,Sweden (West Coast)
+1265,2014,46,931,1,24777.64365,51173257.06,Denmark,Industrial,Denmark (Baltic Sea)
+1266,2014,46,931,3,5625.066790999999,12007630.11,Denmark,Subsistence,Denmark (Baltic Sea)
+1267,2014,46,931,4,3365.302832,5154976.477,Denmark,Recreational,Denmark (Baltic Sea)
+1268,2014,53,931,1,49.52279399,72268.66879,Estonia,Industrial,Denmark (Baltic Sea)
+1269,2014,57,931,1,15.8409359,51768.17852,Finland,Industrial,Denmark (Baltic Sea)
+1270,2014,66,931,1,10388.60786,13823703.21,Germany,Industrial,Denmark (Baltic Sea)
+1271,2014,98,931,1,274.5350145,330163.1112,Latvia,Industrial,Denmark (Baltic Sea)
+1272,2014,101,931,1,186.2198004,71961.29099,Lithuania,Industrial,Denmark (Baltic Sea)
+1273,2014,118,931,1,4.647614448,16647.75495,Netherlands,Industrial,Denmark (Baltic Sea)
+1274,2014,140,931,1,22481.03344,17064457.61,Poland,Industrial,Denmark (Baltic Sea)
+1275,2014,169,931,1,5824.097639,9254370.272,Sweden,Industrial,Denmark (Baltic Sea)
+1276,2014,47,212,1,218.20978819999996,566888.7256,Dominica,Industrial,Dominica
+1277,2014,47,212,2,762.91008,1986114.581,Dominica,Artisanal,Dominica
+1278,2014,47,212,3,826.48592,2189568.33,Dominica,Subsistence,Dominica
+1279,2014,213,212,1,0.41511909999999996,608.5646008,Unknown Fishing Country,Industrial,Dominica
+1280,2014,47,312,1,582.6528525,1572348.751,Dominica,Industrial,Guadeloupe  (France)
+1281,2014,73,312,2,1635.707225,2424146.0719999997,Guadeloupe  (France),Artisanal,Guadeloupe  (France)
+1282,2014,73,312,3,7200.0,14047540.0,Guadeloupe  (France),Subsistence,Guadeloupe  (France)
+1283,2014,73,312,4,297.043346,504082.5582,Guadeloupe  (France),Recreational,Guadeloupe  (France)
+1284,2014,213,312,1,0.214454475,314.39026,Unknown Fishing Country,Industrial,Guadeloupe  (France)
+1285,2014,47,474,1,56.08693166,153687.6605,Dominica,Industrial,Martinique (France)
+1286,2014,107,474,2,1143.978,4858516.419,Martinique (France),Artisanal,Martinique (France)
+1287,2014,107,474,3,3600.0,12418980.82,Martinique (France),Subsistence,Martinique (France)
+1288,2014,107,474,4,392.76578,632046.5485,Martinique (France),Recreational,Martinique (France)
+1289,2014,213,474,1,2.146979685,3147.472218,Unknown Fishing Country,Industrial,Martinique (France)
+1290,2014,47,909,1,6.86347675,17629.59618,Dominica,Industrial,Sint Maarten (Netherlands)
+1291,2014,152,909,1,1041.000004,2220860.003,Saint Lucia,Industrial,Sint Maarten (Netherlands)
+1292,2014,154,909,1,0.115102409,358.1161325,Saint Vincent & the Grenadines,Industrial,Sint Maarten (Netherlands)
+1293,2014,213,909,1,2.37e-05,0.034684366,Unknown Fishing Country,Industrial,Sint Maarten (Netherlands)
+1294,2014,215,909,2,21.11162791,64301.78895,Sint Maarten,Artisanal,Sint Maarten (Netherlands)
+1295,2014,215,909,3,12.16744186,67865.68342,Sint Maarten,Subsistence,Sint Maarten (Netherlands)
+1296,2014,215,909,4,40.50364566,142825.3656,Sint Maarten,Recreational,Sint Maarten (Netherlands)
+1297,2014,48,214,1,1429.570621,5483832.901000001,Dominican Republic,Industrial,Dominican Republic
+1298,2014,48,214,2,24378.02611,44567780.57,Dominican Republic,Artisanal,Dominican Republic
+1299,2014,48,214,3,23759.8745,50072689.97,Dominican Republic,Subsistence,Dominican Republic
+1300,2014,48,214,4,140.2193727,270938.88300000003,Dominican Republic,Recreational,Dominican Republic
+1301,2014,48,796,1,42.98302702,71166.59413,Dominican Republic,Industrial,Turks & Caicos Isl. (UK)
+1302,2014,78,796,1,0.7585240059999999,1248.862026,Haiti,Industrial,Turks & Caicos Isl. (UK)
+1303,2014,179,796,1,9.041852944,13255.35642,Turks & Caicos Isl. (UK),Industrial,Turks & Caicos Isl. (UK)
+1304,2014,179,796,2,2170.9587579999998,4333464.395,Turks & Caicos Isl. (UK),Artisanal,Turks & Caicos Isl. (UK)
+1305,2014,179,796,3,7968.933192,27476959.32,Turks & Caicos Isl. (UK),Subsistence,Turks & Caicos Isl. (UK)
+1306,2014,179,796,4,174.19,374943.975,Turks & Caicos Isl. (UK),Recreational,Turks & Caicos Isl. (UK)
+1307,2014,49,218,1,308712.4646,304529389.7,Ecuador,Industrial,Ecuador
+1308,2014,49,218,2,696.4274756,564106.2553,Ecuador,Artisanal,Ecuador
+1309,2014,49,218,3,111244.0,148941887.6,Ecuador,Subsistence,Ecuador
+1310,2014,213,218,1,779.6320916,1142940.646,Unknown Fishing Country,Industrial,Ecuador
+1311,2014,50,222,1,3533.301485,3900584.818,El Salvador,Industrial,El Salvador
+1312,2014,50,222,2,1002.535526,774813.3142,El Salvador,Artisanal,El Salvador
+1313,2014,50,222,3,14790.10732,11390236.2,El Salvador,Subsistence,El Salvador
+1314,2014,124,222,1,87.52256906,141844.0087,Nicaragua,Industrial,El Salvador
+1315,2014,213,222,1,0.24322938,356.57427110000003,Unknown Fishing Country,Industrial,El Salvador
+1316,2014,54,234,1,367993.2672,685073554.7,Faeroe Isl. (Denmark),Industrial,Faeroe Isl. (Denmark)
+1317,2014,54,234,2,421.12088789999996,1420903.9880000001,Faeroe Isl. (Denmark),Artisanal,Faeroe Isl. (Denmark)
+1318,2014,54,234,3,20604.60558,34774609.25,Faeroe Isl. (Denmark),Subsistence,Faeroe Isl. (Denmark)
+1319,2014,54,234,4,105.280222,355225.99700000003,Faeroe Isl. (Denmark),Recreational,Faeroe Isl. (Denmark)
+1320,2014,71,234,1,5403.235667,6426657.571,Greenland,Industrial,Faeroe Isl. (Denmark)
+1321,2014,81,234,1,124072.11,102937329.5,Iceland,Industrial,Faeroe Isl. (Denmark)
+1322,2014,86,234,1,4.391794022,27628.789539999998,Ireland,Industrial,Faeroe Isl. (Denmark)
+1323,2014,128,234,1,21009.01513,15583925.51,Norway,Industrial,Faeroe Isl. (Denmark)
+1324,2014,148,234,1,80408.55136,117878936.3,Russian Federation,Industrial,Faeroe Isl. (Denmark)
+1325,2014,183,234,1,2300.1934109999997,4082936.812,United Kingdom,Industrial,Faeroe Isl. (Denmark)
+1326,2014,54,352,1,13974.29547,19774049.19,Faeroe Isl. (Denmark),Industrial,Iceland
+1327,2014,58,352,1,1875.4416800000001,3029740.485,France,Industrial,Iceland
+1328,2014,66,352,1,708.0963157000001,2267502.1180000002,Germany,Industrial,Iceland
+1329,2014,71,352,1,21403.14081,25873440.43,Greenland,Industrial,Iceland
+1330,2014,81,352,1,883623.0079,1414098251.0,Iceland,Industrial,Iceland
+1331,2014,81,352,2,7327.5975,14932604.8,Iceland,Artisanal,Iceland
+1332,2014,81,352,3,5842.59,10880200.23,Iceland,Subsistence,Iceland
+1333,2014,81,352,4,220.0,589820.0,Iceland,Recreational,Iceland
+1334,2014,86,352,1,0.000292988,0.429520523,Ireland,Industrial,Iceland
+1335,2014,128,352,1,8072.338422,18707858.64,Norway,Industrial,Iceland
+1336,2014,148,352,1,728.4588908,1011311.224,Russian Federation,Industrial,Iceland
+1337,2014,165,352,1,1965.6465469999998,4826833.723999999,Spain,Industrial,Iceland
+1338,2014,183,352,1,357.8965379,868489.0337,United Kingdom,Industrial,Iceland
+1339,2014,54,645,1,19218.449109999998,67671509.04,Faeroe Isl. (Denmark),Industrial,Russia (Barents Sea)
+1340,2014,128,645,1,19061.741019999998,33258048.25,Norway,Industrial,Russia (Barents Sea)
+1341,2014,141,645,1,198.0,470996.0,Portugal,Industrial,Russia (Barents Sea)
+1342,2014,148,645,1,254570.4406,396622669.6,Russian Federation,Industrial,Russia (Barents Sea)
+1343,2014,148,645,2,2033.475782,2992513.798,Russian Federation,Artisanal,Russia (Barents Sea)
+1344,2014,148,645,3,512.482,643966.4318,Russian Federation,Subsistence,Russia (Barents Sea)
+1345,2014,148,645,4,5229.408163,6615406.534,Russian Federation,Recreational,Russia (Barents Sea)
+1346,2014,165,645,1,6281.0,15584503.0,Spain,Industrial,Russia (Barents Sea)
+1347,2014,58,198,1,0.123307112,1379.132642,France,Industrial,Cyprus (South)
+1348,2014,208,198,1,1299.4864,3236362.2589999996,South Cyprus,Industrial,Cyprus (South)
+1349,2014,208,198,2,120.521,286532.8483,South Cyprus,Artisanal,Cyprus (South)
+1350,2014,208,198,3,1399.3056,3409109.0919999997,South Cyprus,Subsistence,Cyprus (South)
+1351,2014,208,198,4,113.58,228073.1761,South Cyprus,Recreational,Cyprus (South)
+1352,2014,213,198,1,0.00517873,7.5920176029999995,Unknown Fishing Country,Industrial,Cyprus (South)
+1353,2014,58,252,1,0.08027859700000001,134.78776509999997,France,Industrial,Tromelin Isl. (France)
+1354,2014,213,252,1,757.4096728,1110362.58,Unknown Fishing Country,Industrial,Tromelin Isl. (France)
+1355,2014,58,254,1,5789.6875,11341389.17,France,Industrial,French Guiana
+1356,2014,59,254,2,984.3459518,1583541.9409999999,French Guiana,Artisanal,French Guiana
+1357,2014,59,254,3,3109.0,9224871.0,French Guiana,Subsistence,French Guiana
+1358,2014,190,254,1,3244.2782460000003,6488823.572000001,Venezuela,Industrial,French Guiana
+1359,2014,213,254,1,23.50274001,34455.01686,Unknown Fishing Country,Industrial,French Guiana
+1360,2014,58,300,1,2.8688204660000003,9753.647026,France,Industrial,Greece
+1361,2014,70,300,1,44154.016319999995,178838728.0,Greece,Industrial,Greece
+1362,2014,70,300,2,283.6376083,1669244.494,Greece,Artisanal,Greece
+1363,2014,70,300,3,99923.3684,599859105.5,Greece,Subsistence,Greece
+1364,2014,70,300,4,15925.47431,85075738.65,Greece,Recreational,Greece
+1365,2014,141,300,1,4.541008548,7966.056285,Portugal,Industrial,Greece
+1366,2014,213,300,1,554.261842,812547.8604,Unknown Fishing Country,Industrial,Greece
+1367,2014,58,508,1,0.528220181,886.8816836000001,France,Industrial,Mozambique
+1368,2014,91,508,1,4.111192892,17388.75775,Japan,Industrial,Mozambique
+1369,2014,114,508,1,29258.23682,58702226.91,Mozambique,Industrial,Mozambique
+1370,2014,114,508,2,85191.31594,67201802.58,Mozambique,Artisanal,Mozambique
+1371,2014,114,508,3,74318.38625,125188336.3,Mozambique,Subsistence,Mozambique
+1372,2014,141,508,1,287.5735035,1439729.2680000002,Portugal,Industrial,Mozambique
+1373,2014,164,508,1,0.00484982,13.33207606,South Africa,Industrial,Mozambique
+1374,2014,165,508,1,1014.956686,2714842.014,Spain,Industrial,Mozambique
+1375,2014,213,508,1,27.59393176,40452.70397,Unknown Fishing Country,Industrial,Mozambique
+1376,2014,58,895,1,587.5013467,1015863.555,France,Industrial,St Paul & Amsterdam Isl. (France)
+1377,2014,58,896,1,1055.561777,7944049.214,France,Industrial,Crozet Isl. (France)
+1378,2014,58,897,1,6573.0,55922705.0,France,Industrial,Kerguelen Isl. (France)
+1379,2014,58,899,1,414.81302949999997,2223719.414,France,Industrial,Corsica (France)
+1380,2014,58,899,3,370.10324310000004,3039156.8230000003,France,Subsistence,Corsica (France)
+1381,2014,58,899,4,632.88,3757250.34,France,Recreational,Corsica (France)
+1382,2014,213,899,1,0.098909292,145.0010221,Unknown Fishing Country,Industrial,Corsica (France)
+1383,2014,58,918,1,29971.7585,92224915.61,France,Industrial,France (Mediterranean)
+1384,2014,58,918,2,20.84482472,48632.539430000004,France,Artisanal,France (Mediterranean)
+1385,2014,58,918,3,17969.705830000003,84547428.34,France,Subsistence,France (Mediterranean)
+1386,2014,58,918,4,9665.729804999999,19906498.54,France,Recreational,France (Mediterranean)
+1387,2014,141,918,1,0.414121933,763.9887062000001,Portugal,Industrial,France (Mediterranean)
+1388,2014,165,918,1,256.5286394,754208.4276,Spain,Industrial,France (Mediterranean)
+1389,2014,213,918,1,8.164088863,11968.55427,Unknown Fishing Country,Industrial,France (Mediterranean)
+1390,2014,58,962,1,254.41072519999997,2495909.239,France,Industrial,Spain (Mediterranean and Gulf of Cadiz)
+1391,2014,141,962,1,4996.197736,7476923.647000001,Portugal,Industrial,Spain (Mediterranean and Gulf of Cadiz)
+1392,2014,165,962,1,178705.6626,556255814.8,Spain,Industrial,Spain (Mediterranean and Gulf of Cadiz)
+1393,2014,165,962,2,8000.0,49321706.09,Spain,Artisanal,Spain (Mediterranean and Gulf of Cadiz)
+1394,2014,165,962,3,73061.47327999999,276661018.8,Spain,Subsistence,Spain (Mediterranean and Gulf of Cadiz)
+1395,2014,165,962,4,15675.008999999998,114628885.1,Spain,Recreational,Spain (Mediterranean and Gulf of Cadiz)
+1396,2014,213,962,1,1.860763833,2727.879778,Unknown Fishing Country,Industrial,Spain (Mediterranean and Gulf of Cadiz)
+1397,2014,60,258,1,10864.25995,40420775.53,French Polynesia,Industrial,French Polynesia
+1398,2014,60,258,2,7790.07185,33988366.99,French Polynesia,Artisanal,French Polynesia
+1399,2014,60,258,3,6827.55,27479143.04,French Polynesia,Subsistence,French Polynesia
+1400,2014,213,258,1,6252.391565,9166006.034,Unknown Fishing Country,Industrial,French Polynesia
+1401,2014,61,262,2,45.96,67377.36,Djibouti,Artisanal,Djibouti
+1402,2014,61,262,3,2901.225,6138240.85,Djibouti,Subsistence,Djibouti
+1403,2014,61,262,4,9.82,14396.12,Djibouti,Recreational,Djibouti
+1404,2014,163,262,1,376.01025,343263.7705,Somalia,Industrial,Djibouti
+1405,2014,193,262,1,784.9799012999999,1471448.7240000002,Yemen,Industrial,Djibouti
+1406,2014,61,706,1,115.26768,237748.8605,Djibouti,Industrial,Somalia
+1407,2014,70,706,1,534.612,2872300.4060000004,Greece,Industrial,Somalia
+1408,2014,84,706,1,40816.23,75619466.82,Iran,Industrial,Somalia
+1409,2014,93,706,1,1336.8,4808127.072,Kenya,Industrial,Somalia
+1410,2014,95,706,1,9495.517029999999,26096730.66,Korea (South),Industrial,Somalia
+1411,2014,163,706,2,9260.399253,10252609.65,Somalia,Artisanal,Somalia
+1412,2014,163,706,3,45185.55752,44783773.04,Somalia,Subsistence,Somalia
+1413,2014,167,706,1,2052.461277,2173556.492,Sudan,Industrial,Somalia
+1414,2014,171,706,1,51667.66695,114058607.0,Thailand,Industrial,Somalia
+1415,2014,182,706,1,14639.04,42271080.99,Egypt,Industrial,Somalia
+1416,2014,193,706,1,30449.88933,61044652.23,Yemen,Industrial,Somalia
+1417,2014,213,706,1,109.3558328,160315.6509,Unknown Fishing Country,Industrial,Somalia
+1418,2014,63,268,1,90425.353,31338317.07,Georgia,Industrial,Georgia
+1419,2014,63,268,2,2431.959601,2674401.653,Georgia,Artisanal,Georgia
+1420,2014,63,268,3,2750.0,2756352.5,Georgia,Subsistence,Georgia
+1421,2014,63,268,4,1827.6997,2009903.083,Georgia,Recreational,Georgia
+1422,2014,148,268,1,10975.122,9070306.863,Russian Federation,Industrial,Georgia
+1423,2014,178,268,1,66450.58459,49438948.3,Turkey,Industrial,Georgia
+1424,2014,181,268,1,31128.41081,14670629.51,Ukraine,Industrial,Georgia
+1425,2014,65,274,1,3464.0232,5276768.635,Gaza Strip,Industrial,Gaza Strip
+1426,2014,65,274,2,95.35600762,250040.1764,Gaza Strip,Artisanal,Gaza Strip
+1427,2014,65,274,3,2629.101353,6893964.863,Gaza Strip,Subsistence,Gaza Strip
+1428,2014,70,900,1,1585.47838,6981588.653,Greece,Industrial,Crete (Greece)
+1429,2014,70,900,3,3178.321692,18918391.03,Greece,Subsistence,Crete (Greece)
+1430,2014,70,900,4,928.5960899,5098029.331,Greece,Recreational,Crete (Greece)
+1431,2014,213,900,1,19.01312013,27873.23411,Unknown Fishing Country,Industrial,Crete (Greece)
+1432,2014,72,308,1,135.84286709999998,247283.7537,Grenada,Industrial,Grenada
+1433,2014,72,308,2,371.4076414,981750.2253,Grenada,Artisanal,Grenada
+1434,2014,72,308,3,1941.968825,3687113.6939999997,Grenada,Subsistence,Grenada
+1435,2014,72,308,4,1.388946691,2413.038358,Grenada,Recreational,Grenada
+1436,2014,72,670,1,297.6884615,741687.9711,Grenada,Industrial,Saint Vincent & the Grenadines
+1437,2014,154,670,1,56.925,146644.05,Saint Vincent & the Grenadines,Industrial,Saint Vincent & the Grenadines
+1438,2014,154,670,2,206.89025790000002,980368.1089,Saint Vincent & the Grenadines,Artisanal,Saint Vincent & the Grenadines
+1439,2014,154,670,3,1017.5994,3017244.522,Saint Vincent & the Grenadines,Subsistence,Saint Vincent & the Grenadines
+1440,2014,154,670,4,1.081440854,3416.5444549999997,Saint Vincent & the Grenadines,Recreational,Saint Vincent & the Grenadines
+1441,2014,74,316,1,0.107852028,361.8036538,Guam (USA),Industrial,Guam (USA)
+1442,2014,74,316,2,9.727999751,53444.11792,Guam (USA),Artisanal,Guam (USA)
+1443,2014,74,316,3,27.35999907,150311.5804,Guam (USA),Subsistence,Guam (USA)
+1444,2014,74,316,4,38.91200118,213776.4836,Guam (USA),Recreational,Guam (USA)
+1445,2014,187,316,1,3.187973874,10645.872229999999,USA,Industrial,Guam (USA)
+1446,2014,75,935,1,729.4409598999999,1004840.026,Guatemala,Industrial,Guatemala (Caribbean)
+1447,2014,75,935,2,272.4438054,108133.2423,Guatemala,Artisanal,Guatemala (Caribbean)
+1448,2014,75,935,3,5448.8761079999995,2162664.847,Guatemala,Subsistence,Guatemala (Caribbean)
+1449,2014,75,936,1,5501.5658490000005,8980313.501,Guatemala,Industrial,Guatemala (Pacific)
+1450,2014,75,936,2,1069.82142,1469130.351,Guatemala,Artisanal,Guatemala (Pacific)
+1451,2014,75,936,3,21396.39837,29382565.79,Guatemala,Subsistence,Guatemala (Pacific)
+1452,2014,213,936,1,1.4375892890000002,2107.505898,Unknown Fishing Country,Industrial,Guatemala (Pacific)
+1453,2014,77,328,1,31252.69018,31104280.18,Guyana,Industrial,Guyana
+1454,2014,77,328,2,1677.5003689999999,2925111.8460000004,Guyana,Artisanal,Guyana
+1455,2014,77,328,3,22859.47277,42161599.81,Guyana,Subsistence,Guyana
+1456,2014,213,328,1,0.324924547,476.33938650000005,Unknown Fishing Country,Industrial,Guyana
+1457,2014,79,920,2,1074.992018,2056074.167,Honduras,Artisanal,Honduras (Pacific)
+1458,2014,79,920,3,5699.583418,10276289.59,Honduras,Subsistence,Honduras (Pacific)
+1459,2014,80,344,1,3997.32182,6784381.682999999,Hong Kong,Industrial,Hong Kong (China)
+1460,2014,80,344,3,3694.941,6244922.996,Hong Kong,Subsistence,Hong Kong (China)
+1461,2014,80,344,4,1433.1058859999998,2100933.228,Hong Kong,Recreational,Hong Kong (China)
+1462,2014,82,357,1,0.560199918,475.953978,India,Industrial,Andaman & Nicobar Isl. (India)
+1463,2014,82,357,2,9611.642968,11743505.37,India,Artisanal,Andaman & Nicobar Isl. (India)
+1464,2014,82,357,3,51496.20427,40688350.04,India,Subsistence,Andaman & Nicobar Isl. (India)
+1465,2014,213,357,1,2196.9329989999997,3220703.776,Unknown Fishing Country,Industrial,Andaman & Nicobar Isl. (India)
+1466,2014,83,626,1,64.42612368,85296.24916,Indonesia,Industrial,Timor Leste
+1467,2014,143,626,2,4033.508678,7705652.239,Timor Leste,Artisanal,Timor Leste
+1468,2014,143,626,3,2537.821665,4876031.079,Timor Leste,Subsistence,Timor Leste
+1469,2014,213,626,1,55.54621803,81430.75562000001,Unknown Fishing Country,Industrial,Timor Leste
+1470,2014,84,923,1,10745.17467,15140161.8,Iran,Industrial,Iran (Sea of Oman)
+1471,2014,84,923,2,5488.811729,6706641.831,Iran,Artisanal,Iran (Sea of Oman)
+1472,2014,84,923,3,116843.9417,207357215.6,Iran,Subsistence,Iran (Sea of Oman)
+1473,2014,85,368,2,13.75658427,13690.0024,Iraq,Artisanal,Iraq
+1474,2014,85,368,3,5970.0,10708139.17,Iraq,Subsistence,Iraq
+1475,2014,85,414,1,4648.65,5967697.054,Iraq,Industrial,Kuwait
+1476,2014,96,414,1,14909.136,31133469.46,Kuwait,Industrial,Kuwait
+1477,2014,96,414,2,14.637171900000002,28909.04097,Kuwait,Artisanal,Kuwait
+1478,2014,96,414,3,15442.883999999998,34387543.65,Kuwait,Subsistence,Kuwait
+1479,2014,96,414,4,468.38950080000006,968512.3903,Kuwait,Recreational,Kuwait
+1480,2014,86,579,1,517.4313534,758554.3641,Ireland,Industrial,Jan Mayen Isl. (Norway)
+1481,2014,118,579,1,1.311170456,713.5745933,Netherlands,Industrial,Jan Mayen Isl. (Norway)
+1482,2014,128,579,1,1581.0833089999999,3592469.535,Norway,Industrial,Jan Mayen Isl. (Norway)
+1483,2014,183,579,1,196.908839,476166.0003,United Kingdom,Industrial,Jan Mayen Isl. (Norway)
+1484,2014,86,744,1,38.16853623,55955.074120000005,Ireland,Industrial,Svalbard Isl. (Norway)
+1485,2014,118,744,1,1721.439015,666686.3627,Netherlands,Industrial,Svalbard Isl. (Norway)
+1486,2014,128,744,1,104267.825,316127704.4,Norway,Industrial,Svalbard Isl. (Norway)
+1487,2014,148,744,1,167645.5354,256692559.5,Russian Federation,Industrial,Svalbard Isl. (Norway)
+1488,2014,183,744,1,12892.64644,31985492.19,United Kingdom,Industrial,Svalbard Isl. (Norway)
+1489,2014,87,939,1,1796.972002,4833767.89,Israel,Industrial,Israel (Mediterranean)
+1490,2014,87,939,2,31.8,108378.44,Israel,Artisanal,Israel (Mediterranean)
+1491,2014,87,939,3,661.3091995,2253825.767,Israel,Subsistence,Israel (Mediterranean)
+1492,2014,87,939,4,837.000001,1678633.7040000001,Israel,Recreational,Israel (Mediterranean)
+1493,2014,87,940,2,2.5,7727.475,Israel,Artisanal,Israel (Red Sea)
+1494,2014,87,940,3,50.0,154549.5,Israel,Subsistence,Israel (Red Sea)
+1495,2014,87,940,4,58.7352,117658.3526,Israel,Recreational,Israel (Red Sea)
+1496,2014,88,901,1,39085.15625,185623316.7,Italy,Industrial,Sicily (Italy)
+1497,2014,88,901,2,845.4672847999999,5775559.467,Italy,Artisanal,Sicily (Italy)
+1498,2014,88,901,3,7490.552358,44494944.46,Italy,Subsistence,Sicily (Italy)
+1499,2014,88,901,4,1356.8861630000001,7386888.272999999,Italy,Recreational,Sicily (Italy)
+1500,2014,213,901,1,33.158664,48610.60143,Unknown Fishing Country,Industrial,Sicily (Italy)
+1501,2014,88,902,1,7127.502073999999,37853864.34,Italy,Industrial,Sardinia (Italy)
+1502,2014,88,902,2,228.1926537,936932.6029,Italy,Artisanal,Sardinia (Italy)
+1503,2014,88,902,3,3181.608413,19632348.49,Italy,Subsistence,Sardinia (Italy)
+1504,2014,88,902,4,1573.407143,8328720.572000001,Italy,Recreational,Sardinia (Italy)
+1505,2014,213,902,1,10.57327752,15500.424840000001,Unknown Fishing Country,Industrial,Sardinia (Italy)
+1506,2014,90,388,2,14544.1992,18256458.87,Jamaica,Artisanal,Jamaica
+1507,2014,90,388,3,14716.601340000001,29563595.34,Jamaica,Subsistence,Jamaica
+1508,2014,90,388,4,6.0889999999999995,9125.7006,Jamaica,Recreational,Jamaica
+1509,2014,91,74,1,48.72097695,90806.79238,Japan,Industrial,Bouvet Isl. (Norway)
+1510,2014,164,74,1,4.263537763,5124.640674,South Africa,Industrial,Bouvet Isl. (Norway)
+1511,2014,91,393,1,2381.0123510000003,9413130.354,Japan,Industrial,Japan (Daito Islands)
+1512,2014,91,393,2,49.8,173536.8,Japan,Artisanal,Japan (Daito Islands)
+1513,2014,91,393,3,74.7,260305.2,Japan,Subsistence,Japan (Daito Islands)
+1514,2014,213,393,1,67.64991826,99174.78018,Unknown Fishing Country,Industrial,Japan (Daito Islands)
+1515,2014,91,450,1,750.9325489,3472553.977,Japan,Industrial,Madagascar
+1516,2014,103,450,1,16741.78769,32515962.96,Madagascar,Industrial,Madagascar
+1517,2014,103,450,2,32834.14694,63547904.34,Madagascar,Artisanal,Madagascar
+1518,2014,103,450,3,65631.41432000001,142986469.0,Madagascar,Subsistence,Madagascar
+1519,2014,146,450,1,46.28875085,174941.7486,Réunion (France),Industrial,Madagascar
+1520,2014,213,450,1,2216.039627,3248714.0930000003,Unknown Fishing Country,Industrial,Madagascar
+1521,2014,91,480,1,1077.774126,5172682.68,Japan,Industrial,Mauritius
+1522,2014,109,480,1,4898.252595,24531493.02,Mauritius,Industrial,Mauritius
+1523,2014,109,480,2,1486.700088,3522955.12,Mauritius,Artisanal,Mauritius
+1524,2014,109,480,3,3035.019988,7905515.707,Mauritius,Subsistence,Mauritius
+1525,2014,109,480,4,1177.81052,2664782.878,Mauritius,Recreational,Mauritius
+1526,2014,146,480,1,101.9591363,495678.5549,Réunion (France),Industrial,Mauritius
+1527,2014,213,480,1,417.3777007,611875.7093,Unknown Fishing Country,Industrial,Mauritius
+1528,2014,91,654,1,265.0916023,1071265.377,Japan,Industrial,Saint Helena (UK)
+1529,2014,149,654,1,84.54934924,167010.5694,Saint Helena (UK),Industrial,Saint Helena (UK)
+1530,2014,149,654,3,115.12906640000001,354498.9724,Saint Helena (UK),Subsistence,Saint Helena (UK)
+1531,2014,91,740,1,460.75,1475209.8630000001,Japan,Industrial,Suriname
+1532,2014,95,740,1,480.7994131,1102241.6979999999,Korea (South),Industrial,Suriname
+1533,2014,168,740,1,13229.70145,15228465.5,Suriname,Industrial,Suriname
+1534,2014,168,740,2,5573.137776,9317168.239,Suriname,Artisanal,Suriname
+1535,2014,168,740,3,39912.79784,65467668.0,Suriname,Subsistence,Suriname
+1536,2014,190,740,1,3456.890554,15256311.3,Venezuela,Industrial,Suriname
+1537,2014,213,740,1,85.21424922,124924.0894,Unknown Fishing Country,Industrial,Suriname
+1538,2014,91,971,1,2114.1739829999997,8526721.705,Japan,Industrial,Japan (Ogasawara Islands)
+1539,2014,91,971,2,117.21553329999999,718579.1177,Japan,Artisanal,Japan (Ogasawara Islands)
+1540,2014,91,971,3,468.86213330000004,2874316.4710000004,Japan,Subsistence,Japan (Ogasawara Islands)
+1541,2014,92,400,2,51.7,119277.4164,Jordan,Artisanal,Jordan
+1542,2014,92,400,3,277.0,639068.5559,Jordan,Subsistence,Jordan
+1543,2014,92,400,4,100.352,433259.7248,Jordan,Recreational,Jordan
+1544,2014,93,404,2,3781.939138,8086640.698,Kenya,Artisanal,Kenya
+1545,2014,93,404,3,9670.004865,31165308.4,Kenya,Subsistence,Kenya
+1546,2014,93,404,4,1314.094167,2336547.701,Kenya,Recreational,Kenya
+1547,2014,186,404,1,1413.704131,3830502.227,Tanzania,Industrial,Kenya
+1548,2014,213,404,1,67.48303964,98930.13612000001,Unknown Fishing Country,Industrial,Kenya
+1549,2014,95,555,1,950.3833762,1489584.563,Korea (South),Industrial,Kermadec Isl. (New Zealand)
+1550,2014,123,555,1,16.22198605,70092.40579,New Zealand,Industrial,Kermadec Isl. (New Zealand)
+1551,2014,97,422,2,2245.929712,3829085.251,Lebanon,Artisanal,Lebanon
+1552,2014,97,422,3,4551.082641,6436965.874,Lebanon,Subsistence,Lebanon
+1553,2014,97,422,4,48.28042297,76369.97305,Lebanon,Recreational,Lebanon
+1554,2014,100,434,1,14282.963280000002,26331680.62,Libya,Industrial,Libya
+1555,2014,100,434,2,267.7820319,617331.5453,Libya,Artisanal,Libya
+1556,2014,100,434,3,54318.82487999999,119840456.8,Libya,Subsistence,Libya
+1557,2014,182,434,1,680.7985891,1183772.242,Egypt,Industrial,Libya
+1558,2014,213,434,1,343.7434058,503927.8329,Unknown Fishing Country,Industrial,Libya
+1559,2014,103,251,1,13.40625,12605.125,Madagascar,Industrial,Mozambique Channel Isl. (France)
+1560,2014,146,251,1,3.718251043,9121.271043,Réunion (France),Industrial,Mozambique Channel Isl. (France)
+1561,2014,164,251,1,53.256,116230.96800000001,South Africa,Industrial,Mozambique Channel Isl. (France)
+1562,2014,213,251,1,134581.9324,197297112.9,Unknown Fishing Country,Industrial,Mozambique Channel Isl. (France)
+1563,2014,104,459,1,762944.4537,1124824775.0,Malaysia,Industrial,Malaysia (Peninsula West)
+1564,2014,104,459,2,45126.97142,81786963.23,Malaysia,Artisanal,Malaysia (Peninsula West)
+1565,2014,104,459,3,218969.1926,423422542.5,Malaysia,Subsistence,Malaysia (Peninsula West)
+1566,2014,104,459,4,3496.0088060000003,6360813.222999999,Malaysia,Recreational,Malaysia (Peninsula West)
+1567,2014,171,459,1,98079.93916000001,183073353.9,Thailand,Industrial,Malaysia (Peninsula West)
+1568,2014,213,459,1,31.40852161,46044.89269,Unknown Fishing Country,Industrial,Malaysia (Peninsula West)
+1569,2014,104,460,1,394506.174,565863387.3,Malaysia,Industrial,Malaysia (Peninsula East)
+1570,2014,104,460,2,22246.456009999998,45061003.7,Malaysia,Artisanal,Malaysia (Peninsula East)
+1571,2014,104,460,3,112723.4317,219439027.3,Malaysia,Subsistence,Malaysia (Peninsula East)
+1572,2014,104,460,4,1727.302709,3142740.913,Malaysia,Recreational,Malaysia (Peninsula East)
+1573,2014,160,460,1,474.9355351,1149436.98,Singapore,Industrial,Malaysia (Peninsula East)
+1574,2014,171,460,1,245066.1543,254182798.2,Thailand,Industrial,Malaysia (Peninsula East)
+1575,2014,213,460,1,205.0672587,300628.6012,Unknown Fishing Country,Industrial,Malaysia (Peninsula East)
+1576,2014,104,461,1,345294.2268,749617514.9,Malaysia,Industrial,Malaysia (Sabah)
+1577,2014,104,461,2,40006.739460000004,94455968.03,Malaysia,Artisanal,Malaysia (Sabah)
+1578,2014,104,461,3,180782.2622,416322291.1,Malaysia,Subsistence,Malaysia (Sabah)
+1579,2014,104,461,4,890.2397718000001,1619746.753,Malaysia,Recreational,Malaysia (Sabah)
+1580,2014,171,461,1,163377.4362,169434720.1,Thailand,Industrial,Malaysia (Sabah)
+1581,2014,104,463,1,105202.7749,199127115.2,Malaysia,Industrial,Malaysia (Sarawak)
+1582,2014,104,463,2,11787.1985,20732398.53,Malaysia,Artisanal,Malaysia (Sarawak)
+1583,2014,104,463,3,61634.536810000005,103796865.8,Malaysia,Subsistence,Malaysia (Sarawak)
+1584,2014,104,463,4,605.4690257999999,1101864.603,Malaysia,Recreational,Malaysia (Sarawak)
+1585,2014,171,463,1,299525.2997,310630320.3,Thailand,Industrial,Malaysia (Sarawak)
+1586,2014,105,462,1,6326.805242,10462079.1,Maldives,Industrial,Maldives
+1587,2014,105,462,2,38263.9199,91056162.06,Maldives,Artisanal,Maldives
+1588,2014,105,462,3,11134.70729,35694847.02,Maldives,Subsistence,Maldives
+1589,2014,105,462,4,3.027424248,4438.203947999999,Maldives,Recreational,Maldives
+1590,2014,213,462,1,187.18343080000002,274410.9095,Unknown Fishing Country,Industrial,Maldives
+1591,2014,106,470,1,2688.5857960000003,9504765.383,Malta,Industrial,Malta
+1592,2014,106,470,2,317.5334063,599966.3435,Malta,Artisanal,Malta
+1593,2014,106,470,3,654.6102541,2431645.683,Malta,Subsistence,Malta
+1594,2014,106,470,4,27.980040000000002,84063.90312,Malta,Recreational,Malta
+1595,2014,213,470,1,2537.394383,3719820.165,Unknown Fishing Country,Industrial,Malta
+1596,2014,110,944,1,46032.58712,75590448.87,Mexico,Industrial,Mexico (Atlantic)
+1597,2014,110,944,3,336161.7972,821652442.1,Mexico,Subsistence,Mexico (Atlantic)
+1598,2014,110,944,4,99.9,195287.0,Mexico,Recreational,Mexico (Atlantic)
+1599,2014,213,944,1,2814.3017059999997,4125766.3010000004,Unknown Fishing Country,Industrial,Mexico (Atlantic)
+1600,2014,110,945,1,998959.2595,997335965.6,Mexico,Industrial,Mexico (Pacific)
+1601,2014,110,945,2,19328.8,18033770.4,Mexico,Artisanal,Mexico (Pacific)
+1602,2014,110,945,3,683369.558,1510486657.0,Mexico,Subsistence,Mexico (Pacific)
+1603,2014,110,945,4,4322.49092,11196878.15,Mexico,Recreational,Mexico (Pacific)
+1604,2014,213,945,1,1073.374338,1573566.78,Unknown Fishing Country,Industrial,Mexico (Pacific)
+1605,2014,112,500,2,10.004,28443.41417,Montserrat (UK),Artisanal,Montserrat (UK)
+1606,2014,112,500,3,55.423,169796.2881,Montserrat (UK),Subsistence,Montserrat (UK)
+1607,2014,213,500,1,0.000571041,0.8371461179999999,Unknown Fishing Country,Industrial,Montserrat (UK)
+1608,2014,113,947,1,47739.38141,65788212.48,Morocco,Industrial,Morocco (Mediterranean)
+1609,2014,113,947,2,1032.426138,2933636.2180000003,Morocco,Artisanal,Morocco (Mediterranean)
+1610,2014,113,947,3,7073.495876999999,26282211.82,Morocco,Subsistence,Morocco (Mediterranean)
+1611,2014,113,947,4,18103.10246,83757032.88,Morocco,Recreational,Morocco (Mediterranean)
+1612,2014,141,947,1,11.90244353,26221.47049,Portugal,Industrial,Morocco (Mediterranean)
+1613,2014,165,947,1,2018.1497969999998,6318950.13,Spain,Industrial,Morocco (Mediterranean)
+1614,2014,115,512,1,446.67317699999995,539689.5791,Oman,Industrial,Oman
+1615,2014,115,512,2,355.32,719851.53,Oman,Artisanal,Oman
+1616,2014,115,512,3,226205.1121,502817588.6,Oman,Subsistence,Oman
+1617,2014,115,512,4,25.09048,55148.87504,Oman,Recreational,Oman
+1618,2014,115,911,2,37.29795,75498.52851,Oman,Artisanal,Oman (Musandam)
+1619,2014,115,911,3,23670.15915,53414549.51,Oman,Subsistence,Oman (Musandam)
+1620,2014,115,911,4,0.3534,776.7732,Oman,Recreational,Oman (Musandam)
+1621,2014,121,540,1,853.0940183,2820924.397,New Caledonia (France),Industrial,New Caledonia (France)
+1622,2014,121,540,2,8367.275706999999,38941802.09,New Caledonia (France),Artisanal,New Caledonia (France)
+1623,2014,121,540,3,936.45,2588219.32,New Caledonia (France),Subsistence,New Caledonia (France)
+1624,2014,121,540,4,4025.453048,15549720.49,New Caledonia (France),Recreational,New Caledonia (France)
+1625,2014,187,540,1,92.5416409,387275.3548,USA,Industrial,New Caledonia (France)
+1626,2014,213,540,1,6798.362902,9966400.014,Unknown Fishing Country,Industrial,New Caledonia (France)
+1627,2014,124,949,1,11327.61,30784575.69,Nicaragua,Industrial,Nicaragua (Caribbean)
+1628,2014,124,949,2,3136.354435,8079090.953,Nicaragua,Artisanal,Nicaragua (Caribbean)
+1629,2014,124,949,3,16576.19,35822957.09,Nicaragua,Subsistence,Nicaragua (Caribbean)
+1630,2014,124,950,1,8645.13006,15456206.14,Nicaragua,Industrial,Nicaragua (Pacific)
+1631,2014,124,950,2,2100.803789,5195423.675,Nicaragua,Artisanal,Nicaragua (Pacific)
+1632,2014,124,950,3,5193.61,12143745.14,Nicaragua,Subsistence,Nicaragua (Pacific)
+1633,2014,213,950,1,13.64635668,20005.5589,Unknown Fishing Country,Industrial,Nicaragua (Pacific)
+1634,2014,125,566,1,130026.9062,307408653.8,Nigeria,Industrial,Nigeria
+1635,2014,125,566,2,13153.2,39782259.88,Nigeria,Artisanal,Nigeria
+1636,2014,125,566,3,311350.0478,777800847.6,Nigeria,Subsistence,Nigeria
+1637,2014,213,566,1,531.3500815,778959.2195,Unknown Fishing Country,Industrial,Nigeria
+1638,2014,127,574,3,6.63,52302.12874,Norfolk Isl. (Australia),Subsistence,Norfolk Isl. (Australia)
+1639,2014,129,580,1,1.774497067,2601.412701,North Marianas (USA),Industrial,Northern Marianas (USA)
+1640,2014,129,580,2,174.99560580000002,446103.6218,North Marianas (USA),Artisanal,Northern Marianas (USA)
+1641,2014,129,580,3,57.31153064,242312.1891,North Marianas (USA),Subsistence,Northern Marianas (USA)
+1642,2014,129,580,4,174.99560580000002,446103.6218,North Marianas (USA),Recreational,Northern Marianas (USA)
+1643,2014,187,580,1,41.16814198,147414.3983,USA,Industrial,Northern Marianas (USA)
+1644,2014,135,951,1,131.1,378485.7,Panama,Industrial,Panama (Caribbean)
+1645,2014,135,951,2,1367.564377,1263752.565,Panama,Artisanal,Panama (Caribbean)
+1646,2014,135,951,3,86.33333333,634809.0,Panama,Subsistence,Panama (Caribbean)
+1647,2014,135,952,1,100498.8643,104223417.0,Panama,Industrial,Panama (Pacific)
+1648,2014,135,952,3,3144.198312,8718830.597000001,Panama,Subsistence,Panama (Pacific)
+1649,2014,135,952,4,109.3529412,278316.3576,Panama,Recreational,Panama (Pacific)
+1650,2014,213,952,1,2582.336326,3785705.0539999995,Unknown Fishing Country,Industrial,Panama (Pacific)
+1651,2014,138,608,1,1288817.3059999999,1347247172.0,Philippines,Industrial,Philippines
+1652,2014,138,608,2,224397.2884,281304440.7,Philippines,Artisanal,Philippines
+1653,2014,138,608,3,502239.1005,916410911.5,Philippines,Subsistence,Philippines
+1654,2014,138,608,4,51.648,97117.07578,Philippines,Recreational,Philippines
+1655,2014,213,608,1,32404.15025,47504484.27,Unknown Fishing Country,Industrial,Philippines
+1656,2014,139,612,2,2.0,2867.2,Pitcairn (UK),Artisanal,Pitcairn (UK)
+1657,2014,139,612,3,1.0,1810.4,Pitcairn (UK),Subsistence,Pitcairn (UK)
+1658,2014,141,620,1,115599.5834,279494637.7,Portugal,Industrial,Portugal
+1659,2014,141,620,2,88.01996598,487441.7546,Portugal,Artisanal,Portugal
+1660,2014,141,620,3,65582.84009,164972213.0,Portugal,Subsistence,Portugal
+1661,2014,141,620,4,792.1796939,4386975.791999999,Portugal,Recreational,Portugal
+1662,2014,165,620,1,3150.739627,22013147.26,Spain,Industrial,Portugal
+1663,2014,141,621,1,5256.161734,18155166.94,Portugal,Industrial,Madeira Isl. (Portugal)
+1664,2014,148,621,1,0.000662143,0.640954179,Russian Federation,Industrial,Madeira Isl. (Portugal)
+1665,2014,165,621,1,69.20127556,357102.4104,Spain,Industrial,Madeira Isl. (Portugal)
+1666,2014,213,621,1,6.050379609,8869.856506999999,Unknown Fishing Country,Industrial,Madeira Isl. (Portugal)
+1667,2014,217,621,1,2211.063571,4489318.045,Madeira Isl. (Portugal),Industrial,Madeira Isl. (Portugal)
+1668,2014,217,621,2,130.635375,220042.1402,Madeira Isl. (Portugal),Artisanal,Madeira Isl. (Portugal)
+1669,2014,217,621,3,695.2981,1171159.665,Madeira Isl. (Portugal),Subsistence,Madeira Isl. (Portugal)
+1670,2014,217,621,4,418.0332,595697.31,Madeira Isl. (Portugal),Recreational,Madeira Isl. (Portugal)
+1671,2014,141,622,1,4197.057978,12560920.14,Portugal,Industrial,Azores Isl. (Portugal)
+1672,2014,148,622,1,101.35035129999999,49207.14009,Russian Federation,Industrial,Azores Isl. (Portugal)
+1673,2014,165,622,1,626.0191611,3558964.598,Spain,Industrial,Azores Isl. (Portugal)
+1674,2014,218,622,1,84.61299547,356440.8711,Azores Isl. (Portugal),Industrial,Azores Isl. (Portugal)
+1675,2014,218,622,3,7191.8663,24310505.04,Azores Isl. (Portugal),Subsistence,Azores Isl. (Portugal)
+1676,2014,218,622,4,18.59095152,69707.93957,Azores Isl. (Portugal),Recreational,Azores Isl. (Portugal)
+1677,2014,144,630,2,42.25,159905.9679,Puerto Rico (USA),Artisanal,Puerto Rico (USA)
+1678,2014,144,630,3,1063.64375,4432541.963,Puerto Rico (USA),Subsistence,Puerto Rico (USA)
+1679,2014,144,630,4,892.903,1360853.7130000002,Puerto Rico (USA),Recreational,Puerto Rico (USA)
+1680,2014,146,638,1,17.19691107,42185.878580000004,Réunion (France),Industrial,Réunion (France)
+1681,2014,146,638,3,1755.222929,8646825.726,Réunion (France),Subsistence,Réunion (France)
+1682,2014,146,638,4,577.4226723999999,2304581.492,Réunion (France),Recreational,Réunion (France)
+1683,2014,213,638,1,233.89442689999998,342889.2299,Unknown Fishing Country,Industrial,Réunion (France)
+1684,2014,147,642,1,1953.0,1847538.0,Romania,Industrial,Romania
+1685,2014,147,642,2,576.7297881,1426494.9919999999,Romania,Artisanal,Romania
+1686,2014,147,642,3,248.2005,566017.3959,Romania,Subsistence,Romania
+1687,2014,178,642,1,366.66666660000004,2899366.666,Turkey,Industrial,Romania
+1688,2014,148,647,1,98179.22153,66959741.16,Russian Federation,Industrial,Russia (Black Sea)
+1689,2014,148,647,2,2935.2624260000002,4627793.446,Russian Federation,Artisanal,Russia (Black Sea)
+1690,2014,148,647,3,17632.996069999997,23162445.38,Russian Federation,Subsistence,Russia (Black Sea)
+1691,2014,148,647,4,1294.707344,2041261.493,Russian Federation,Recreational,Russia (Black Sea)
+1692,2014,148,912,2,1647.501359,2374214.588,Russian Federation,Artisanal,Russia (Kara Sea)
+1693,2014,148,913,2,5794.123640999999,7891938.863,Russian Federation,Artisanal,Russia (Laptev to Chukchi Sea)
+1694,2014,150,659,2,575.81312,1719427.159,Saint Kitts & Nevis,Artisanal,Saint Kitts & Nevis
+1695,2014,150,659,3,1125.54468,4874887.7069999995,Saint Kitts & Nevis,Subsistence,Saint Kitts & Nevis
+1696,2014,150,659,4,1.074058515,3608.0310670000003,Saint Kitts & Nevis,Recreational,Saint Kitts & Nevis
+1697,2014,213,659,1,0.000631233,0.9253872870000001,Unknown Fishing Country,Industrial,Saint Kitts & Nevis
+1698,2014,151,660,2,659.45827,3763144.7610000004,Anguilla (UK),Artisanal,Anguilla (UK)
+1699,2014,151,660,3,810.15705,4358348.537,Anguilla (UK),Subsistence,Anguilla (UK)
+1700,2014,151,660,4,14.1854,40520.5951,Anguilla (UK),Recreational,Anguilla (UK)
+1701,2014,213,660,1,0.006165436,9.038528696,Unknown Fishing Country,Industrial,Anguilla (UK)
+1702,2014,152,662,1,327.51285099999996,773493.6115,Saint Lucia,Industrial,Saint Lucia
+1703,2014,152,662,2,308.06412630000005,610317.4245,Saint Lucia,Artisanal,Saint Lucia
+1704,2014,152,662,3,1208.173023,2433445.957,Saint Lucia,Subsistence,Saint Lucia
+1705,2014,152,662,4,7.774,17025.480219999998,Saint Lucia,Recreational,Saint Lucia
+1706,2014,213,662,1,0.249651221,365.98869039999994,Unknown Fishing Country,Industrial,Saint Lucia
+1707,2014,153,666,1,407.9756355,867274.546,Saint Pierre & Miquelon (France),Industrial,Saint Pierre & Miquelon (France)
+1708,2014,153,666,2,3.763636364,2284.527273,Saint Pierre & Miquelon (France),Artisanal,Saint Pierre & Miquelon (France)
+1709,2014,153,666,3,1308.579023,3461310.5710000005,Saint Pierre & Miquelon (France),Subsistence,Saint Pierre & Miquelon (France)
+1710,2014,153,666,4,1651.69,2421377.54,Saint Pierre & Miquelon (France),Recreational,Saint Pierre & Miquelon (France)
+1711,2014,213,666,1,37.06174161,54332.513210000005,Unknown Fishing Country,Industrial,Saint Pierre & Miquelon (France)
+1712,2014,156,683,1,15351.32079,37026025.2,Saudi Arabia,Industrial,Saudi Arabia (Red Sea)
+1713,2014,156,683,2,2126.6640390000002,7703549.692000001,Saudi Arabia,Artisanal,Saudi Arabia (Red Sea)
+1714,2014,156,683,3,21266.64039,77035496.92,Saudi Arabia,Subsistence,Saudi Arabia (Red Sea)
+1715,2014,156,683,4,2350.797873,9096412.367999999,Saudi Arabia,Recreational,Saudi Arabia (Red Sea)
+1716,2014,156,684,1,779.1119133999999,1523725.7580000001,Saudi Arabia,Industrial,Saudi Arabia (Persian Gulf)
+1717,2014,156,684,2,4625.667519,18660813.27,Saudi Arabia,Artisanal,Saudi Arabia (Persian Gulf)
+1718,2014,156,684,3,46256.675189999994,186608132.7,Saudi Arabia,Subsistence,Saudi Arabia (Persian Gulf)
+1719,2014,156,684,4,2429.964125,9402746.181,Saudi Arabia,Recreational,Saudi Arabia (Persian Gulf)
+1720,2014,160,702,2,46.41619761,105013.2946,Singapore,Artisanal,Singapore
+1721,2014,160,702,3,1000.9389150000001,2264552.0,Singapore,Subsistence,Singapore
+1722,2014,160,702,4,2722.046281,5693533.52,Singapore,Recreational,Singapore
+1723,2014,213,702,1,0.181034723,265.3969042,Unknown Fishing Country,Industrial,Singapore
+1724,2014,162,705,1,116.775,254009.206,Slovenia,Industrial,Slovenia
+1725,2014,162,705,2,58.43461579,85665.14674,Slovenia,Artisanal,Slovenia
+1726,2014,162,705,3,157.63,1232524.855,Slovenia,Subsistence,Slovenia
+1727,2014,162,705,4,5.675,38690.955,Slovenia,Recreational,Slovenia
+1728,2014,164,856,1,0.383166374,480.1074666999999,South Africa,Industrial,Tristan da Cunha Isl. (UK)
+1729,2014,213,856,1,10.37087213,15203.69855,Unknown Fishing Country,Industrial,Tristan da Cunha Isl. (UK)
+1730,2014,220,856,1,439.5902197,8166864.333,Tristan da Cunha Isl. (UK),Industrial,Tristan da Cunha Isl. (UK)
+1731,2014,220,856,3,49.54418338,74051.21375,Tristan da Cunha Isl. (UK),Subsistence,Tristan da Cunha Isl. (UK)
+1732,2014,164,953,1,609644.0252,524580953.5,South Africa,Industrial,South Africa (Atlantic Coast)
+1733,2014,164,953,2,1469.822906,5452499.211,South Africa,Artisanal,South Africa (Atlantic Coast)
+1734,2014,164,953,3,37523.01167,141451805.9,South Africa,Subsistence,South Africa (Atlantic Coast)
+1735,2014,164,953,4,2116.2125760000004,5359299.896000001,South Africa,Recreational,South Africa (Atlantic Coast)
+1736,2014,213,953,1,107.97368020000002,158289.4152,Unknown Fishing Country,Industrial,South Africa (Atlantic Coast)
+1737,2014,164,954,1,727.3582508999999,2598282.563,South Africa,Industrial,South Africa (Indian Ocean Coast)
+1738,2014,164,954,2,2729.671112,10126069.96,South Africa,Artisanal,South Africa (Indian Ocean Coast)
+1739,2014,164,954,3,1283.7271150000001,3856210.348,South Africa,Subsistence,South Africa (Indian Ocean Coast)
+1740,2014,164,954,4,3930.1090700000004,9952985.522,South Africa,Recreational,South Africa (Indian Ocean Coast)
+1741,2014,213,954,1,96.60941084,141629.3963,Unknown Fishing Country,Industrial,South Africa (Indian Ocean Coast)
+1742,2014,165,723,1,10211.52492,25893295.81,Spain,Industrial,Canary Isl. (Spain)
+1743,2014,165,723,2,119.24984620000001,291016.6369,Spain,Artisanal,Canary Isl. (Spain)
+1744,2014,165,723,3,20020.82205,46779434.08,Spain,Subsistence,Canary Isl. (Spain)
+1745,2014,165,723,4,47063.34493,169877685.0,Spain,Recreational,Canary Isl. (Spain)
+1746,2014,213,723,1,8.011547216,11744.92822,Unknown Fishing Country,Industrial,Canary Isl. (Spain)
+1747,2014,165,903,1,10099.28209,31271584.86,Spain,Industrial,Balearic Island (Spain)
+1748,2014,165,903,2,125.62,890482.7192,Spain,Artisanal,Balearic Island (Spain)
+1749,2014,165,903,3,1209.894627,12584647.04,Spain,Subsistence,Balearic Island (Spain)
+1750,2014,165,903,4,1800.344672,5609967.617000001,Spain,Recreational,Balearic Island (Spain)
+1751,2014,213,903,1,1016.333903,1489945.5019999999,Unknown Fishing Country,Industrial,Balearic Island (Spain)
+1752,2014,167,736,2,150.5874761,522312.5574,Sudan,Artisanal,Sudan
+1753,2014,167,736,3,1722.3259460000002,5731782.478999999,Sudan,Subsistence,Sudan
+1754,2014,167,916,1,201.49448619999998,213382.6609,Sudan,Industrial,Yemen (Red Sea)
+1755,2014,182,916,1,13425.083059999999,39030189.01,Egypt,Industrial,Yemen (Red Sea)
+1756,2014,193,916,2,6802.4783019999995,7860869.451,Yemen,Artisanal,Yemen (Red Sea)
+1757,2014,193,916,3,32507.566239999996,56924427.06,Yemen,Subsistence,Yemen (Red Sea)
+1758,2014,167,917,1,986.4262558,1044625.405,Sudan,Industrial,Yemen (Arabian Sea)
+1759,2014,193,917,1,38910.71478,85077731.91,Yemen,Industrial,Yemen (Arabian Sea)
+1760,2014,193,917,2,62317.59835,67888614.04,Yemen,Artisanal,Yemen (Arabian Sea)
+1761,2014,193,917,3,379885.2153,403553541.1,Yemen,Subsistence,Yemen (Arabian Sea)
+1762,2014,170,760,1,1153.68,3174787.329,Syrian Arab Republic,Industrial,Syria
+1763,2014,170,760,2,77.78914217,263478.8963,Syrian Arab Republic,Artisanal,Syria
+1764,2014,170,760,3,4008.91,7078784.476,Syrian Arab Republic,Subsistence,Syria
+1765,2014,213,760,1,569.0666052,834251.6432,Unknown Fishing Country,Industrial,Syria
+1766,2014,171,956,1,249125.4743,460638483.4,Thailand,Industrial,Thailand (Andaman Sea)
+1767,2014,171,956,2,38807.65997,72082863.91,Thailand,Artisanal,Thailand (Andaman Sea)
+1768,2014,171,956,3,155230.6399,288331455.6,Thailand,Subsistence,Thailand (Andaman Sea)
+1769,2014,171,956,4,15724.234330000001,25675451.26,Thailand,Recreational,Thailand (Andaman Sea)
+1770,2014,213,956,1,15.07285842,22096.81045,Unknown Fishing Country,Industrial,Thailand (Andaman Sea)
+1771,2014,171,957,1,885449.5369,1303232716.0,Thailand,Industrial,Thailand (Gulf of Thailand)
+1772,2014,171,957,2,85451.60389,127449484.3,Thailand,Artisanal,Thailand (Gulf of Thailand)
+1773,2014,171,957,3,341806.4156,509797937.0,Thailand,Subsistence,Thailand (Gulf of Thailand)
+1774,2014,213,957,1,115.650751,169544.00100000002,Unknown Fishing Country,Industrial,Thailand (Gulf of Thailand)
+1775,2014,175,862,1,708.3713607999999,1785282.635,Trinidad & Tobago,Industrial,Venezuela
+1776,2014,190,862,1,11840.14428,30738996.7,Venezuela,Industrial,Venezuela
+1777,2014,190,862,2,2280.184421,3528713.086,Venezuela,Artisanal,Venezuela
+1778,2014,190,862,3,116999.4618,211958749.2,Venezuela,Subsistence,Venezuela
+1779,2014,213,862,1,0.004131333,6.056534404,Unknown Fishing Country,Industrial,Venezuela
+1780,2014,176,784,2,104.11641259999999,641903.7129,United Arab Emirates,Artisanal,United Arab Emirates
+1781,2014,176,784,3,44570.080969999995,231894012.3,United Arab Emirates,Subsistence,United Arab Emirates
+1782,2014,176,784,4,944.3564044,2305882.25,United Arab Emirates,Recreational,United Arab Emirates
+1783,2014,176,968,2,2.42389732,5050.655954999999,United Arab Emirates,Artisanal,United Arab Emirates (Fujairah)
+1784,2014,176,968,3,29850.43307,73682088.46,United Arab Emirates,Subsistence,United Arab Emirates (Fujairah)
+1785,2014,176,968,4,32.775,89313.51375,United Arab Emirates,Recreational,United Arab Emirates (Fujairah)
+1786,2014,177,788,1,95786.58405,136736995.0,Tunisia,Industrial,Tunisia
+1787,2014,177,788,3,33861.311519999996,81389990.1,Tunisia,Subsistence,Tunisia
+1788,2014,177,788,4,67.37967909,164434.7164,Tunisia,Recreational,Tunisia
+1789,2014,182,788,1,340.3992945,591886.1208,Egypt,Industrial,Tunisia
+1790,2014,213,788,1,29.7817596,43660.05957,Unknown Fishing Country,Industrial,Tunisia
+1791,2014,223,788,1,896.0341867000001,1319774.308,Fishing Country Unknown,Industrial,Tunisia
+1792,2014,178,793,1,74928.26822,129139870.8,Turkey,Industrial,Turkey (Mediterranean Sea)
+1793,2014,178,793,2,741.4261719,3331249.652,Turkey,Artisanal,Turkey (Mediterranean Sea)
+1794,2014,178,793,3,11714.50405,37308717.78,Turkey,Subsistence,Turkey (Mediterranean Sea)
+1795,2014,178,793,4,6672.835547,29981246.87,Turkey,Recreational,Turkey (Mediterranean Sea)
+1796,2014,182,793,1,1433.810683,2170078.488,Egypt,Industrial,Turkey (Mediterranean Sea)
+1797,2014,213,793,1,225.89402400000003,331160.6392,Unknown Fishing Country,Industrial,Turkey (Mediterranean Sea)
+1798,2014,178,794,1,261552.1107,316069541.0,Turkey,Industrial,Turkey (Black Sea)
+1799,2014,178,794,2,119.2752348,193948.6882,Turkey,Artisanal,Turkey (Black Sea)
+1800,2014,178,794,3,21721.0182,40003499.49,Turkey,Subsistence,Turkey (Black Sea)
+1801,2014,178,794,4,1073.4771130000001,1745538.1940000001,Turkey,Recreational,Turkey (Black Sea)
+1802,2014,178,804,1,366.66666660000004,2899366.666,Turkey,Industrial,Ukraine
+1803,2014,181,804,1,29521.94,19446996.31,Ukraine,Industrial,Ukraine
+1804,2014,181,804,2,6668.3463,6502971.312000001,Ukraine,Artisanal,Ukraine
+1805,2014,181,804,3,3775.5360090000004,2981427.52,Ukraine,Subsistence,Ukraine
+1806,2014,181,804,4,15559.4747,15173599.73,Ukraine,Recreational,Ukraine
+1807,2014,178,966,1,45709.4141,67862814.48,Turkey,Industrial,Turkey (Marmara Sea)
+1808,2014,178,966,2,5948.513612,14777577.45,Turkey,Artisanal,Turkey (Marmara Sea)
+1809,2014,178,966,3,4548.92465,19811150.47,Turkey,Subsistence,Turkey (Marmara Sea)
+1810,2014,178,966,4,53536.62251,132998197.1,Turkey,Recreational,Turkey (Marmara Sea)
+1811,2014,182,933,1,68761.18861,82764843.67,Egypt,Industrial,Egypt (Mediterranean)
+1812,2014,182,933,2,21414.53,37681063.47,Egypt,Artisanal,Egypt (Mediterranean)
+1813,2014,182,933,3,24714.985,62362998.57,Egypt,Subsistence,Egypt (Mediterranean)
+1814,2014,182,933,4,1630.6,2568662.4,Egypt,Recreational,Egypt (Mediterranean)
+1815,2014,213,933,1,261.8634453,383891.8108,Unknown Fishing Country,Industrial,Egypt (Mediterranean)
+1816,2014,182,934,1,90281.7,134835935.1,Egypt,Industrial,Egypt (Red Sea)
+1817,2014,182,934,2,2869.0,4823269.0,Egypt,Artisanal,Egypt (Red Sea)
+1818,2014,182,934,3,100.6,374942.82,Egypt,Subsistence,Egypt (Red Sea)
+1819,2014,182,934,4,694.0,1814210.0,Egypt,Recreational,Egypt (Red Sea)
+1820,2014,186,834,1,3828.4251719999997,10791428.5,Tanzania,Industrial,Tanzania
+1821,2014,186,834,2,17566.41686,26390672.95,Tanzania,Artisanal,Tanzania
+1822,2014,186,834,3,113957.2698,229655140.1,Tanzania,Subsistence,Tanzania
+1823,2014,213,834,1,48.81228783,71558.81396,Unknown Fishing Country,Industrial,Tanzania
+1824,2014,187,488,1,774.571496,2841833.1960000005,USA,Industrial,Hawaii Northwest Islands (USA)
+1825,2014,187,842,1,2785.614322,10607581.87,USA,Industrial,Hawaii Main Islands (USA)
+1826,2014,187,842,3,653.9955823,3935700.008,USA,Subsistence,Hawaii Main Islands (USA)
+1827,2014,187,842,4,37450.453760000004,196453450.5,USA,Recreational,Hawaii Main Islands (USA)
+1828,2014,187,844,1,347.24117010000003,1458363.904,USA,Industrial,Palmyra Atoll & Kingman Reef (USA)
+1829,2014,187,845,1,2156.6430149999997,8410605.079,USA,Industrial,Jarvis Isl. (USA)
+1830,2014,187,846,1,11394.05254,39347753.21,USA,Industrial,Howland & Baker Isl. (USA)
+1831,2014,213,846,1,3717.0558869999995,5449203.93,Unknown Fishing Country,Industrial,Howland & Baker Isl. (USA)
+1832,2014,187,852,1,887315.5571,1974709822.0,USA,Industrial,USA (Gulf of Mexico)
+1833,2014,187,852,3,109325.1335,683130309.3,USA,Subsistence,USA (Gulf of Mexico)
+1834,2014,187,852,4,26670.12527,89282900.9,USA,Recreational,USA (Gulf of Mexico)
+1835,2014,187,872,1,9.637736083,37178.664339999996,USA,Industrial,Wake Isl. (USA)
+1836,2014,187,876,1,731.9600349,1430530.3569999998,USA,Industrial,Wallis & Futuna Isl. (France)
+1837,2014,191,876,2,680.0,3679666.026,Wallis & Futuna Isl. (France),Artisanal,Wallis & Futuna Isl. (France)
+1838,2014,191,876,3,150.0,688536.6396,Wallis & Futuna Isl. (France),Subsistence,Wallis & Futuna Isl. (France)
+1839,2014,213,876,1,587.9257847,861899.2004,Unknown Fishing Country,Industrial,Wallis & Futuna Isl. (France)
+1840,2014,187,958,2,638.1797882000001,1363472.336,USA,Artisanal,"USA (Alaska, Arctic)"
+1841,2014,187,958,3,789.6907577000001,1687175.811,USA,Subsistence,"USA (Alaska, Arctic)"
+1842,2014,187,959,1,2169115.51,1093290041.0,USA,Industrial,"USA (Alaska, Subarctic)"
+1843,2014,187,959,2,4046.7678479999995,13494477.79,USA,Artisanal,"USA (Alaska, Subarctic)"
+1844,2014,187,959,3,490117.448,729745154.3,USA,Subsistence,"USA (Alaska, Subarctic)"
+1845,2014,187,959,4,6742.067473,35544658.01,USA,Recreational,"USA (Alaska, Subarctic)"
+1846,2014,189,858,1,67405.6,85107441.73,Uruguay,Industrial,Uruguay
+1847,2014,189,858,2,1862.3699920000001,2822373.0530000003,Uruguay,Artisanal,Uruguay
+1848,2014,189,858,3,35385.029839999996,50735078.41,Uruguay,Subsistence,Uruguay
+1849,2014,189,858,4,160.0333488,208930.6165,Uruguay,Recreational,Uruguay
+1850,2014,213,858,1,4.399180895,6449.199191,Unknown Fishing Country,Industrial,Uruguay
+1851,2014,190,906,1,154.5299017,398579.1979,Venezuela,Industrial,Curacao (Netherlands)
+1852,2014,214,906,2,104.6739585,302662.3239,Curacao,Artisanal,Curacao (Netherlands)
+1853,2014,214,906,3,429.0604626,1808755.966,Curacao,Subsistence,Curacao (Netherlands)
+1854,2014,214,906,4,5.949265754,12969.940190000001,Curacao,Recreational,Curacao (Netherlands)
+1855,2014,207,197,2,245.90400000000002,1166258.726,North Cyprus,Artisanal,Cyprus (North)
+1856,2014,207,197,3,421.265936,3013295.522,North Cyprus,Subsistence,Cyprus (North)
+1857,2014,207,197,4,368.856,1749388.0890000002,North Cyprus,Recreational,Cyprus (North)
+1858,2014,213,197,1,117.5594879,172342.2093,Unknown Fishing Country,Industrial,Cyprus (North)
+1859,2014,209,904,2,225.0,1222793.592,St Barthelemy (France),Artisanal,St Barthelemy (France)
+1860,2014,209,904,3,270.8333333,1485442.168,St Barthelemy (France),Subsistence,St Barthelemy (France)
+1861,2014,209,904,4,28.21048717,60584.84224,St Barthelemy (France),Recreational,St Barthelemy (France)
+1862,2014,213,904,1,0.000443865,0.65070665,Unknown Fishing Country,Industrial,St Barthelemy (France)
+1863,2014,210,905,2,202.5,1100514.233,St Martin,Artisanal,St Martin (France)
+1864,2014,210,905,3,243.75,1336897.951,St Martin,Subsistence,St Martin (France)
+1865,2014,210,905,4,105.760481,227131.2089,St Martin,Recreational,St Martin (France)
+1866,2014,213,905,1,9.08e-05,0.133046095,Unknown Fishing Country,Industrial,St Martin (France)
+1867,2014,213,855,1,140.5856267,206098.5287,Unknown Fishing Country,Industrial,Ascension Isl. (UK)
+1868,2014,219,855,3,32.764,67968.83798,Ascension Isl. (UK),Subsistence,Ascension Isl. (UK)
+1869,2014,213,908,1,0.000415985,0.609834448,Unknown Fishing Country,Industrial,Saba and Sint Eustaius (Netherlands)
+1870,2014,215,908,1,220.0871702,332771.8014,Sint Maarten,Industrial,Saba and Sint Eustaius (Netherlands)
+1871,2014,221,908,2,66.51854764,641363.3248,Saba and Saint Eustaius (Netherlands),Artisanal,Saba and Sint Eustaius (Netherlands)
+1872,2014,221,908,3,96.48597597,957219.1418,Saba and Saint Eustaius (Netherlands),Subsistence,Saba and Sint Eustaius (Netherlands)
+1873,2014,221,908,4,7.139553961,21344.604069999998,Saba and Saint Eustaius (Netherlands),Recreational,Saba and Sint Eustaius (Netherlands)
